@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "cdnBase": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards",
-  "generatedAt": "2026-05-26T00:24:35.401437",
+  "cdnBase": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards",
+  "generatedAt": "2026-05-26T00:53:30.151781",
   "playableCount": 75,
   "totalCount": 432,
   "cards": [
@@ -14,7 +14,7 @@
       "hp": 250,
       "atk": 88,
       "def": 63,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA10a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA10a.webp",
       "playable": false
     },
     {
@@ -26,7 +26,7 @@
       "hp": 253,
       "atk": 89,
       "def": 63,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA10b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA10b.webp",
       "playable": true
     },
     {
@@ -38,7 +38,7 @@
       "hp": 255,
       "atk": 91,
       "def": 64,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA10c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA10c.webp",
       "playable": false
     },
     {
@@ -50,7 +50,7 @@
       "hp": 258,
       "atk": 93,
       "def": 65,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA10d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA10d.webp",
       "playable": false
     },
     {
@@ -62,7 +62,7 @@
       "hp": 313,
       "atk": 137,
       "def": 78,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA10ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA10ds.webp",
       "playable": false
     },
     {
@@ -74,7 +74,7 @@
       "hp": 260,
       "atk": 95,
       "def": 65,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA10e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA10e.webp",
       "playable": false
     },
     {
@@ -86,7 +86,7 @@
       "hp": 313,
       "atk": 137,
       "def": 78,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA10es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA10es.webp",
       "playable": false
     },
     {
@@ -98,7 +98,7 @@
       "hp": 265,
       "atk": 93,
       "def": 66,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA11a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA11a.webp",
       "playable": false
     },
     {
@@ -110,7 +110,7 @@
       "hp": 268,
       "atk": 95,
       "def": 67,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA11b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA11b.webp",
       "playable": false
     },
     {
@@ -122,7 +122,7 @@
       "hp": 270,
       "atk": 96,
       "def": 68,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA11c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA11c.webp",
       "playable": false
     },
     {
@@ -134,7 +134,7 @@
       "hp": 273,
       "atk": 98,
       "def": 68,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA11d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA11d.webp",
       "playable": false
     },
     {
@@ -146,7 +146,7 @@
       "hp": 331,
       "atk": 145,
       "def": 83,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA11ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA11ds.webp",
       "playable": true
     },
     {
@@ -158,7 +158,7 @@
       "hp": 276,
       "atk": 100,
       "def": 69,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA11e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA11e.webp",
       "playable": false
     },
     {
@@ -170,7 +170,7 @@
       "hp": 331,
       "atk": 145,
       "def": 83,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA11es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA11es.webp",
       "playable": true
     },
     {
@@ -182,7 +182,7 @@
       "hp": 280,
       "atk": 98,
       "def": 70,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA12a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA12a.webp",
       "playable": false
     },
     {
@@ -194,7 +194,7 @@
       "hp": 283,
       "atk": 100,
       "def": 71,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA12b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA12b.webp",
       "playable": true
     },
     {
@@ -206,7 +206,7 @@
       "hp": 286,
       "atk": 102,
       "def": 72,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA12c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA12c.webp",
       "playable": false
     },
     {
@@ -218,7 +218,7 @@
       "hp": 288,
       "atk": 104,
       "def": 72,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA12d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA12d.webp",
       "playable": false
     },
     {
@@ -230,7 +230,7 @@
       "hp": 350,
       "atk": 153,
       "def": 88,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA12ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA12ds.webp",
       "playable": false
     },
     {
@@ -242,7 +242,7 @@
       "hp": 291,
       "atk": 106,
       "def": 73,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA12e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA12e.webp",
       "playable": false
     },
     {
@@ -254,7 +254,7 @@
       "hp": 350,
       "atk": 153,
       "def": 88,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA12es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA12es.webp",
       "playable": false
     },
     {
@@ -266,7 +266,7 @@
       "hp": 295,
       "atk": 103,
       "def": 74,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA13a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA13a.webp",
       "playable": false
     },
     {
@@ -278,7 +278,7 @@
       "hp": 298,
       "atk": 105,
       "def": 75,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA13b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA13b.webp",
       "playable": false
     },
     {
@@ -290,7 +290,7 @@
       "hp": 301,
       "atk": 107,
       "def": 75,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA13c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA13c.webp",
       "playable": false
     },
     {
@@ -302,7 +302,7 @@
       "hp": 304,
       "atk": 110,
       "def": 76,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA13d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA13d.webp",
       "playable": false
     },
     {
@@ -314,7 +314,7 @@
       "hp": 369,
       "atk": 161,
       "def": 92,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA13ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA13ds.webp",
       "playable": true
     },
     {
@@ -326,7 +326,7 @@
       "hp": 307,
       "atk": 112,
       "def": 77,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA13e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA13e.webp",
       "playable": false
     },
     {
@@ -338,7 +338,7 @@
       "hp": 369,
       "atk": 161,
       "def": 92,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA13es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA13es.webp",
       "playable": false
     },
     {
@@ -350,7 +350,7 @@
       "hp": 310,
       "atk": 109,
       "def": 78,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA14a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA14a.webp",
       "playable": false
     },
     {
@@ -362,7 +362,7 @@
       "hp": 313,
       "atk": 111,
       "def": 78,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA14b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA14b.webp",
       "playable": false
     },
     {
@@ -374,7 +374,7 @@
       "hp": 316,
       "atk": 113,
       "def": 79,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA14c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA14c.webp",
       "playable": false
     },
     {
@@ -386,7 +386,7 @@
       "hp": 319,
       "atk": 115,
       "def": 80,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA14d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA14d.webp",
       "playable": true
     },
     {
@@ -398,7 +398,7 @@
       "hp": 388,
       "atk": 170,
       "def": 97,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA14ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA14ds.webp",
       "playable": false
     },
     {
@@ -410,7 +410,7 @@
       "hp": 322,
       "atk": 117,
       "def": 81,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA14e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA14e.webp",
       "playable": false
     },
     {
@@ -422,7 +422,7 @@
       "hp": 388,
       "atk": 170,
       "def": 97,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA14es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA14es.webp",
       "playable": false
     },
     {
@@ -434,7 +434,7 @@
       "hp": 325,
       "atk": 114,
       "def": 81,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA15a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA15a.webp",
       "playable": true
     },
     {
@@ -446,7 +446,7 @@
       "hp": 328,
       "atk": 116,
       "def": 82,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA15b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA15b.webp",
       "playable": false
     },
     {
@@ -458,7 +458,7 @@
       "hp": 332,
       "atk": 119,
       "def": 83,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA15c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA15c.webp",
       "playable": false
     },
     {
@@ -470,7 +470,7 @@
       "hp": 335,
       "atk": 121,
       "def": 84,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA15d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA15d.webp",
       "playable": false
     },
     {
@@ -482,7 +482,7 @@
       "hp": 406,
       "atk": 178,
       "def": 102,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA15ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA15ds.webp",
       "playable": false
     },
     {
@@ -494,7 +494,7 @@
       "hp": 338,
       "atk": 123,
       "def": 85,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA15e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA15e.webp",
       "playable": false
     },
     {
@@ -506,7 +506,7 @@
       "hp": 406,
       "atk": 178,
       "def": 102,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA15es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA15es.webp",
       "playable": false
     },
     {
@@ -518,7 +518,7 @@
       "hp": 115,
       "atk": 40,
       "def": 29,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA1a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA1a.webp",
       "playable": false
     },
     {
@@ -530,7 +530,7 @@
       "hp": 116,
       "atk": 41,
       "def": 29,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA1b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA1b.webp",
       "playable": false
     },
     {
@@ -542,7 +542,7 @@
       "hp": 117,
       "atk": 42,
       "def": 29,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA1c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA1c.webp",
       "playable": false
     },
     {
@@ -554,7 +554,7 @@
       "hp": 118,
       "atk": 43,
       "def": 30,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA1d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA1d.webp",
       "playable": true
     },
     {
@@ -566,7 +566,7 @@
       "hp": 144,
       "atk": 63,
       "def": 36,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA1ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA1ds.webp",
       "playable": false
     },
     {
@@ -578,7 +578,7 @@
       "hp": 120,
       "atk": 44,
       "def": 30,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA1e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA1e.webp",
       "playable": false
     },
     {
@@ -590,7 +590,7 @@
       "hp": 144,
       "atk": 63,
       "def": 36,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA1es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA1es.webp",
       "playable": false
     },
     {
@@ -602,7 +602,7 @@
       "hp": 130,
       "atk": 46,
       "def": 33,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA2a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA2a.webp",
       "playable": false
     },
     {
@@ -614,7 +614,7 @@
       "hp": 131,
       "atk": 46,
       "def": 33,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA2b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA2b.webp",
       "playable": false
     },
     {
@@ -626,7 +626,7 @@
       "hp": 133,
       "atk": 47,
       "def": 33,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA2c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA2c.webp",
       "playable": false
     },
     {
@@ -638,7 +638,7 @@
       "hp": 134,
       "atk": 48,
       "def": 34,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA2d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA2d.webp",
       "playable": false
     },
     {
@@ -650,7 +650,7 @@
       "hp": 163,
       "atk": 71,
       "def": 41,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA2ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA2ds.webp",
       "playable": false
     },
     {
@@ -662,7 +662,7 @@
       "hp": 135,
       "atk": 49,
       "def": 34,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA2e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA2e.webp",
       "playable": false
     },
     {
@@ -674,7 +674,7 @@
       "hp": 163,
       "atk": 71,
       "def": 41,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA2es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA2es.webp",
       "playable": false
     },
     {
@@ -686,7 +686,7 @@
       "hp": 145,
       "atk": 51,
       "def": 36,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA3a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA3a.webp",
       "playable": false
     },
     {
@@ -698,7 +698,7 @@
       "hp": 146,
       "atk": 52,
       "def": 37,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA3b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA3b.webp",
       "playable": false
     },
     {
@@ -710,7 +710,7 @@
       "hp": 148,
       "atk": 53,
       "def": 37,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA3c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA3c.webp",
       "playable": true
     },
     {
@@ -722,7 +722,7 @@
       "hp": 149,
       "atk": 54,
       "def": 37,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA3d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA3d.webp",
       "playable": false
     },
     {
@@ -734,7 +734,7 @@
       "hp": 181,
       "atk": 79,
       "def": 45,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA3ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA3ds.webp",
       "playable": false
     },
     {
@@ -746,7 +746,7 @@
       "hp": 151,
       "atk": 55,
       "def": 38,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA3e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA3e.webp",
       "playable": false
     },
     {
@@ -758,7 +758,7 @@
       "hp": 181,
       "atk": 79,
       "def": 45,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA3es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA3es.webp",
       "playable": false
     },
     {
@@ -770,7 +770,7 @@
       "hp": 160,
       "atk": 56,
       "def": 40,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA4a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA4a.webp",
       "playable": false
     },
     {
@@ -782,7 +782,7 @@
       "hp": 162,
       "atk": 57,
       "def": 41,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA4b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA4b.webp",
       "playable": false
     },
     {
@@ -794,7 +794,7 @@
       "hp": 163,
       "atk": 58,
       "def": 41,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA4c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA4c.webp",
       "playable": false
     },
     {
@@ -806,7 +806,7 @@
       "hp": 165,
       "atk": 59,
       "def": 41,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA4d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA4d.webp",
       "playable": false
     },
     {
@@ -818,7 +818,7 @@
       "hp": 200,
       "atk": 88,
       "def": 50,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA4ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA4ds.webp",
       "playable": false
     },
     {
@@ -830,7 +830,7 @@
       "hp": 166,
       "atk": 60,
       "def": 42,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA4e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA4e.webp",
       "playable": false
     },
     {
@@ -842,7 +842,7 @@
       "hp": 200,
       "atk": 88,
       "def": 50,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA4es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA4es.webp",
       "playable": false
     },
     {
@@ -854,7 +854,7 @@
       "hp": 175,
       "atk": 61,
       "def": 44,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA5a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA5a.webp",
       "playable": false
     },
     {
@@ -866,7 +866,7 @@
       "hp": 177,
       "atk": 63,
       "def": 44,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA5b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA5b.webp",
       "playable": false
     },
     {
@@ -878,7 +878,7 @@
       "hp": 179,
       "atk": 64,
       "def": 45,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA5c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA5c.webp",
       "playable": false
     },
     {
@@ -890,7 +890,7 @@
       "hp": 180,
       "atk": 65,
       "def": 45,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA5d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA5d.webp",
       "playable": false
     },
     {
@@ -902,7 +902,7 @@
       "hp": 219,
       "atk": 96,
       "def": 55,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA5ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA5ds.webp",
       "playable": false
     },
     {
@@ -914,7 +914,7 @@
       "hp": 182,
       "atk": 66,
       "def": 46,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA5e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA5e.webp",
       "playable": false
     },
     {
@@ -926,7 +926,7 @@
       "hp": 219,
       "atk": 96,
       "def": 55,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA5es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA5es.webp",
       "playable": false
     },
     {
@@ -938,7 +938,7 @@
       "hp": 194,
       "atk": 69,
       "def": 49,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA6c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA6c.webp",
       "playable": false
     },
     {
@@ -950,7 +950,7 @@
       "hp": 196,
       "atk": 71,
       "def": 49,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA6d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA6d.webp",
       "playable": false
     },
     {
@@ -962,7 +962,7 @@
       "hp": 238,
       "atk": 104,
       "def": 60,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA6ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA6ds.webp",
       "playable": false
     },
     {
@@ -974,7 +974,7 @@
       "hp": 198,
       "atk": 72,
       "def": 50,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA6e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA6e.webp",
       "playable": false
     },
     {
@@ -986,7 +986,7 @@
       "hp": 238,
       "atk": 104,
       "def": 60,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA6es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA6es.webp",
       "playable": false
     },
     {
@@ -998,7 +998,7 @@
       "hp": 205,
       "atk": 72,
       "def": 51,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA7a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA7a.webp",
       "playable": false
     },
     {
@@ -1010,7 +1010,7 @@
       "hp": 207,
       "atk": 73,
       "def": 52,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA7b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA7b.webp",
       "playable": true
     },
     {
@@ -1022,7 +1022,7 @@
       "hp": 209,
       "atk": 75,
       "def": 52,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA7c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA7c.webp",
       "playable": false
     },
     {
@@ -1034,7 +1034,7 @@
       "hp": 211,
       "atk": 76,
       "def": 53,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA7d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA7d.webp",
       "playable": false
     },
     {
@@ -1046,7 +1046,7 @@
       "hp": 256,
       "atk": 112,
       "def": 64,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA7ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA7ds.webp",
       "playable": false
     },
     {
@@ -1058,7 +1058,7 @@
       "hp": 213,
       "atk": 78,
       "def": 53,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA7e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA7e.webp",
       "playable": false
     },
     {
@@ -1070,7 +1070,7 @@
       "hp": 256,
       "atk": 112,
       "def": 64,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA7es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA7es.webp",
       "playable": false
     },
     {
@@ -1082,7 +1082,7 @@
       "hp": 220,
       "atk": 77,
       "def": 55,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA8a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA8a.webp",
       "playable": false
     },
     {
@@ -1094,7 +1094,7 @@
       "hp": 222,
       "atk": 78,
       "def": 56,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA8b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA8b.webp",
       "playable": false
     },
     {
@@ -1106,7 +1106,7 @@
       "hp": 224,
       "atk": 80,
       "def": 56,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA8c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA8c.webp",
       "playable": false
     },
     {
@@ -1118,7 +1118,7 @@
       "hp": 227,
       "atk": 82,
       "def": 57,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA8d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA8d.webp",
       "playable": false
     },
     {
@@ -1130,7 +1130,7 @@
       "hp": 275,
       "atk": 120,
       "def": 69,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA8ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA8ds.webp",
       "playable": false
     },
     {
@@ -1142,7 +1142,7 @@
       "hp": 229,
       "atk": 83,
       "def": 57,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA8e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA8e.webp",
       "playable": false
     },
     {
@@ -1154,7 +1154,7 @@
       "hp": 275,
       "atk": 120,
       "def": 69,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA8es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA8es.webp",
       "playable": false
     },
     {
@@ -1166,7 +1166,7 @@
       "hp": 235,
       "atk": 82,
       "def": 59,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA9a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA9a.webp",
       "playable": false
     },
     {
@@ -1178,7 +1178,7 @@
       "hp": 237,
       "atk": 84,
       "def": 59,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA9b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA9b.webp",
       "playable": false
     },
     {
@@ -1190,7 +1190,7 @@
       "hp": 240,
       "atk": 86,
       "def": 60,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA9c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA9c.webp",
       "playable": false
     },
     {
@@ -1202,7 +1202,7 @@
       "hp": 242,
       "atk": 87,
       "def": 61,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA9d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA9d.webp",
       "playable": false
     },
     {
@@ -1214,7 +1214,7 @@
       "hp": 294,
       "atk": 129,
       "def": 74,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA9ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA9ds.webp",
       "playable": false
     },
     {
@@ -1226,7 +1226,7 @@
       "hp": 244,
       "atk": 89,
       "def": 61,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA9e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA9e.webp",
       "playable": false
     },
     {
@@ -1238,7 +1238,7 @@
       "hp": 294,
       "atk": 129,
       "def": 74,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiA9es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiA9es.webp",
       "playable": false
     },
     {
@@ -1250,7 +1250,7 @@
       "hp": 161,
       "atk": 56,
       "def": 40,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB1a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB1a.webp",
       "playable": true
     },
     {
@@ -1262,7 +1262,7 @@
       "hp": 163,
       "atk": 58,
       "def": 41,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB1b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB1b.webp",
       "playable": false
     },
     {
@@ -1274,7 +1274,7 @@
       "hp": 164,
       "atk": 59,
       "def": 41,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB1c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB1c.webp",
       "playable": false
     },
     {
@@ -1286,7 +1286,7 @@
       "hp": 166,
       "atk": 60,
       "def": 42,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB1d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB1d.webp",
       "playable": false
     },
     {
@@ -1298,7 +1298,7 @@
       "hp": 201,
       "atk": 88,
       "def": 50,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB1ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB1ds.webp",
       "playable": false
     },
     {
@@ -1310,7 +1310,7 @@
       "hp": 167,
       "atk": 61,
       "def": 42,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB1e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB1e.webp",
       "playable": false
     },
     {
@@ -1322,7 +1322,7 @@
       "hp": 201,
       "atk": 88,
       "def": 50,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB1es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB1es.webp",
       "playable": false
     },
     {
@@ -1334,7 +1334,7 @@
       "hp": 182,
       "atk": 64,
       "def": 46,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB2a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB2a.webp",
       "playable": false
     },
     {
@@ -1346,7 +1346,7 @@
       "hp": 184,
       "atk": 65,
       "def": 46,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB2b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB2b.webp",
       "playable": false
     },
     {
@@ -1358,7 +1358,7 @@
       "hp": 186,
       "atk": 66,
       "def": 47,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB2c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB2c.webp",
       "playable": false
     },
     {
@@ -1370,7 +1370,7 @@
       "hp": 187,
       "atk": 67,
       "def": 47,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB2d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB2d.webp",
       "playable": false
     },
     {
@@ -1382,7 +1382,7 @@
       "hp": 228,
       "atk": 100,
       "def": 57,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB2ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB2ds.webp",
       "playable": false
     },
     {
@@ -1394,7 +1394,7 @@
       "hp": 189,
       "atk": 69,
       "def": 47,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB2e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB2e.webp",
       "playable": true
     },
     {
@@ -1406,7 +1406,7 @@
       "hp": 228,
       "atk": 100,
       "def": 57,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB2es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB2es.webp",
       "playable": false
     },
     {
@@ -1418,7 +1418,7 @@
       "hp": 203,
       "atk": 71,
       "def": 51,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB3a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB3a.webp",
       "playable": false
     },
     {
@@ -1430,7 +1430,7 @@
       "hp": 205,
       "atk": 72,
       "def": 51,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB3b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB3b.webp",
       "playable": false
     },
     {
@@ -1442,7 +1442,7 @@
       "hp": 207,
       "atk": 74,
       "def": 52,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB3c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB3c.webp",
       "playable": true
     },
     {
@@ -1454,7 +1454,7 @@
       "hp": 209,
       "atk": 75,
       "def": 52,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB3d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB3d.webp",
       "playable": false
     },
     {
@@ -1466,7 +1466,7 @@
       "hp": 254,
       "atk": 111,
       "def": 64,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB3ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB3ds.webp",
       "playable": false
     },
     {
@@ -1478,7 +1478,7 @@
       "hp": 211,
       "atk": 77,
       "def": 53,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB3e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB3e.webp",
       "playable": false
     },
     {
@@ -1490,7 +1490,7 @@
       "hp": 254,
       "atk": 111,
       "def": 64,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB3es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB3es.webp",
       "playable": false
     },
     {
@@ -1502,7 +1502,7 @@
       "hp": 224,
       "atk": 78,
       "def": 56,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB4a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB4a.webp",
       "playable": false
     },
     {
@@ -1514,7 +1514,7 @@
       "hp": 226,
       "atk": 80,
       "def": 57,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB4b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB4b.webp",
       "playable": false
     },
     {
@@ -1526,7 +1526,7 @@
       "hp": 228,
       "atk": 81,
       "def": 57,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB4c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB4c.webp",
       "playable": true
     },
     {
@@ -1538,7 +1538,7 @@
       "hp": 231,
       "atk": 83,
       "def": 58,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB4d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB4d.webp",
       "playable": true
     },
     {
@@ -1550,7 +1550,7 @@
       "hp": 280,
       "atk": 123,
       "def": 70,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB4ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB4ds.webp",
       "playable": false
     },
     {
@@ -1562,7 +1562,7 @@
       "hp": 233,
       "atk": 85,
       "def": 58,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB4e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB4e.webp",
       "playable": false
     },
     {
@@ -1574,7 +1574,7 @@
       "hp": 280,
       "atk": 123,
       "def": 70,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB4es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB4es.webp",
       "playable": false
     },
     {
@@ -1586,7 +1586,7 @@
       "hp": 245,
       "atk": 86,
       "def": 61,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB5a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB5a.webp",
       "playable": false
     },
     {
@@ -1598,7 +1598,7 @@
       "hp": 247,
       "atk": 87,
       "def": 62,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB5b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB5b.webp",
       "playable": false
     },
     {
@@ -1610,7 +1610,7 @@
       "hp": 250,
       "atk": 89,
       "def": 63,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB5c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB5c.webp",
       "playable": false
     },
     {
@@ -1622,7 +1622,7 @@
       "hp": 252,
       "atk": 91,
       "def": 63,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB5d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB5d.webp",
       "playable": false
     },
     {
@@ -1634,7 +1634,7 @@
       "hp": 306,
       "atk": 134,
       "def": 77,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB5ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB5ds.webp",
       "playable": false
     },
     {
@@ -1646,7 +1646,7 @@
       "hp": 255,
       "atk": 93,
       "def": 64,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB5e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB5e.webp",
       "playable": false
     },
     {
@@ -1658,7 +1658,7 @@
       "hp": 306,
       "atk": 134,
       "def": 77,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB5es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB5es.webp",
       "playable": false
     },
     {
@@ -1670,7 +1670,7 @@
       "hp": 266,
       "atk": 93,
       "def": 67,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB6a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB6a.webp",
       "playable": false
     },
     {
@@ -1682,7 +1682,7 @@
       "hp": 269,
       "atk": 95,
       "def": 67,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB6b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB6b.webp",
       "playable": false
     },
     {
@@ -1694,7 +1694,7 @@
       "hp": 271,
       "atk": 97,
       "def": 68,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB6c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB6c.webp",
       "playable": false
     },
     {
@@ -1706,7 +1706,7 @@
       "hp": 274,
       "atk": 99,
       "def": 69,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB6d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB6d.webp",
       "playable": false
     },
     {
@@ -1718,7 +1718,7 @@
       "hp": 333,
       "atk": 146,
       "def": 83,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB6ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB6ds.webp",
       "playable": false
     },
     {
@@ -1730,7 +1730,7 @@
       "hp": 277,
       "atk": 101,
       "def": 69,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB6e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB6e.webp",
       "playable": false
     },
     {
@@ -1742,7 +1742,7 @@
       "hp": 333,
       "atk": 146,
       "def": 83,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB6es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB6es.webp",
       "playable": false
     },
     {
@@ -1754,7 +1754,7 @@
       "hp": 287,
       "atk": 100,
       "def": 72,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB7a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB7a.webp",
       "playable": true
     },
     {
@@ -1766,7 +1766,7 @@
       "hp": 290,
       "atk": 103,
       "def": 73,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB7b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB7b.webp",
       "playable": true
     },
     {
@@ -1778,7 +1778,7 @@
       "hp": 293,
       "atk": 105,
       "def": 73,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB7c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB7c.webp",
       "playable": false
     },
     {
@@ -1790,7 +1790,7 @@
       "hp": 296,
       "atk": 107,
       "def": 74,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB7d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB7d.webp",
       "playable": false
     },
     {
@@ -1802,7 +1802,7 @@
       "hp": 359,
       "atk": 157,
       "def": 90,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB7ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB7ds.webp",
       "playable": false
     },
     {
@@ -1814,7 +1814,7 @@
       "hp": 298,
       "atk": 108,
       "def": 75,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB7e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB7e.webp",
       "playable": false
     },
     {
@@ -1826,7 +1826,7 @@
       "hp": 359,
       "atk": 157,
       "def": 90,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB7es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB7es.webp",
       "playable": false
     },
     {
@@ -1838,7 +1838,7 @@
       "hp": 308,
       "atk": 108,
       "def": 77,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB8a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB8a.webp",
       "playable": true
     },
     {
@@ -1850,7 +1850,7 @@
       "hp": 311,
       "atk": 110,
       "def": 78,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB8b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB8b.webp",
       "playable": false
     },
     {
@@ -1862,7 +1862,7 @@
       "hp": 314,
       "atk": 112,
       "def": 79,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB8c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB8c.webp",
       "playable": false
     },
     {
@@ -1874,7 +1874,7 @@
       "hp": 317,
       "atk": 114,
       "def": 79,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB8d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB8d.webp",
       "playable": true
     },
     {
@@ -1886,7 +1886,7 @@
       "hp": 385,
       "atk": 168,
       "def": 96,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB8ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB8ds.webp",
       "playable": true
     },
     {
@@ -1898,7 +1898,7 @@
       "hp": 320,
       "atk": 116,
       "def": 80,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB8e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB8e.webp",
       "playable": false
     },
     {
@@ -1910,7 +1910,7 @@
       "hp": 385,
       "atk": 168,
       "def": 96,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiB8es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiB8es.webp",
       "playable": false
     },
     {
@@ -1922,7 +1922,7 @@
       "hp": 207,
       "atk": 72,
       "def": 52,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC1a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC1a.webp",
       "playable": false
     },
     {
@@ -1934,7 +1934,7 @@
       "hp": 209,
       "atk": 74,
       "def": 52,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC1b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC1b.webp",
       "playable": true
     },
     {
@@ -1946,7 +1946,7 @@
       "hp": 211,
       "atk": 75,
       "def": 53,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC1c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC1c.webp",
       "playable": false
     },
     {
@@ -1958,7 +1958,7 @@
       "hp": 213,
       "atk": 77,
       "def": 53,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC1d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC1d.webp",
       "playable": false
     },
     {
@@ -1970,7 +1970,7 @@
       "hp": 259,
       "atk": 113,
       "def": 65,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC1ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC1ds.webp",
       "playable": false
     },
     {
@@ -1982,7 +1982,7 @@
       "hp": 215,
       "atk": 78,
       "def": 54,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC1e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC1e.webp",
       "playable": false
     },
     {
@@ -1994,7 +1994,7 @@
       "hp": 259,
       "atk": 113,
       "def": 65,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC1es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC1es.webp",
       "playable": false
     },
     {
@@ -2006,7 +2006,7 @@
       "hp": 234,
       "atk": 82,
       "def": 59,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC2a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC2a.webp",
       "playable": true
     },
     {
@@ -2018,7 +2018,7 @@
       "hp": 236,
       "atk": 83,
       "def": 59,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC2b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC2b.webp",
       "playable": false
     },
     {
@@ -2030,7 +2030,7 @@
       "hp": 239,
       "atk": 85,
       "def": 60,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC2c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC2c.webp",
       "playable": false
     },
     {
@@ -2042,7 +2042,7 @@
       "hp": 241,
       "atk": 87,
       "def": 60,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC2d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC2d.webp",
       "playable": false
     },
     {
@@ -2054,7 +2054,7 @@
       "hp": 293,
       "atk": 128,
       "def": 73,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC2ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC2ds.webp",
       "playable": true
     },
     {
@@ -2066,7 +2066,7 @@
       "hp": 243,
       "atk": 88,
       "def": 61,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC2e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC2e.webp",
       "playable": false
     },
     {
@@ -2078,7 +2078,7 @@
       "hp": 293,
       "atk": 128,
       "def": 73,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC2es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC2es.webp",
       "playable": false
     },
     {
@@ -2090,7 +2090,7 @@
       "hp": 261,
       "atk": 91,
       "def": 65,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC3a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC3a.webp",
       "playable": true
     },
     {
@@ -2102,7 +2102,7 @@
       "hp": 264,
       "atk": 93,
       "def": 66,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC3b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC3b.webp",
       "playable": false
     },
     {
@@ -2114,7 +2114,7 @@
       "hp": 266,
       "atk": 95,
       "def": 67,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC3c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC3c.webp",
       "playable": false
     },
     {
@@ -2126,7 +2126,7 @@
       "hp": 269,
       "atk": 97,
       "def": 67,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC3d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC3d.webp",
       "playable": false
     },
     {
@@ -2138,7 +2138,7 @@
       "hp": 326,
       "atk": 143,
       "def": 82,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC3ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC3ds.webp",
       "playable": true
     },
     {
@@ -2150,7 +2150,7 @@
       "hp": 271,
       "atk": 99,
       "def": 68,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC3e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC3e.webp",
       "playable": false
     },
     {
@@ -2162,7 +2162,7 @@
       "hp": 326,
       "atk": 143,
       "def": 82,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC3es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC3es.webp",
       "playable": true
     },
     {
@@ -2174,7 +2174,7 @@
       "hp": 288,
       "atk": 101,
       "def": 72,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC4a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC4a.webp",
       "playable": false
     },
     {
@@ -2186,7 +2186,7 @@
       "hp": 291,
       "atk": 103,
       "def": 73,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC4b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC4b.webp",
       "playable": false
     },
     {
@@ -2198,7 +2198,7 @@
       "hp": 294,
       "atk": 105,
       "def": 74,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC4c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC4c.webp",
       "playable": false
     },
     {
@@ -2210,7 +2210,7 @@
       "hp": 297,
       "atk": 107,
       "def": 74,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC4d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC4d.webp",
       "playable": false
     },
     {
@@ -2222,7 +2222,7 @@
       "hp": 360,
       "atk": 157,
       "def": 90,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC4ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC4ds.webp",
       "playable": false
     },
     {
@@ -2234,7 +2234,7 @@
       "hp": 300,
       "atk": 109,
       "def": 75,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC4e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC4e.webp",
       "playable": true
     },
     {
@@ -2246,7 +2246,7 @@
       "hp": 360,
       "atk": 157,
       "def": 90,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC4es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC4es.webp",
       "playable": false
     },
     {
@@ -2258,7 +2258,7 @@
       "hp": 315,
       "atk": 110,
       "def": 79,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC5a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC5a.webp",
       "playable": false
     },
     {
@@ -2270,7 +2270,7 @@
       "hp": 318,
       "atk": 112,
       "def": 80,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC5b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC5b.webp",
       "playable": false
     },
     {
@@ -2282,7 +2282,7 @@
       "hp": 321,
       "atk": 115,
       "def": 80,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC5c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC5c.webp",
       "playable": false
     },
     {
@@ -2294,7 +2294,7 @@
       "hp": 324,
       "atk": 117,
       "def": 81,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC5d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC5d.webp",
       "playable": true
     },
     {
@@ -2306,7 +2306,7 @@
       "hp": 394,
       "atk": 172,
       "def": 99,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC5ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC5ds.webp",
       "playable": false
     },
     {
@@ -2318,7 +2318,7 @@
       "hp": 328,
       "atk": 119,
       "def": 82,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC5e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC5e.webp",
       "playable": true
     },
     {
@@ -2330,7 +2330,7 @@
       "hp": 394,
       "atk": 172,
       "def": 99,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC5es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC5es.webp",
       "playable": false
     },
     {
@@ -2342,7 +2342,7 @@
       "hp": 342,
       "atk": 120,
       "def": 86,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC6a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC6a.webp",
       "playable": false
     },
     {
@@ -2354,7 +2354,7 @@
       "hp": 345,
       "atk": 122,
       "def": 86,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC6b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC6b.webp",
       "playable": false
     },
     {
@@ -2366,7 +2366,7 @@
       "hp": 349,
       "atk": 125,
       "def": 87,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC6c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC6c.webp",
       "playable": false
     },
     {
@@ -2378,7 +2378,7 @@
       "hp": 352,
       "atk": 127,
       "def": 88,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC6d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC6d.webp",
       "playable": false
     },
     {
@@ -2390,7 +2390,7 @@
       "hp": 428,
       "atk": 187,
       "def": 107,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC6ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC6ds.webp",
       "playable": true
     },
     {
@@ -2402,7 +2402,7 @@
       "hp": 356,
       "atk": 130,
       "def": 89,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC6e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC6e.webp",
       "playable": false
     },
     {
@@ -2414,7 +2414,7 @@
       "hp": 428,
       "atk": 187,
       "def": 107,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC6es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC6es.webp",
       "playable": false
     },
     {
@@ -2426,7 +2426,7 @@
       "hp": 369,
       "atk": 129,
       "def": 92,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC7a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC7a.webp",
       "playable": false
     },
     {
@@ -2438,7 +2438,7 @@
       "hp": 373,
       "atk": 132,
       "def": 93,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC7b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC7b.webp",
       "playable": false
     },
     {
@@ -2450,7 +2450,7 @@
       "hp": 376,
       "atk": 134,
       "def": 94,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC7c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC7c.webp",
       "playable": false
     },
     {
@@ -2462,7 +2462,7 @@
       "hp": 380,
       "atk": 137,
       "def": 95,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC7d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC7d.webp",
       "playable": false
     },
     {
@@ -2474,7 +2474,7 @@
       "hp": 461,
       "atk": 202,
       "def": 115,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC7ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC7ds.webp",
       "playable": false
     },
     {
@@ -2486,7 +2486,7 @@
       "hp": 384,
       "atk": 140,
       "def": 96,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC7e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC7e.webp",
       "playable": false
     },
     {
@@ -2498,7 +2498,7 @@
       "hp": 461,
       "atk": 202,
       "def": 115,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC7es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC7es.webp",
       "playable": false
     },
     {
@@ -2510,7 +2510,7 @@
       "hp": 396,
       "atk": 139,
       "def": 99,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC8a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC8a.webp",
       "playable": false
     },
     {
@@ -2522,7 +2522,7 @@
       "hp": 400,
       "atk": 141,
       "def": 100,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC8b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC8b.webp",
       "playable": false
     },
     {
@@ -2534,7 +2534,7 @@
       "hp": 404,
       "atk": 144,
       "def": 101,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC8c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC8c.webp",
       "playable": false
     },
     {
@@ -2546,7 +2546,7 @@
       "hp": 408,
       "atk": 147,
       "def": 102,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC8d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC8d.webp",
       "playable": false
     },
     {
@@ -2558,7 +2558,7 @@
       "hp": 495,
       "atk": 217,
       "def": 124,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC8ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC8ds.webp",
       "playable": false
     },
     {
@@ -2570,7 +2570,7 @@
       "hp": 412,
       "atk": 150,
       "def": 103,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC8e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC8e.webp",
       "playable": false
     },
     {
@@ -2582,7 +2582,7 @@
       "hp": 495,
       "atk": 217,
       "def": 124,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiC8es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiC8es.webp",
       "playable": false
     },
     {
@@ -2594,7 +2594,7 @@
       "hp": 253,
       "atk": 89,
       "def": 63,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD1a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD1a.webp",
       "playable": false
     },
     {
@@ -2606,7 +2606,7 @@
       "hp": 256,
       "atk": 90,
       "def": 64,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD1b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD1b.webp",
       "playable": false
     },
     {
@@ -2618,7 +2618,7 @@
       "hp": 258,
       "atk": 92,
       "def": 65,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD1c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD1c.webp",
       "playable": false
     },
     {
@@ -2630,7 +2630,7 @@
       "hp": 261,
       "atk": 94,
       "def": 65,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD1d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD1d.webp",
       "playable": false
     },
     {
@@ -2642,7 +2642,7 @@
       "hp": 316,
       "atk": 138,
       "def": 79,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD1ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD1ds.webp",
       "playable": true
     },
     {
@@ -2654,7 +2654,7 @@
       "hp": 263,
       "atk": 96,
       "def": 66,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD1e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD1e.webp",
       "playable": true
     },
     {
@@ -2666,7 +2666,7 @@
       "hp": 316,
       "atk": 138,
       "def": 79,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD1es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD1es.webp",
       "playable": true
     },
     {
@@ -2678,7 +2678,7 @@
       "hp": 286,
       "atk": 100,
       "def": 72,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD2a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD2a.webp",
       "playable": false
     },
     {
@@ -2690,7 +2690,7 @@
       "hp": 289,
       "atk": 102,
       "def": 72,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD2b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD2b.webp",
       "playable": false
     },
     {
@@ -2702,7 +2702,7 @@
       "hp": 292,
       "atk": 104,
       "def": 73,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD2c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD2c.webp",
       "playable": true
     },
     {
@@ -2714,7 +2714,7 @@
       "hp": 295,
       "atk": 106,
       "def": 74,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD2d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD2d.webp",
       "playable": false
     },
     {
@@ -2726,7 +2726,7 @@
       "hp": 358,
       "atk": 157,
       "def": 90,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD2ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD2ds.webp",
       "playable": false
     },
     {
@@ -2738,7 +2738,7 @@
       "hp": 297,
       "atk": 108,
       "def": 74,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD2e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD2e.webp",
       "playable": false
     },
     {
@@ -2750,7 +2750,7 @@
       "hp": 358,
       "atk": 157,
       "def": 90,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD2es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD2es.webp",
       "playable": false
     },
     {
@@ -2762,7 +2762,7 @@
       "hp": 319,
       "atk": 112,
       "def": 80,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD3a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD3a.webp",
       "playable": false
     },
     {
@@ -2774,7 +2774,7 @@
       "hp": 322,
       "atk": 114,
       "def": 81,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD3b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD3b.webp",
       "playable": false
     },
     {
@@ -2786,7 +2786,7 @@
       "hp": 325,
       "atk": 116,
       "def": 81,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD3c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD3c.webp",
       "playable": true
     },
     {
@@ -2798,7 +2798,7 @@
       "hp": 329,
       "atk": 119,
       "def": 82,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD3d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD3d.webp",
       "playable": false
     },
     {
@@ -2810,7 +2810,7 @@
       "hp": 399,
       "atk": 175,
       "def": 100,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD3ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD3ds.webp",
       "playable": true
     },
     {
@@ -2822,7 +2822,7 @@
       "hp": 332,
       "atk": 121,
       "def": 83,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD3e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD3e.webp",
       "playable": true
     },
     {
@@ -2834,7 +2834,7 @@
       "hp": 399,
       "atk": 175,
       "def": 100,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD3es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD3es.webp",
       "playable": false
     },
     {
@@ -2846,7 +2846,7 @@
       "hp": 352,
       "atk": 123,
       "def": 88,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD4a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD4a.webp",
       "playable": false
     },
     {
@@ -2858,7 +2858,7 @@
       "hp": 356,
       "atk": 126,
       "def": 89,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD4b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD4b.webp",
       "playable": true
     },
     {
@@ -2870,7 +2870,7 @@
       "hp": 359,
       "atk": 128,
       "def": 90,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD4c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD4c.webp",
       "playable": false
     },
     {
@@ -2882,7 +2882,7 @@
       "hp": 363,
       "atk": 131,
       "def": 91,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD4d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD4d.webp",
       "playable": false
     },
     {
@@ -2894,7 +2894,7 @@
       "hp": 440,
       "atk": 193,
       "def": 110,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD4ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD4ds.webp",
       "playable": false
     },
     {
@@ -2906,7 +2906,7 @@
       "hp": 366,
       "atk": 133,
       "def": 92,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD4e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD4e.webp",
       "playable": false
     },
     {
@@ -2918,7 +2918,7 @@
       "hp": 440,
       "atk": 193,
       "def": 110,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD4es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD4es.webp",
       "playable": false
     },
     {
@@ -2930,7 +2930,7 @@
       "hp": 385,
       "atk": 135,
       "def": 96,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD5a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD5a.webp",
       "playable": false
     },
     {
@@ -2942,7 +2942,7 @@
       "hp": 389,
       "atk": 138,
       "def": 97,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD5b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD5b.webp",
       "playable": false
     },
     {
@@ -2954,7 +2954,7 @@
       "hp": 393,
       "atk": 140,
       "def": 98,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD5c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD5c.webp",
       "playable": false
     },
     {
@@ -2966,7 +2966,7 @@
       "hp": 397,
       "atk": 143,
       "def": 99,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD5d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD5d.webp",
       "playable": false
     },
     {
@@ -2978,7 +2978,7 @@
       "hp": 481,
       "atk": 210,
       "def": 120,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD5ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD5ds.webp",
       "playable": false
     },
     {
@@ -2990,7 +2990,7 @@
       "hp": 400,
       "atk": 146,
       "def": 100,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD5e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD5e.webp",
       "playable": false
     },
     {
@@ -3002,7 +3002,7 @@
       "hp": 481,
       "atk": 210,
       "def": 120,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD5es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD5es.webp",
       "playable": false
     },
     {
@@ -3014,7 +3014,7 @@
       "hp": 418,
       "atk": 146,
       "def": 105,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD6a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD6a.webp",
       "playable": false
     },
     {
@@ -3026,7 +3026,7 @@
       "hp": 422,
       "atk": 149,
       "def": 106,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD6b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD6b.webp",
       "playable": true
     },
     {
@@ -3038,7 +3038,7 @@
       "hp": 426,
       "atk": 152,
       "def": 107,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD6c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD6c.webp",
       "playable": false
     },
     {
@@ -3050,7 +3050,7 @@
       "hp": 431,
       "atk": 155,
       "def": 108,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD6d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD6d.webp",
       "playable": false
     },
     {
@@ -3062,7 +3062,7 @@
       "hp": 523,
       "atk": 229,
       "def": 131,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD6ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD6ds.webp",
       "playable": false
     },
     {
@@ -3074,7 +3074,7 @@
       "hp": 435,
       "atk": 158,
       "def": 109,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD6e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD6e.webp",
       "playable": false
     },
     {
@@ -3086,7 +3086,7 @@
       "hp": 523,
       "atk": 229,
       "def": 131,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD6es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD6es.webp",
       "playable": false
     },
     {
@@ -3098,7 +3098,7 @@
       "hp": 451,
       "atk": 158,
       "def": 113,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD7a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD7a.webp",
       "playable": false
     },
     {
@@ -3110,7 +3110,7 @@
       "hp": 456,
       "atk": 161,
       "def": 114,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD7b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD7b.webp",
       "playable": true
     },
     {
@@ -3122,7 +3122,7 @@
       "hp": 460,
       "atk": 164,
       "def": 115,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD7c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD7c.webp",
       "playable": false
     },
     {
@@ -3134,7 +3134,7 @@
       "hp": 465,
       "atk": 168,
       "def": 116,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD7d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD7d.webp",
       "playable": false
     },
     {
@@ -3146,7 +3146,7 @@
       "hp": 564,
       "atk": 247,
       "def": 141,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD7ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD7ds.webp",
       "playable": false
     },
     {
@@ -3158,7 +3158,7 @@
       "hp": 469,
       "atk": 171,
       "def": 117,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD7e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD7e.webp",
       "playable": false
     },
     {
@@ -3170,7 +3170,7 @@
       "hp": 564,
       "atk": 247,
       "def": 141,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiD7es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiD7es.webp",
       "playable": false
     },
     {
@@ -3182,7 +3182,7 @@
       "hp": 700,
       "atk": 245,
       "def": 175,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS10a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS10a.webp",
       "playable": false
     },
     {
@@ -3194,7 +3194,7 @@
       "hp": 707,
       "atk": 250,
       "def": 177,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS10b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS10b.webp",
       "playable": false
     },
     {
@@ -3206,7 +3206,7 @@
       "hp": 714,
       "atk": 255,
       "def": 179,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS10c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS10c.webp",
       "playable": false
     },
     {
@@ -3218,7 +3218,7 @@
       "hp": 721,
       "atk": 260,
       "def": 180,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS10d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS10d.webp",
       "playable": false
     },
     {
@@ -3230,7 +3230,7 @@
       "hp": 875,
       "atk": 383,
       "def": 219,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS10ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS10ds.webp",
       "playable": false
     },
     {
@@ -3242,7 +3242,7 @@
       "hp": 728,
       "atk": 265,
       "def": 182,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS10e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS10e.webp",
       "playable": false
     },
     {
@@ -3254,7 +3254,7 @@
       "hp": 875,
       "atk": 383,
       "def": 219,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS10es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS10es.webp",
       "playable": false
     },
     {
@@ -3266,7 +3266,7 @@
       "hp": 742,
       "atk": 260,
       "def": 186,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS11a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS11a.webp",
       "playable": false
     },
     {
@@ -3278,7 +3278,7 @@
       "hp": 749,
       "atk": 265,
       "def": 187,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS11b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS11b.webp",
       "playable": false
     },
     {
@@ -3290,7 +3290,7 @@
       "hp": 757,
       "atk": 270,
       "def": 189,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS11c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS11c.webp",
       "playable": false
     },
     {
@@ -3302,7 +3302,7 @@
       "hp": 764,
       "atk": 275,
       "def": 191,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS11d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS11d.webp",
       "playable": false
     },
     {
@@ -3314,7 +3314,7 @@
       "hp": 928,
       "atk": 406,
       "def": 232,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS11ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS11ds.webp",
       "playable": false
     },
     {
@@ -3326,7 +3326,7 @@
       "hp": 772,
       "atk": 281,
       "def": 193,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS11e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS11e.webp",
       "playable": true
     },
     {
@@ -3338,7 +3338,7 @@
       "hp": 928,
       "atk": 406,
       "def": 232,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS11es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS11es.webp",
       "playable": false
     },
     {
@@ -3350,7 +3350,7 @@
       "hp": 784,
       "atk": 274,
       "def": 196,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS12a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS12a.webp",
       "playable": true
     },
     {
@@ -3362,7 +3362,7 @@
       "hp": 792,
       "atk": 280,
       "def": 198,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS12b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS12b.webp",
       "playable": false
     },
     {
@@ -3374,7 +3374,7 @@
       "hp": 800,
       "atk": 286,
       "def": 200,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS12c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS12c.webp",
       "playable": false
     },
     {
@@ -3386,7 +3386,7 @@
       "hp": 808,
       "atk": 291,
       "def": 202,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS12d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS12d.webp",
       "playable": true
     },
     {
@@ -3398,7 +3398,7 @@
       "hp": 980,
       "atk": 429,
       "def": 245,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS12ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS12ds.webp",
       "playable": false
     },
     {
@@ -3410,7 +3410,7 @@
       "hp": 815,
       "atk": 297,
       "def": 204,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS12e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS12e.webp",
       "playable": true
     },
     {
@@ -3422,7 +3422,7 @@
       "hp": 980,
       "atk": 429,
       "def": 245,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS12es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS12es.webp",
       "playable": false
     },
     {
@@ -3434,7 +3434,7 @@
       "hp": 322,
       "atk": 113,
       "def": 81,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS1a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS1a.webp",
       "playable": true
     },
     {
@@ -3446,7 +3446,7 @@
       "hp": 325,
       "atk": 115,
       "def": 81,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS1b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS1b.webp",
       "playable": false
     },
     {
@@ -3458,7 +3458,7 @@
       "hp": 328,
       "atk": 117,
       "def": 82,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS1c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS1c.webp",
       "playable": false
     },
     {
@@ -3470,7 +3470,7 @@
       "hp": 332,
       "atk": 120,
       "def": 83,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS1d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS1d.webp",
       "playable": false
     },
     {
@@ -3482,7 +3482,7 @@
       "hp": 403,
       "atk": 176,
       "def": 101,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS1ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS1ds.webp",
       "playable": false
     },
     {
@@ -3494,7 +3494,7 @@
       "hp": 335,
       "atk": 122,
       "def": 84,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS1e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS1e.webp",
       "playable": false
     },
     {
@@ -3506,7 +3506,7 @@
       "hp": 403,
       "atk": 176,
       "def": 101,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS1es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS1es.webp",
       "playable": false
     },
     {
@@ -3518,7 +3518,7 @@
       "hp": 364,
       "atk": 127,
       "def": 91,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS2a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS2a.webp",
       "playable": false
     },
     {
@@ -3530,7 +3530,7 @@
       "hp": 368,
       "atk": 130,
       "def": 92,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS2b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS2b.webp",
       "playable": false
     },
     {
@@ -3542,7 +3542,7 @@
       "hp": 371,
       "atk": 132,
       "def": 93,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS2c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS2c.webp",
       "playable": false
     },
     {
@@ -3554,7 +3554,7 @@
       "hp": 375,
       "atk": 135,
       "def": 94,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS2d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS2d.webp",
       "playable": true
     },
     {
@@ -3566,7 +3566,7 @@
       "hp": 455,
       "atk": 199,
       "def": 114,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS2ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS2ds.webp",
       "playable": false
     },
     {
@@ -3578,7 +3578,7 @@
       "hp": 379,
       "atk": 138,
       "def": 95,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS2e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS2e.webp",
       "playable": false
     },
     {
@@ -3590,7 +3590,7 @@
       "hp": 455,
       "atk": 199,
       "def": 114,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS2es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS2es.webp",
       "playable": false
     },
     {
@@ -3602,7 +3602,7 @@
       "hp": 406,
       "atk": 142,
       "def": 102,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS3a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS3a.webp",
       "playable": false
     },
     {
@@ -3614,7 +3614,7 @@
       "hp": 410,
       "atk": 145,
       "def": 103,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS3b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS3b.webp",
       "playable": false
     },
     {
@@ -3626,7 +3626,7 @@
       "hp": 414,
       "atk": 148,
       "def": 104,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS3c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS3c.webp",
       "playable": false
     },
     {
@@ -3638,7 +3638,7 @@
       "hp": 418,
       "atk": 151,
       "def": 105,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS3d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS3d.webp",
       "playable": false
     },
     {
@@ -3650,7 +3650,7 @@
       "hp": 508,
       "atk": 222,
       "def": 127,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS3ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS3ds.webp",
       "playable": true
     },
     {
@@ -3662,7 +3662,7 @@
       "hp": 422,
       "atk": 154,
       "def": 106,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS3e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS3e.webp",
       "playable": false
     },
     {
@@ -3674,7 +3674,7 @@
       "hp": 508,
       "atk": 222,
       "def": 127,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS3es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS3es.webp",
       "playable": false
     },
     {
@@ -3686,7 +3686,7 @@
       "hp": 448,
       "atk": 157,
       "def": 112,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS4a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS4a.webp",
       "playable": false
     },
     {
@@ -3698,7 +3698,7 @@
       "hp": 452,
       "atk": 160,
       "def": 113,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS4b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS4b.webp",
       "playable": false
     },
     {
@@ -3710,7 +3710,7 @@
       "hp": 457,
       "atk": 163,
       "def": 114,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS4c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS4c.webp",
       "playable": false
     },
     {
@@ -3722,7 +3722,7 @@
       "hp": 461,
       "atk": 166,
       "def": 115,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS4d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS4d.webp",
       "playable": false
     },
     {
@@ -3734,7 +3734,7 @@
       "hp": 560,
       "atk": 245,
       "def": 140,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS4ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS4ds.webp",
       "playable": false
     },
     {
@@ -3746,7 +3746,7 @@
       "hp": 466,
       "atk": 170,
       "def": 117,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS4e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS4e.webp",
       "playable": false
     },
     {
@@ -3758,7 +3758,7 @@
       "hp": 560,
       "atk": 245,
       "def": 140,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS4es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS4es.webp",
       "playable": false
     },
     {
@@ -3770,7 +3770,7 @@
       "hp": 490,
       "atk": 172,
       "def": 123,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS5a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS5a.webp",
       "playable": false
     },
     {
@@ -3782,7 +3782,7 @@
       "hp": 495,
       "atk": 175,
       "def": 124,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS5b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS5b.webp",
       "playable": false
     },
     {
@@ -3794,7 +3794,7 @@
       "hp": 500,
       "atk": 179,
       "def": 125,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS5c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS5c.webp",
       "playable": false
     },
     {
@@ -3806,7 +3806,7 @@
       "hp": 505,
       "atk": 182,
       "def": 126,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS5d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS5d.webp",
       "playable": true
     },
     {
@@ -3818,7 +3818,7 @@
       "hp": 613,
       "atk": 268,
       "def": 153,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS5ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS5ds.webp",
       "playable": false
     },
     {
@@ -3830,7 +3830,7 @@
       "hp": 510,
       "atk": 186,
       "def": 128,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS5e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS5e.webp",
       "playable": false
     },
     {
@@ -3842,7 +3842,7 @@
       "hp": 613,
       "atk": 268,
       "def": 153,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS5es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS5es.webp",
       "playable": false
     },
     {
@@ -3854,7 +3854,7 @@
       "hp": 532,
       "atk": 186,
       "def": 133,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS6a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS6a.webp",
       "playable": false
     },
     {
@@ -3866,7 +3866,7 @@
       "hp": 537,
       "atk": 190,
       "def": 134,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS6b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS6b.webp",
       "playable": true
     },
     {
@@ -3878,7 +3878,7 @@
       "hp": 543,
       "atk": 194,
       "def": 136,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS6c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS6c.webp",
       "playable": false
     },
     {
@@ -3890,7 +3890,7 @@
       "hp": 548,
       "atk": 198,
       "def": 137,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS6d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS6d.webp",
       "playable": false
     },
     {
@@ -3902,7 +3902,7 @@
       "hp": 665,
       "atk": 291,
       "def": 166,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS6ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS6ds.webp",
       "playable": false
     },
     {
@@ -3914,7 +3914,7 @@
       "hp": 553,
       "atk": 201,
       "def": 138,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS6e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS6e.webp",
       "playable": false
     },
     {
@@ -3926,7 +3926,7 @@
       "hp": 665,
       "atk": 291,
       "def": 166,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS6es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS6es.webp",
       "playable": false
     },
     {
@@ -3938,7 +3938,7 @@
       "hp": 574,
       "atk": 201,
       "def": 144,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS7a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS7a.webp",
       "playable": false
     },
     {
@@ -3950,7 +3950,7 @@
       "hp": 580,
       "atk": 205,
       "def": 145,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS7b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS7b.webp",
       "playable": false
     },
     {
@@ -3962,7 +3962,7 @@
       "hp": 585,
       "atk": 209,
       "def": 146,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS7c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS7c.webp",
       "playable": false
     },
     {
@@ -3974,7 +3974,7 @@
       "hp": 591,
       "atk": 213,
       "def": 148,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS7d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS7d.webp",
       "playable": false
     },
     {
@@ -3986,7 +3986,7 @@
       "hp": 718,
       "atk": 314,
       "def": 180,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS7ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS7ds.webp",
       "playable": false
     },
     {
@@ -3998,7 +3998,7 @@
       "hp": 597,
       "atk": 217,
       "def": 149,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS7e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS7e.webp",
       "playable": false
     },
     {
@@ -4010,7 +4010,7 @@
       "hp": 718,
       "atk": 314,
       "def": 180,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS7es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS7es.webp",
       "playable": false
     },
     {
@@ -4022,7 +4022,7 @@
       "hp": 616,
       "atk": 216,
       "def": 154,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS8a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS8a.webp",
       "playable": false
     },
     {
@@ -4034,7 +4034,7 @@
       "hp": 622,
       "atk": 220,
       "def": 156,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS8b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS8b.webp",
       "playable": false
     },
     {
@@ -4046,7 +4046,7 @@
       "hp": 628,
       "atk": 224,
       "def": 157,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS8c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS8c.webp",
       "playable": false
     },
     {
@@ -4058,7 +4058,7 @@
       "hp": 634,
       "atk": 229,
       "def": 159,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS8d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS8d.webp",
       "playable": true
     },
     {
@@ -4070,7 +4070,7 @@
       "hp": 770,
       "atk": 337,
       "def": 193,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS8ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS8ds.webp",
       "playable": false
     },
     {
@@ -4082,7 +4082,7 @@
       "hp": 641,
       "atk": 233,
       "def": 160,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS8e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS8e.webp",
       "playable": false
     },
     {
@@ -4094,7 +4094,7 @@
       "hp": 770,
       "atk": 337,
       "def": 193,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS8es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS8es.webp",
       "playable": false
     },
     {
@@ -4106,7 +4106,7 @@
       "hp": 658,
       "atk": 230,
       "def": 165,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS9a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS9a.webp",
       "playable": false
     },
     {
@@ -4118,7 +4118,7 @@
       "hp": 665,
       "atk": 235,
       "def": 166,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS9b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS9b.webp",
       "playable": false
     },
     {
@@ -4130,7 +4130,7 @@
       "hp": 671,
       "atk": 240,
       "def": 168,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS9c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS9c.webp",
       "playable": false
     },
     {
@@ -4142,7 +4142,7 @@
       "hp": 678,
       "atk": 244,
       "def": 170,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS9d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS9d.webp",
       "playable": false
     },
     {
@@ -4154,7 +4154,7 @@
       "hp": 823,
       "atk": 360,
       "def": 206,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS9ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS9ds.webp",
       "playable": false
     },
     {
@@ -4166,7 +4166,7 @@
       "hp": 684,
       "atk": 249,
       "def": 171,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS9e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS9e.webp",
       "playable": false
     },
     {
@@ -4178,7 +4178,7 @@
       "hp": 823,
       "atk": 360,
       "def": 206,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiS9es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiS9es.webp",
       "playable": false
     },
     {
@@ -4190,7 +4190,7 @@
       "hp": 403,
       "atk": 141,
       "def": 101,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS1a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS1a.webp",
       "playable": false
     },
     {
@@ -4202,7 +4202,7 @@
       "hp": 407,
       "atk": 144,
       "def": 102,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS1b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS1b.webp",
       "playable": false
     },
     {
@@ -4214,7 +4214,7 @@
       "hp": 411,
       "atk": 147,
       "def": 103,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS1c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS1c.webp",
       "playable": true
     },
     {
@@ -4226,7 +4226,7 @@
       "hp": 415,
       "atk": 150,
       "def": 104,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS1d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS1d.webp",
       "playable": false
     },
     {
@@ -4238,7 +4238,7 @@
       "hp": 503,
       "atk": 220,
       "def": 126,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS1ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS1ds.webp",
       "playable": false
     },
     {
@@ -4250,7 +4250,7 @@
       "hp": 419,
       "atk": 153,
       "def": 105,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS1e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS1e.webp",
       "playable": true
     },
     {
@@ -4262,7 +4262,7 @@
       "hp": 503,
       "atk": 220,
       "def": 126,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS1es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS1es.webp",
       "playable": true
     },
     {
@@ -4274,7 +4274,7 @@
       "hp": 455,
       "atk": 159,
       "def": 114,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS2a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS2a.webp",
       "playable": false
     },
     {
@@ -4286,7 +4286,7 @@
       "hp": 460,
       "atk": 163,
       "def": 115,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS2b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS2b.webp",
       "playable": false
     },
     {
@@ -4298,7 +4298,7 @@
       "hp": 464,
       "atk": 166,
       "def": 116,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS2c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS2c.webp",
       "playable": false
     },
     {
@@ -4310,7 +4310,7 @@
       "hp": 469,
       "atk": 169,
       "def": 117,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS2d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS2d.webp",
       "playable": true
     },
     {
@@ -4322,7 +4322,7 @@
       "hp": 569,
       "atk": 249,
       "def": 142,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS2ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS2ds.webp",
       "playable": false
     },
     {
@@ -4334,7 +4334,7 @@
       "hp": 473,
       "atk": 172,
       "def": 118,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS2e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS2e.webp",
       "playable": false
     },
     {
@@ -4346,7 +4346,7 @@
       "hp": 569,
       "atk": 249,
       "def": 142,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS2es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS2es.webp",
       "playable": false
     },
     {
@@ -4358,7 +4358,7 @@
       "hp": 508,
       "atk": 178,
       "def": 127,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS3a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS3a.webp",
       "playable": false
     },
     {
@@ -4370,7 +4370,7 @@
       "hp": 513,
       "atk": 181,
       "def": 128,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS3b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS3b.webp",
       "playable": false
     },
     {
@@ -4382,7 +4382,7 @@
       "hp": 518,
       "atk": 185,
       "def": 130,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS3c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS3c.webp",
       "playable": true
     },
     {
@@ -4394,7 +4394,7 @@
       "hp": 523,
       "atk": 189,
       "def": 131,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS3d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS3d.webp",
       "playable": false
     },
     {
@@ -4406,7 +4406,7 @@
       "hp": 634,
       "atk": 277,
       "def": 159,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS3ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS3ds.webp",
       "playable": false
     },
     {
@@ -4418,7 +4418,7 @@
       "hp": 528,
       "atk": 192,
       "def": 132,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS3e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS3e.webp",
       "playable": true
     },
     {
@@ -4430,7 +4430,7 @@
       "hp": 634,
       "atk": 277,
       "def": 159,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS3es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS3es.webp",
       "playable": true
     },
     {
@@ -4442,7 +4442,7 @@
       "hp": 560,
       "atk": 196,
       "def": 140,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS4a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS4a.webp",
       "playable": false
     },
     {
@@ -4454,7 +4454,7 @@
       "hp": 566,
       "atk": 200,
       "def": 142,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS4b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS4b.webp",
       "playable": true
     },
     {
@@ -4466,7 +4466,7 @@
       "hp": 571,
       "atk": 204,
       "def": 143,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS4c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS4c.webp",
       "playable": true
     },
     {
@@ -4478,7 +4478,7 @@
       "hp": 577,
       "atk": 208,
       "def": 144,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS4d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS4d.webp",
       "playable": false
     },
     {
@@ -4490,7 +4490,7 @@
       "hp": 700,
       "atk": 306,
       "def": 175,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS4ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS4ds.webp",
       "playable": false
     },
     {
@@ -4502,7 +4502,7 @@
       "hp": 582,
       "atk": 212,
       "def": 146,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS4e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS4e.webp",
       "playable": false
     },
     {
@@ -4514,7 +4514,7 @@
       "hp": 700,
       "atk": 306,
       "def": 175,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSS4es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSS4es.webp",
       "playable": true
     },
     {
@@ -4526,7 +4526,7 @@
       "hp": 1250,
       "atk": 438,
       "def": 313,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS10a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS10a.webp",
       "playable": false
     },
     {
@@ -4538,7 +4538,7 @@
       "hp": 1263,
       "atk": 446,
       "def": 316,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS10b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS10b.webp",
       "playable": false
     },
     {
@@ -4550,7 +4550,7 @@
       "hp": 1275,
       "atk": 455,
       "def": 319,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS10c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS10c.webp",
       "playable": false
     },
     {
@@ -4562,7 +4562,7 @@
       "hp": 1288,
       "atk": 464,
       "def": 322,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS10d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS10d.webp",
       "playable": false
     },
     {
@@ -4574,7 +4574,7 @@
       "hp": 1563,
       "atk": 684,
       "def": 391,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS10ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS10ds.webp",
       "playable": false
     },
     {
@@ -4586,7 +4586,7 @@
       "hp": 1300,
       "atk": 473,
       "def": 325,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS10e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS10e.webp",
       "playable": false
     },
     {
@@ -4598,7 +4598,7 @@
       "hp": 1563,
       "atk": 684,
       "def": 391,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS10es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS10es.webp",
       "playable": false
     },
     {
@@ -4610,7 +4610,7 @@
       "hp": 575,
       "atk": 201,
       "def": 144,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS1a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS1a.webp",
       "playable": false
     },
     {
@@ -4622,7 +4622,7 @@
       "hp": 581,
       "atk": 205,
       "def": 145,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS1b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS1b.webp",
       "playable": true
     },
     {
@@ -4634,7 +4634,7 @@
       "hp": 587,
       "atk": 210,
       "def": 147,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS1c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS1c.webp",
       "playable": false
     },
     {
@@ -4646,7 +4646,7 @@
       "hp": 592,
       "atk": 213,
       "def": 148,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS1d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS1d.webp",
       "playable": true
     },
     {
@@ -4658,7 +4658,7 @@
       "hp": 719,
       "atk": 315,
       "def": 180,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS1ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS1ds.webp",
       "playable": true
     },
     {
@@ -4670,7 +4670,7 @@
       "hp": 598,
       "atk": 218,
       "def": 150,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS1e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS1e.webp",
       "playable": false
     },
     {
@@ -4682,7 +4682,7 @@
       "hp": 719,
       "atk": 315,
       "def": 180,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS1es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS1es.webp",
       "playable": true
     },
     {
@@ -4694,7 +4694,7 @@
       "hp": 650,
       "atk": 227,
       "def": 163,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS2a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS2a.webp",
       "playable": false
     },
     {
@@ -4706,7 +4706,7 @@
       "hp": 657,
       "atk": 232,
       "def": 164,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS2b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS2b.webp",
       "playable": false
     },
     {
@@ -4718,7 +4718,7 @@
       "hp": 663,
       "atk": 237,
       "def": 166,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS2c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS2c.webp",
       "playable": false
     },
     {
@@ -4730,7 +4730,7 @@
       "hp": 670,
       "atk": 242,
       "def": 168,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS2d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS2d.webp",
       "playable": false
     },
     {
@@ -4742,7 +4742,7 @@
       "hp": 813,
       "atk": 356,
       "def": 203,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS2ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS2ds.webp",
       "playable": true
     },
     {
@@ -4754,7 +4754,7 @@
       "hp": 676,
       "atk": 246,
       "def": 169,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS2e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS2e.webp",
       "playable": true
     },
     {
@@ -4766,7 +4766,7 @@
       "hp": 813,
       "atk": 356,
       "def": 203,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS2es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS2es.webp",
       "playable": true
     },
     {
@@ -4778,7 +4778,7 @@
       "hp": 800,
       "atk": 280,
       "def": 200,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS4a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS4a.webp",
       "playable": false
     },
     {
@@ -4790,7 +4790,7 @@
       "hp": 808,
       "atk": 286,
       "def": 202,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS4b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS4b.webp",
       "playable": false
     },
     {
@@ -4802,7 +4802,7 @@
       "hp": 816,
       "atk": 291,
       "def": 204,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS4c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS4c.webp",
       "playable": true
     },
     {
@@ -4814,7 +4814,7 @@
       "hp": 824,
       "atk": 297,
       "def": 206,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS4d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS4d.webp",
       "playable": false
     },
     {
@@ -4826,7 +4826,7 @@
       "hp": 1000,
       "atk": 438,
       "def": 250,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS4ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS4ds.webp",
       "playable": true
     },
     {
@@ -4838,7 +4838,7 @@
       "hp": 832,
       "atk": 303,
       "def": 208,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS4e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS4e.webp",
       "playable": false
     },
     {
@@ -4850,7 +4850,7 @@
       "hp": 1000,
       "atk": 438,
       "def": 250,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS4es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS4es.webp",
       "playable": false
     },
     {
@@ -4862,7 +4862,7 @@
       "hp": 875,
       "atk": 306,
       "def": 219,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS5a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS5a.webp",
       "playable": false
     },
     {
@@ -4874,7 +4874,7 @@
       "hp": 884,
       "atk": 312,
       "def": 221,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS5b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS5b.webp",
       "playable": false
     },
     {
@@ -4886,7 +4886,7 @@
       "hp": 892,
       "atk": 318,
       "def": 223,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS5c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS5c.webp",
       "playable": true
     },
     {
@@ -4898,7 +4898,7 @@
       "hp": 901,
       "atk": 325,
       "def": 225,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS5d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS5d.webp",
       "playable": false
     },
     {
@@ -4910,7 +4910,7 @@
       "hp": 1094,
       "atk": 479,
       "def": 274,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS5ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS5ds.webp",
       "playable": false
     },
     {
@@ -4922,7 +4922,7 @@
       "hp": 910,
       "atk": 331,
       "def": 228,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS5e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS5e.webp",
       "playable": false
     },
     {
@@ -4934,7 +4934,7 @@
       "hp": 1094,
       "atk": 479,
       "def": 274,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS5es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS5es.webp",
       "playable": false
     },
     {
@@ -4946,7 +4946,7 @@
       "hp": 1025,
       "atk": 359,
       "def": 256,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS7a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS7a.webp",
       "playable": false
     },
     {
@@ -4958,7 +4958,7 @@
       "hp": 1035,
       "atk": 366,
       "def": 259,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS7b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS7b.webp",
       "playable": false
     },
     {
@@ -4970,7 +4970,7 @@
       "hp": 1046,
       "atk": 373,
       "def": 262,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS7c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS7c.webp",
       "playable": false
     },
     {
@@ -4982,7 +4982,7 @@
       "hp": 1056,
       "atk": 381,
       "def": 264,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS7d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS7d.webp",
       "playable": false
     },
     {
@@ -4994,7 +4994,7 @@
       "hp": 1281,
       "atk": 560,
       "def": 320,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS7ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS7ds.webp",
       "playable": true
     },
     {
@@ -5006,7 +5006,7 @@
       "hp": 1066,
       "atk": 388,
       "def": 267,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS7e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS7e.webp",
       "playable": true
     },
     {
@@ -5018,7 +5018,7 @@
       "hp": 1281,
       "atk": 560,
       "def": 320,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS7es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS7es.webp",
       "playable": false
     },
     {
@@ -5030,7 +5030,7 @@
       "hp": 1100,
       "atk": 385,
       "def": 275,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS8a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS8a.webp",
       "playable": true
     },
     {
@@ -5042,7 +5042,7 @@
       "hp": 1111,
       "atk": 393,
       "def": 278,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS8b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS8b.webp",
       "playable": false
     },
     {
@@ -5054,7 +5054,7 @@
       "hp": 1122,
       "atk": 401,
       "def": 281,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS8c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS8c.webp",
       "playable": false
     },
     {
@@ -5066,7 +5066,7 @@
       "hp": 1133,
       "atk": 408,
       "def": 283,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS8d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS8d.webp",
       "playable": false
     },
     {
@@ -5078,7 +5078,7 @@
       "hp": 1375,
       "atk": 602,
       "def": 344,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS8ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS8ds.webp",
       "playable": false
     },
     {
@@ -5090,7 +5090,7 @@
       "hp": 1144,
       "atk": 416,
       "def": 286,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS8e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS8e.webp",
       "playable": true
     },
     {
@@ -5102,7 +5102,7 @@
       "hp": 1375,
       "atk": 602,
       "def": 344,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS8es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS8es.webp",
       "playable": false
     },
     {
@@ -5114,7 +5114,7 @@
       "hp": 1175,
       "atk": 411,
       "def": 294,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS9a.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS9a.webp",
       "playable": false
     },
     {
@@ -5126,7 +5126,7 @@
       "hp": 1187,
       "atk": 420,
       "def": 297,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS9b.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS9b.webp",
       "playable": true
     },
     {
@@ -5138,7 +5138,7 @@
       "hp": 1199,
       "atk": 428,
       "def": 300,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS9c.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS9c.webp",
       "playable": false
     },
     {
@@ -5150,7 +5150,7 @@
       "hp": 1210,
       "atk": 436,
       "def": 303,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS9d.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS9d.webp",
       "playable": false
     },
     {
@@ -5162,7 +5162,7 @@
       "hp": 1469,
       "atk": 643,
       "def": 367,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS9ds.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS9ds.webp",
       "playable": false
     },
     {
@@ -5174,7 +5174,7 @@
       "hp": 1222,
       "atk": 445,
       "def": 306,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS9e.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS9e.webp",
       "playable": false
     },
     {
@@ -5186,7 +5186,7 @@
       "hp": 1469,
       "atk": 643,
       "def": 367,
-      "imageUrl": "https://cdn.jsdelivr.net/gh/phdev-design/spine-card@main/cards/guaiSSS9es.webp",
+      "imageUrl": "https://raw.githubusercontent.com/phdev-design/spine-card/main/cards/guaiSSS9es.webp",
       "playable": false
     }
   ]
