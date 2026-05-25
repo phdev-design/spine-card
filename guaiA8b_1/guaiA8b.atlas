@@ -1,0 +1,76 @@
+
+guaiA8b.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA8b/guaiA8b_armL
+  rotate: false
+  xy: 2, 44
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+guaiA8b/guaiA8b_armR
+  rotate: false
+  xy: 153, 150
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+guaiA8b/guaiA8b_body
+  rotate: false
+  xy: 2, 109
+  size: 149, 141
+  orig: 149, 141
+  offset: 0, 0
+  index: -1
+guaiA8b/guaiA8b_footL
+  rotate: false
+  xy: 222, 216
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+guaiA8b/guaiA8b_footR
+  rotate: false
+  xy: 222, 187
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+guaiA8b/guaiA8b_handL
+  rotate: false
+  xy: 153, 191
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+guaiA8b/guaiA8b_handR
+  rotate: true
+  xy: 2, 2
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+guaiA8b/guaiA8b_head
+  rotate: false
+  xy: 72, 55
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+guaiA8b/guaiA8b_legL
+  rotate: false
+  xy: 153, 113
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+guaiA8b/guaiA8b_legR
+  rotate: true
+  xy: 137, 72
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1

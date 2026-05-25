@@ -1,0 +1,62 @@
+
+guaiB8cTexture_1.png
+size: 245,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB8c_1/guaib8b_weijing
+  rotate: false
+  xy: 167, 85
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+guaiB8c_1/guaib8c_body
+  rotate: false
+  xy: 2, 2
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+guaiB8c_1/guaib8c_head
+  rotate: false
+  xy: 2, 43
+  size: 79, 77
+  orig: 79, 77
+  offset: 0, 0
+  index: -1
+guaiB8c_1/guaib8c_leg1
+  rotate: false
+  xy: 202, 90
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+guaiB8c_1/guaib8c_leg2
+  rotate: false
+  xy: 43, 14
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+guaiB8c_1/guaib8c_shou1
+  rotate: false
+  xy: 138, 67
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+guaiB8c_1/guaib8c_shou2
+  rotate: false
+  xy: 224, 93
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+guaiB8c_1/guaib8c_wuqi
+  rotate: false
+  xy: 83, 55
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1

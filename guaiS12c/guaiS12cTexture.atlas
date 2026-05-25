@@ -1,0 +1,160 @@
+
+guaiS12cTexture.png
+size: 510,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS12c/01
+  rotate: false
+  xy: 296, 107
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+guaiS12c/02
+  rotate: false
+  xy: 358, 107
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+guaiS12c/03
+  rotate: false
+  xy: 296, 45
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+guaiS12c/04
+  rotate: false
+  xy: 358, 45
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+guaiS12c/05
+  rotate: false
+  xy: 420, 67
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+guaiS12c/06
+  rotate: false
+  xy: 289, 169
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+guaiS12c/07
+  rotate: false
+  xy: 371, 169
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+guaiS12c/bi1
+  rotate: false
+  xy: 482, 88
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+guaiS12c/bi2
+  rotate: false
+  xy: 420, 39
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+guaiS12c/fa1
+  rotate: false
+  xy: 453, 129
+  size: 38, 120
+  orig: 38, 120
+  offset: 0, 0
+  index: -1
+guaiS12c/fa2
+  rotate: false
+  xy: 259, 43
+  size: 35, 109
+  orig: 35, 109
+  offset: 0, 0
+  index: -1
+guaiS12c/qunhou
+  rotate: false
+  xy: 493, 222
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+guaiS12c/sehnti
+  rotate: false
+  xy: 189, 154
+  size: 98, 95
+  orig: 98, 95
+  offset: 0, 0
+  index: -1
+guaiS12c/shentiu
+  rotate: false
+  xy: 133, 39
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+guaiS12c/shou
+  rotate: false
+  xy: 493, 236
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+guaiS12c/tou
+  rotate: false
+  xy: 2, 3
+  size: 129, 82
+  orig: 129, 82
+  offset: 0, 0
+  index: -1
+guaiS12c/tui1
+  rotate: false
+  xy: 420, 136
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+guaiS12c/tui2
+  rotate: false
+  xy: 463, 32
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+guaiS12c/wuqi
+  rotate: false
+  xy: 189, 78
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: -1
+guaiS12c/xing
+  rotate: false
+  xy: 133, 2
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+guaiS12c/yan
+  rotate: false
+  xy: 171, 56
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+guaiS12c/yue
+  rotate: false
+  xy: 2, 87
+  size: 185, 162
+  orig: 185, 162
+  offset: 0, 0
+  index: -1

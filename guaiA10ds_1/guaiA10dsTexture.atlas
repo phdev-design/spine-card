@@ -1,0 +1,138 @@
+
+guaiA10dsTexture_1.png
+size: 1022,1002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA10ds_1/1
+  rotate: false
+  xy: 2, 711
+  size: 291, 291
+  orig: 291, 291
+  offset: 0, 0
+  index: -1
+guaiA10ds_1/2
+  rotate: false
+  xy: 2, 418
+  size: 291, 291
+  orig: 291, 291
+  offset: 0, 0
+  index: -1
+guaiA10ds_1/3
+  rotate: false
+  xy: 295, 711
+  size: 291, 291
+  orig: 291, 291
+  offset: 0, 0
+  index: -1
+guaiA10ds_1/4
+  rotate: false
+  xy: 2, 125
+  size: 291, 291
+  orig: 291, 291
+  offset: 0, 0
+  index: -1
+guaiA10ds_1/5
+  rotate: false
+  xy: 295, 418
+  size: 291, 291
+  orig: 291, 291
+  offset: 0, 0
+  index: -1
+guaiA10ds_1/6
+  rotate: false
+  xy: 588, 711
+  size: 291, 291
+  orig: 291, 291
+  offset: 0, 0
+  index: -1
+guaiA10ds_1/7
+  rotate: false
+  xy: 295, 125
+  size: 291, 291
+  orig: 291, 291
+  offset: 0, 0
+  index: -1
+guaiA10ds_1/8
+  rotate: false
+  xy: 588, 418
+  size: 291, 291
+  orig: 291, 291
+  offset: 0, 0
+  index: -1
+guaiA10ds_1/9
+  rotate: false
+  xy: 588, 125
+  size: 291, 291
+  orig: 291, 291
+  offset: 0, 0
+  index: -1
+guaiA10ds_1/guaiA10d_body
+  rotate: false
+  xy: 2, 22
+  size: 135, 101
+  orig: 135, 101
+  offset: 0, 0
+  index: -1
+guaiA10ds_1/guaiA10d_foot
+  rotate: false
+  xy: 195, 78
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+guaiA10ds_1/guaiA10d_head
+  rotate: false
+  xy: 139, 61
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+guaiA10ds_1/guaiA10d_legL1
+  rotate: false
+  xy: 881, 855
+  size: 31, 62
+  orig: 31, 62
+  offset: 0, 0
+  index: -1
+guaiA10ds_1/guaiA10d_legL2
+  rotate: false
+  xy: 2, 2
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+guaiA10ds_1/guaiA10d_legR
+  rotate: false
+  xy: 881, 804
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+guaiA10ds_1/guaiA10d_mouth
+  rotate: false
+  xy: 964, 945
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+guaiA10ds_1/guaiA10d_wing
+  rotate: false
+  xy: 881, 919
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+
+guaiA10dsTexture2_1.png
+size: 293,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA10ds_1/10
+  rotate: false
+  xy: 2, 2
+  size: 291, 291
+  orig: 291, 291
+  offset: 0, 0
+  index: -1

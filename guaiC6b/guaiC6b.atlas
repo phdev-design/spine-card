@@ -1,0 +1,62 @@
+
+guaiC6b.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC6b/zu10
+  rotate: false
+  xy: 142, 100
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+guaiC6b/zu11
+  rotate: false
+  xy: 2, 22
+  size: 114, 104
+  orig: 114, 104
+  offset: 0, 0
+  index: -1
+guaiC6b/zu12
+  rotate: false
+  xy: 118, 92
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+guaiC6b/zu13
+  rotate: true
+  xy: 172, 103
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+guaiC6b/zu14
+  rotate: false
+  xy: 118, 67
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+guaiC6b/zu15
+  rotate: false
+  xy: 202, 110
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+guaiC6b/zu8
+  rotate: false
+  xy: 17, 8
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+guaiC6b/zu9
+  rotate: true
+  xy: 2, 2
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1

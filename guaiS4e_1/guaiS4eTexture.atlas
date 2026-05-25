@@ -1,0 +1,132 @@
+
+guaiS4eTexture_1.png
+size: 503,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS4e_1/guaiS4e_armL1
+  rotate: false
+  xy: 285, 27
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+guaiS4e_1/guaiS4e_armL2
+  rotate: false
+  xy: 192, 39
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+guaiS4e_1/guaiS4e_armR1
+  rotate: false
+  xy: 369, 48
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+guaiS4e_1/guaiS4e_armR2
+  rotate: false
+  xy: 369, 74
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+guaiS4e_1/guaiS4e_body
+  rotate: false
+  xy: 56, 7
+  size: 55, 71
+  orig: 55, 71
+  offset: 0, 0
+  index: -1
+guaiS4e_1/guaiS4e_dress
+  rotate: false
+  xy: 2, 2
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+guaiS4e_1/guaiS4e_earL
+  rotate: false
+  xy: 237, 17
+  size: 46, 78
+  orig: 46, 78
+  offset: 0, 0
+  index: -1
+guaiS4e_1/guaiS4e_earR
+  rotate: false
+  xy: 113, 6
+  size: 36, 72
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+guaiS4e_1/guaiS4e_gun
+  rotate: false
+  xy: 2, 80
+  size: 233, 174
+  orig: 233, 174
+  offset: 0, 0
+  index: -1
+guaiS4e_1/guaiS4e_hair
+  rotate: false
+  xy: 338, 106
+  size: 91, 148
+  orig: 91, 148
+  offset: 0, 0
+  index: -1
+guaiS4e_1/guaiS4e_handL
+  rotate: false
+  xy: 310, 62
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+guaiS4e_1/guaiS4e_handR
+  rotate: false
+  xy: 151, 6
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+guaiS4e_1/guaiS4e_head
+  rotate: false
+  xy: 431, 154
+  size: 72, 100
+  orig: 72, 100
+  offset: 0, 0
+  index: -1
+guaiS4e_1/guaiS4e_legL
+  rotate: false
+  xy: 431, 44
+  size: 55, 108
+  orig: 55, 108
+  offset: 0, 0
+  index: -1
+guaiS4e_1/guaiS4e_legR
+  rotate: false
+  xy: 339, 6
+  size: 28, 98
+  orig: 28, 98
+  offset: 0, 0
+  index: -1
+guaiS4e_1/guaiS4e_ponytail
+  rotate: false
+  xy: 237, 97
+  size: 99, 157
+  orig: 99, 157
+  offset: 0, 0
+  index: -1
+guaiS4e_1/guaiS4e_shoulderL
+  rotate: false
+  xy: 151, 33
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+guaiS4e_1/guaiS4e_shoulderR
+  rotate: false
+  xy: 285, 56
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1

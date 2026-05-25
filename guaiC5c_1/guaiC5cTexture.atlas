@@ -1,0 +1,132 @@
+
+guaiC5cTexture_1.png
+size: 508,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC5c_1/guaiC5_armL
+  rotate: false
+  xy: 393, 79
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+guaiC5c_1/guaiC5_armR
+  rotate: false
+  xy: 429, 81
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+guaiC5c_1/guaiC5_body
+  rotate: false
+  xy: 2, 22
+  size: 107, 98
+  orig: 107, 98
+  offset: 0, 0
+  index: -1
+guaiC5c_1/guaiC5_earL
+  rotate: false
+  xy: 199, 65
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+guaiC5c_1/guaiC5_earR
+  rotate: false
+  xy: 277, 74
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+guaiC5c_1/guaiC5_eye1
+  rotate: false
+  xy: 76, 2
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+guaiC5c_1/guaiC5_eye2
+  rotate: false
+  xy: 486, 97
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+guaiC5c_1/guaiC5_foot
+  rotate: false
+  xy: 2, 3
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+guaiC5c_1/guaiC5_handL
+  rotate: false
+  xy: 358, 66
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+guaiC5c_1/guaiC5_handR
+  rotate: false
+  xy: 322, 73
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+guaiC5c_1/guaiC5_helmet1
+  rotate: false
+  xy: 458, 84
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+guaiC5c_1/guaiC5_helmet2
+  rotate: false
+  xy: 199, 34
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+guaiC5c_1/guaiC5_nose
+  rotate: false
+  xy: 54, 3
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+guaiC5c_1/guaiC5_tail
+  rotate: false
+  xy: 239, 63
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+guaiC5c_1/guaiC5_tangue
+  rotate: false
+  xy: 219, 48
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+guaiC5c_1/guaiC5_tooth
+  rotate: false
+  xy: 393, 62
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+guaiC5c_1/guaiC5c_body
+  rotate: false
+  xy: 111, 33
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+guaiC5c_1/guaiC5c_helmet
+  rotate: false
+  xy: 111, 75
+  size: 86, 45
+  orig: 86, 45
+  offset: 0, 0
+  index: -1

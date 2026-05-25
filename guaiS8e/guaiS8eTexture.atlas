@@ -1,0 +1,160 @@
+
+guaiS8eTexture.png
+size: 504,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS8e/chibang
+  rotate: false
+  xy: 432, 160
+  size: 72, 94
+  orig: 72, 94
+  offset: 0, 0
+  index: -1
+guaiS8e/chibang2
+  rotate: false
+  xy: 108, 26
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+guaiS8e/er1
+  rotate: false
+  xy: 315, 83
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+guaiS8e/er2
+  rotate: false
+  xy: 432, 123
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+guaiS8e/jiao
+  rotate: false
+  xy: 370, 78
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+guaiS8e/jiao2
+  rotate: false
+  xy: 2, 10
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+guaiS8e/quan
+  rotate: false
+  xy: 305, 137
+  size: 125, 117
+  orig: 125, 117
+  offset: 0, 0
+  index: -1
+guaiS8e/she
+  rotate: false
+  xy: 187, 14
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+guaiS8e/shenti
+  rotate: false
+  xy: 2, 101
+  size: 170, 153
+  orig: 170, 153
+  offset: 0, 0
+  index: -1
+guaiS8e/tou
+  rotate: false
+  xy: 174, 130
+  size: 129, 124
+  orig: 129, 124
+  offset: 0, 0
+  index: -1
+guaiS8e/tui1
+  rotate: false
+  xy: 463, 54
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+guaiS8e/tui2
+  rotate: false
+  xy: 187, 54
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+guaiS8e/tui3
+  rotate: false
+  xy: 333, 41
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+guaiS8e/tui4
+  rotate: false
+  xy: 368, 38
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+guaiS8e/tui5
+  rotate: false
+  xy: 251, 26
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+guaiS8e/tui6
+  rotate: false
+  xy: 292, 25
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+guaiS8e/tui7
+  rotate: false
+  xy: 417, 74
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+guaiS8e/tui8
+  rotate: false
+  xy: 402, 31
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+guaiS8e/weiba
+  rotate: false
+  xy: 333, 5
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+guaiS8e/xiaba
+  rotate: false
+  xy: 2, 35
+  size: 104, 64
+  orig: 104, 64
+  offset: 0, 0
+  index: -1
+guaiS8e/yan
+  rotate: false
+  xy: 251, 70
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+guaiS8e/zhu
+  rotate: false
+  xy: 248, 2
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1

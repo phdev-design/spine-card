@@ -1,0 +1,139 @@
+
+guaiS6dTexture.png
+size: 463,250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS6d/chibang01
+  rotate: false
+  xy: 2, 23
+  size: 92, 33
+  orig: 92, 33
+  offset: 0, 0
+  index: -1
+guaiS6d/chibang02
+  rotate: false
+  xy: 209, 179
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+guaiS6d/chibang03
+  rotate: false
+  xy: 228, 130
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+guaiS6d/chibang04
+  rotate: false
+  xy: 353, 213
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+guaiS6d/dapao
+  rotate: false
+  xy: 301, 218
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+guaiS6d/er1
+  rotate: false
+  xy: 266, 179
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+guaiS6d/er2
+  rotate: false
+  xy: 394, 215
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+guaiS6d/er3
+  rotate: false
+  xy: 261, 142
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+guaiS6d/er4
+  rotate: false
+  xy: 422, 215
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+guaiS6d/gebilin
+  rotate: false
+  xy: 97, 52
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+guaiS6d/gebulin2
+  rotate: false
+  xy: 156, 171
+  size: 51, 79
+  orig: 51, 79
+  offset: 0, 0
+  index: -1
+guaiS6d/jiyi01
+  rotate: false
+  xy: 156, 89
+  size: 36, 80
+  orig: 36, 80
+  offset: 0, 0
+  index: -1
+guaiS6d/jiyi02
+  rotate: false
+  xy: 194, 106
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+guaiS6d/sheiti03
+  rotate: false
+  xy: 2, 2
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+guaiS6d/shenti
+  rotate: false
+  xy: 2, 120
+  size: 152, 130
+  orig: 152, 130
+  offset: 0, 0
+  index: -1
+guaiS6d/shenti02
+  rotate: false
+  xy: 450, 213
+  size: 13, 37
+  orig: 13, 37
+  offset: 0, 0
+  index: -1
+guaiS6d/shenti04
+  rotate: false
+  xy: 228, 111
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+guaiS6d/zhengqi01
+  rotate: false
+  xy: 209, 216
+  size: 90, 34
+  orig: 90, 34
+  offset: 0, 0
+  index: -1
+guaiS6d/zhengqi02
+  rotate: false
+  xy: 2, 58
+  size: 93, 60
+  orig: 93, 60
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+guaiSSS1eTexture_1.png
+size: 481,195
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS1e_1/chong
+  rotate: false
+  xy: 365, 2
+  size: 116, 193
+  orig: 116, 193
+  offset: 0, 0
+  index: -1
+guaiSSS1e_1/dan1
+  rotate: false
+  xy: 2, 42
+  size: 179, 153
+  orig: 179, 153
+  offset: 0, 0
+  index: -1
+guaiSSS1e_1/dan2
+  rotate: false
+  xy: 183, 74
+  size: 180, 121
+  orig: 180, 121
+  offset: 0, 0
+  index: -1

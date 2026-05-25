@@ -1,0 +1,69 @@
+
+guaiD4e.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD4e/shangbi
+  rotate: false
+  xy: 205, 184
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+guaiD4e/shen
+  rotate: true
+  xy: 64, 117
+  size: 133, 139
+  orig: 133, 139
+  offset: 0, 0
+  index: -1
+guaiD4e/tou
+  rotate: true
+  xy: 2, 7
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+guaiD4e/xiaotui
+  rotate: false
+  xy: 202, 12
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+guaiD4e/youshou01
+  rotate: false
+  xy: 2, 101
+  size: 60, 149
+  orig: 60, 149
+  offset: 0, 0
+  index: -1
+guaiD4e/youtui01
+  rotate: false
+  xy: 149, 4
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+guaiD4e/youtui02
+  rotate: false
+  xy: 97, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+guaiD4e/zuoshou
+  rotate: true
+  xy: 97, 54
+  size: 61, 82
+  orig: 61, 82
+  offset: 0, 0
+  index: -1
+guaiD4e/zuotui
+  rotate: true
+  xy: 181, 52
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1

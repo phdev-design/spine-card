@@ -1,0 +1,34 @@
+
+guaiD4bTexture.png
+size: 155,89
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD4b/maozi
+  rotate: false
+  xy: 2, 33
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+guaiD4b/qugan
+  rotate: false
+  xy: 77, 19
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+guaiD4b/youshou2
+  rotate: false
+  xy: 135, 58
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+guaiD4b/zuoshou
+  rotate: false
+  xy: 2, 2
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1

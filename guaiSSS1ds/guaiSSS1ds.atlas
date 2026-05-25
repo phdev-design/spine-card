@@ -1,0 +1,83 @@
+
+guaiSSS1ds.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS1ds/01
+  rotate: false
+  xy: 2, 691
+  size: 318, 276
+  orig: 318, 276
+  offset: 0, 0
+  index: -1
+guaiSSS1ds/02
+  rotate: false
+  xy: 2, 413
+  size: 318, 276
+  orig: 318, 276
+  offset: 0, 0
+  index: -1
+guaiSSS1ds/03
+  rotate: false
+  xy: 322, 691
+  size: 318, 276
+  orig: 318, 276
+  offset: 0, 0
+  index: -1
+guaiSSS1ds/04
+  rotate: false
+  xy: 2, 135
+  size: 318, 276
+  orig: 318, 276
+  offset: 0, 0
+  index: -1
+guaiSSS1ds/05
+  rotate: false
+  xy: 322, 413
+  size: 318, 276
+  orig: 318, 276
+  offset: 0, 0
+  index: -1
+guaiSSS1ds/di
+  rotate: false
+  xy: 2, 31
+  size: 109, 102
+  orig: 109, 102
+  offset: 0, 0
+  index: -1
+guaiSSS1ds/gui1
+  rotate: false
+  xy: 642, 741
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+guaiSSS1ds/gui2
+  rotate: false
+  xy: 810, 909
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+guaiSSS1ds/lian
+  rotate: false
+  xy: 322, 345
+  size: 95, 66
+  orig: 95, 66
+  offset: 0, 0
+  index: -1
+guaiSSS1ds/pao
+  rotate: false
+  xy: 2, 2
+  size: 60, 27
+  orig: 60, 27
+  offset: 0, 0
+  index: -1
+guaiSSS1ds/shenti
+  rotate: false
+  xy: 642, 803
+  size: 166, 164
+  orig: 166, 164
+  offset: 0, 0
+  index: -1

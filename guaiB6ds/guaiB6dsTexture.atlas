@@ -1,0 +1,209 @@
+
+guaiB6dsTexture.png
+size: 1022,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB6ds/01
+  rotate: false
+  xy: 568, 2
+  size: 141, 119
+  orig: 141, 119
+  offset: 0, 0
+  index: -1
+guaiB6ds/02
+  rotate: false
+  xy: 701, 135
+  size: 141, 119
+  orig: 141, 119
+  offset: 0, 0
+  index: -1
+guaiB6ds/03
+  rotate: false
+  xy: 2, 115
+  size: 141, 139
+  orig: 141, 139
+  offset: 0, 0
+  index: -1
+guaiB6ds/04
+  rotate: false
+  xy: 288, 119
+  size: 139, 135
+  orig: 139, 135
+  offset: 0, 0
+  index: -1
+guaiB6ds/05
+  rotate: false
+  xy: 429, 121
+  size: 137, 133
+  orig: 137, 133
+  offset: 0, 0
+  index: -1
+guaiB6ds/06
+  rotate: false
+  xy: 568, 123
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+guaiB6ds/07
+  rotate: false
+  xy: 145, 115
+  size: 141, 139
+  orig: 141, 139
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_arm
+  rotate: false
+  xy: 757, 116
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_body
+  rotate: false
+  xy: 169, 77
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_eye
+  rotate: false
+  xy: 711, 46
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_finger1
+  rotate: false
+  xy: 941, 207
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_finger2
+  rotate: false
+  xy: 106, 59
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_finger3
+  rotate: false
+  xy: 105, 46
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_hand
+  rotate: false
+  xy: 2, 2
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_head
+  rotate: false
+  xy: 844, 138
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_hole
+  rotate: false
+  xy: 106, 70
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_mouth1
+  rotate: false
+  xy: 2, 19
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_mouth2
+  rotate: false
+  xy: 941, 222
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_tail1
+  rotate: false
+  xy: 711, 67
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_tail2
+  rotate: false
+  xy: 742, 108
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_tail3
+  rotate: false
+  xy: 22, 2
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_tail4
+  rotate: false
+  xy: 911, 140
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_tail5
+  rotate: false
+  xy: 1014, 241
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_wing
+  rotate: false
+  xy: 844, 207
+  size: 95, 47
+  orig: 95, 47
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_wing1
+  rotate: false
+  xy: 711, 100
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_wing2
+  rotate: false
+  xy: 911, 152
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_wing3
+  rotate: false
+  xy: 2, 59
+  size: 102, 54
+  orig: 102, 54
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_wing4
+  rotate: false
+  xy: 229, 80
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+guaiB6ds/guaiB6d_wing5
+  rotate: false
+  xy: 71, 20
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1

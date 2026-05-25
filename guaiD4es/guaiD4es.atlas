@@ -1,0 +1,132 @@
+
+guaiD4es.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD4es/01
+  rotate: false
+  xy: 2, 324
+  size: 215, 185
+  orig: 215, 185
+  offset: 0, 0
+  index: -1
+guaiD4es/02
+  rotate: false
+  xy: 2, 137
+  size: 215, 185
+  orig: 215, 185
+  offset: 0, 0
+  index: -1
+guaiD4es/03
+  rotate: false
+  xy: 219, 324
+  size: 215, 185
+  orig: 215, 185
+  offset: 0, 0
+  index: -1
+guaiD4es/04
+  rotate: false
+  xy: 219, 137
+  size: 215, 185
+  orig: 215, 185
+  offset: 0, 0
+  index: -1
+guaiD4es/05
+  rotate: false
+  xy: 436, 324
+  size: 215, 185
+  orig: 215, 185
+  offset: 0, 0
+  index: -1
+guaiD4es/06
+  rotate: false
+  xy: 436, 137
+  size: 215, 185
+  orig: 215, 185
+  offset: 0, 0
+  index: -1
+guaiD4es/07
+  rotate: false
+  xy: 653, 324
+  size: 215, 185
+  orig: 215, 185
+  offset: 0, 0
+  index: -1
+guaiD4es/101
+  rotate: false
+  xy: 653, 159
+  size: 78, 163
+  orig: 78, 163
+  offset: 0, 0
+  index: -1
+guaiD4es/ditai
+  rotate: true
+  xy: 733, 168
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+guaiD4es/shangbi
+  rotate: true
+  xy: 143, 6
+  size: 34, 66
+  orig: 34, 66
+  offset: 0, 0
+  index: -1
+guaiD4es/shen
+  rotate: true
+  xy: 2, 2
+  size: 133, 139
+  orig: 133, 139
+  offset: 0, 0
+  index: -1
+guaiD4es/tou
+  rotate: false
+  xy: 143, 42
+  size: 92, 93
+  orig: 92, 93
+  offset: 0, 0
+  index: -1
+guaiD4es/xiaotui
+  rotate: false
+  xy: 932, 414
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+guaiD4es/youshou01
+  rotate: false
+  xy: 870, 360
+  size: 60, 149
+  orig: 60, 149
+  offset: 0, 0
+  index: -1
+guaiD4es/youtui01
+  rotate: false
+  xy: 796, 276
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+guaiD4es/youtui02
+  rotate: false
+  xy: 237, 85
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+guaiD4es/zuoshou
+  rotate: false
+  xy: 733, 240
+  size: 61, 82
+  orig: 61, 82
+  offset: 0, 0
+  index: -1
+guaiD4es/zuotui
+  rotate: false
+  xy: 932, 454
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1

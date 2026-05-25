@@ -1,0 +1,62 @@
+
+guaiD5esTexture_1.png
+size: 230,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD5es_1/10123
+  rotate: false
+  xy: 2, 74
+  size: 139, 177
+  orig: 139, 177
+  offset: 0, 0
+  index: -1
+guaiD5es_1/guaiD5e_body
+  rotate: false
+  xy: 143, 114
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+guaiD5es_1/guaiD5e_hand1
+  rotate: false
+  xy: 110, 39
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+guaiD5es_1/guaiD5e_hand2
+  rotate: false
+  xy: 2, 2
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+guaiD5es_1/guaiD5e_head
+  rotate: false
+  xy: 143, 176
+  size: 63, 75
+  orig: 63, 75
+  offset: 0, 0
+  index: -1
+guaiD5es_1/guaiD5e_leg1
+  rotate: false
+  xy: 208, 226
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+guaiD5es_1/guaiD5e_leg2
+  rotate: false
+  xy: 143, 89
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+guaiD5es_1/guaiD5e_weapon
+  rotate: false
+  xy: 2, 25
+  size: 106, 47
+  orig: 106, 47
+  offset: 0, 0
+  index: -1

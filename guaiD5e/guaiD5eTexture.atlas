@@ -1,0 +1,111 @@
+
+guaiD5eTexture.png
+size: 510,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD5e/hou
+  rotate: false
+  xy: 2, 19
+  size: 126, 32
+  orig: 126, 32
+  offset: 0, 0
+  index: -1
+guaiD5e/mao
+  rotate: false
+  xy: 2, 53
+  size: 142, 73
+  orig: 142, 73
+  offset: 0, 0
+  index: -1
+guaiD5e/shenti
+  rotate: false
+  xy: 376, 48
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+guaiD5e/tou
+  rotate: false
+  xy: 287, 45
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1
+guaiD5e/youshou1
+  rotate: false
+  xy: 299, 5
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+guaiD5e/zhu
+  rotate: false
+  xy: 146, 23
+  size: 76, 50
+  orig: 76, 50
+  offset: 0, 0
+  index: -1
+guaiD5e/zuoe2
+  rotate: false
+  xy: 359, 15
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+guaiD5e/zuoer
+  rotate: false
+  xy: 327, 17
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+guaiD5e/zuoshou01
+  rotate: false
+  xy: 456, 73
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+guaiD5e/zuoshou02
+  rotate: false
+  xy: 146, 75
+  size: 139, 51
+  orig: 139, 51
+  offset: 0, 0
+  index: -1
+guaiD5e/zuoshou03
+  rotate: false
+  xy: 224, 23
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+guaiD5e/zuotui2
+  rotate: false
+  xy: 2, 2
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+guaiD5e/zuotui4
+  rotate: false
+  xy: 491, 112
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+guaiD5e/zutui1
+  rotate: false
+  xy: 456, 29
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+guaiD5e/zutui3
+  rotate: false
+  xy: 262, 2
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1

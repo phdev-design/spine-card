@@ -1,0 +1,62 @@
+
+guaiA7aTexture_1.png
+size: 328,59
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA7a_1/guaiA7a_arm1
+  rotate: false
+  xy: 311, 48
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+guaiA7a_1/guaiA7a_arm2
+  rotate: false
+  xy: 292, 40
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+guaiA7a_1/guaiA7a_body
+  rotate: false
+  xy: 2, 2
+  size: 88, 57
+  orig: 88, 57
+  offset: 0, 0
+  index: -1
+guaiA7a_1/guaiA7a_head
+  rotate: false
+  xy: 92, 7
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+guaiA7a_1/guaiA7a_huzi
+  rotate: false
+  xy: 147, 36
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+guaiA7a_1/guaiA7a_jiao
+  rotate: false
+  xy: 147, 8
+  size: 58, 26
+  orig: 58, 26
+  offset: 0, 0
+  index: -1
+guaiA7a_1/guaiA7a_shou1
+  rotate: false
+  xy: 211, 38
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+guaiA7a_1/guaiA7a_shou2
+  rotate: false
+  xy: 252, 37
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1

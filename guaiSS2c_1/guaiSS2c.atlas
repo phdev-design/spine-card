@@ -1,0 +1,90 @@
+
+guaiSS2c.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSS2c/dao
+  rotate: true
+  xy: 236, 78
+  size: 150, 193
+  orig: 150, 193
+  offset: 0, 0
+  index: -1
+guaiSS2c/qun
+  rotate: false
+  xy: 835, 178
+  size: 72, 50
+  orig: 72, 50
+  offset: 0, 0
+  index: -1
+guaiSS2c/shangbi1
+  rotate: false
+  xy: 2, 2
+  size: 78, 95
+  orig: 78, 95
+  offset: 0, 0
+  index: -1
+guaiSS2c/shangbi2
+  rotate: true
+  xy: 763, 170
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+guaiSS2c/shenti
+  rotate: true
+  xy: 431, 100
+  size: 128, 167
+  orig: 128, 167
+  offset: 0, 0
+  index: -1
+guaiSS2c/tou
+  rotate: false
+  xy: 600, 137
+  size: 81, 91
+  orig: 81, 91
+  offset: 0, 0
+  index: -1
+guaiSS2c/tui1
+  rotate: true
+  xy: 600, 103
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+guaiSS2c/tui2
+  rotate: false
+  xy: 909, 181
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+guaiSS2c/wuqi
+  rotate: false
+  xy: 2, 99
+  size: 232, 129
+  orig: 232, 129
+  offset: 0, 0
+  index: -1
+guaiSS2c/xiaba
+  rotate: false
+  xy: 683, 171
+  size: 78, 57
+  orig: 78, 57
+  offset: 0, 0
+  index: -1
+guaiSS2c/xiaobi1
+  rotate: true
+  xy: 82, 29
+  size: 68, 99
+  orig: 68, 99
+  offset: 0, 0
+  index: -1
+guaiSS2c/xiaobi2
+  rotate: false
+  xy: 183, 52
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1

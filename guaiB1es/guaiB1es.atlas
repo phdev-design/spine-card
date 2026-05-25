@@ -1,0 +1,55 @@
+
+guaiB1es.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB1es/FY12
+  rotate: false
+  xy: 407, 68
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+guaiB1es/TX4
+  rotate: false
+  xy: 429, 133
+  size: 70, 91
+  orig: 70, 91
+  offset: 0, 0
+  index: -1
+guaiB1es/YX1
+  rotate: false
+  xy: 2, 2
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+guaiB1es/guai1B0
+  rotate: false
+  xy: 226, 20
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+guaiB1es/guai1B1
+  rotate: false
+  xy: 226, 120
+  size: 124, 104
+  orig: 124, 104
+  offset: 0, 0
+  index: -1
+guaiB1es/guai1B2
+  rotate: false
+  xy: 352, 120
+  size: 75, 104
+  orig: 75, 104
+  offset: 0, 0
+  index: -1
+guaiB1es/guai1B3
+  rotate: false
+  xy: 320, 38
+  size: 85, 80
+  orig: 85, 80
+  offset: 0, 0
+  index: -1

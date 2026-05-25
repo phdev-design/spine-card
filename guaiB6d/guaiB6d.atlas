@@ -1,0 +1,160 @@
+
+guaiB6d.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB6d/guaiB6d_arm
+  rotate: false
+  xy: 20, 4
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_body
+  rotate: false
+  xy: 380, 90
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_eye
+  rotate: false
+  xy: 2, 2
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_finger1
+  rotate: false
+  xy: 271, 79
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_finger2
+  rotate: false
+  xy: 35, 12
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_finger3
+  rotate: false
+  xy: 282, 81
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_hand
+  rotate: true
+  xy: 495, 108
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_head
+  rotate: true
+  xy: 106, 61
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_hole
+  rotate: false
+  xy: 317, 83
+  size: 61, 43
+  orig: 61, 43
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_mouth1
+  rotate: false
+  xy: 175, 88
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_mouth2
+  rotate: false
+  xy: 244, 94
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_tail1
+  rotate: false
+  xy: 245, 61
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_tail2
+  rotate: false
+  xy: 157, 34
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_tail3
+  rotate: true
+  xy: 495, 92
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_tail4
+  rotate: false
+  xy: 495, 80
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_tail5
+  rotate: true
+  xy: 35, 2
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_wing
+  rotate: false
+  xy: 2, 23
+  size: 95, 47
+  orig: 95, 47
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_wing1
+  rotate: false
+  xy: 214, 53
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_wing2
+  rotate: true
+  xy: 440, 90
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_wing3
+  rotate: false
+  xy: 2, 72
+  size: 102, 54
+  orig: 102, 54
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_wing4
+  rotate: false
+  xy: 99, 26
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+guaiB6d/guaiB6d_wing5
+  rotate: true
+  xy: 175, 54
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+guaiD4d.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD4d/guaiD4_hand1
+  rotate: false
+  xy: 86, 2
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+guaiD4d/guaiD4_hand2
+  rotate: true
+  xy: 86, 39
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+guaiD4d/guaiD4d_body
+  rotate: false
+  xy: 2, 7
+  size: 82, 119
+  orig: 82, 119
+  offset: 0, 0
+  index: -1
+guaiD4d/guaiD4d_pifeng
+  rotate: false
+  xy: 86, 79
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1

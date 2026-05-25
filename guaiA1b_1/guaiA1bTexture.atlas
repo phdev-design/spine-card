@@ -1,0 +1,41 @@
+
+guaiA1bTexture_1.png
+size: 123,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA1b_1/guaiA1b_armL
+  rotate: false
+  xy: 2, 35
+  size: 61, 75
+  orig: 61, 75
+  offset: 0, 0
+  index: -1
+guaiA1b_1/guaiA1b_armR
+  rotate: false
+  xy: 65, 46
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+guaiA1b_1/guaiA1b_body
+  rotate: false
+  xy: 2, 112
+  size: 102, 140
+  orig: 102, 140
+  offset: 0, 0
+  index: -1
+guaiA1b_1/guaiA1b_legL
+  rotate: false
+  xy: 65, 8
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+guaiA1b_1/guaiA1b_legR
+  rotate: false
+  xy: 2, 2
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1

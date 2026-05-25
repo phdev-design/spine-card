@@ -1,0 +1,125 @@
+
+guaiA9e.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA9e/guaiA9e01
+  rotate: false
+  xy: 2, 118
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+guaiA9e/guaiA9e02
+  rotate: false
+  xy: 140, 118
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+guaiA9e/guaiA9e03
+  rotate: false
+  xy: 278, 118
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+guaiA9e/guaiA9e04
+  rotate: false
+  xy: 416, 118
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+guaiA9e/guaiA9e05
+  rotate: false
+  xy: 554, 118
+  size: 136, 136
+  orig: 136, 136
+  offset: 0, 0
+  index: -1
+guaiA9e/guaiA9e_armL
+  rotate: false
+  xy: 152, 25
+  size: 77, 91
+  orig: 77, 91
+  offset: 0, 0
+  index: -1
+guaiA9e/guaiA9e_armR
+  rotate: false
+  xy: 231, 30
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+guaiA9e/guaiA9e_body
+  rotate: false
+  xy: 692, 131
+  size: 89, 123
+  orig: 89, 123
+  offset: 0, 0
+  index: -1
+guaiA9e/guaiA9e_chain
+  rotate: true
+  xy: 374, 102
+  size: 14, 66
+  orig: 14, 66
+  offset: 0, 0
+  index: -1
+guaiA9e/guaiA9e_footL
+  rotate: true
+  xy: 783, 131
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+guaiA9e/guaiA9e_footR
+  rotate: false
+  xy: 985, 213
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+guaiA9e/guaiA9e_handL
+  rotate: false
+  xy: 783, 172
+  size: 79, 82
+  orig: 79, 82
+  offset: 0, 0
+  index: -1
+guaiA9e/guaiA9e_handR
+  rotate: false
+  xy: 864, 182
+  size: 70, 72
+  orig: 70, 72
+  offset: 0, 0
+  index: -1
+guaiA9e/guaiA9e_head
+  rotate: false
+  xy: 2, 24
+  size: 148, 92
+  orig: 148, 92
+  offset: 0, 0
+  index: -1
+guaiA9e/guaiA9e_legL
+  rotate: false
+  xy: 298, 2
+  size: 49, 60
+  orig: 49, 60
+  offset: 0, 0
+  index: -1
+guaiA9e/guaiA9e_legR
+  rotate: false
+  xy: 936, 197
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+guaiA9e/guaiA9e_tail
+  rotate: false
+  xy: 298, 64
+  size: 74, 52
+  orig: 74, 52
+  offset: 0, 0
+  index: -1

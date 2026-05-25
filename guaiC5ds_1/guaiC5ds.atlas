@@ -1,0 +1,139 @@
+
+guaiC5ds.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC5ds/01
+  rotate: false
+  xy: 2, 300
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+guaiC5ds/02
+  rotate: false
+  xy: 2, 102
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+guaiC5ds/03
+  rotate: false
+  xy: 200, 300
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+guaiC5ds/04
+  rotate: false
+  xy: 200, 102
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+guaiC5ds/05
+  rotate: false
+  xy: 398, 300
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+guaiC5ds/06
+  rotate: false
+  xy: 398, 102
+  size: 196, 196
+  orig: 196, 196
+  offset: 0, 0
+  index: -1
+guaiC5ds/guaiC5_armL
+  rotate: false
+  xy: 681, 455
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+guaiC5ds/guaiC5_armR
+  rotate: false
+  xy: 111, 2
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+guaiC5ds/guaiC5_body
+  rotate: false
+  xy: 2, 2
+  size: 107, 98
+  orig: 107, 98
+  offset: 0, 0
+  index: -1
+guaiC5ds/guaiC5_earL
+  rotate: false
+  xy: 596, 441
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+guaiC5ds/guaiC5_earR
+  rotate: false
+  xy: 636, 450
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+guaiC5ds/guaiC5_eye1
+  rotate: false
+  xy: 717, 478
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+guaiC5ds/guaiC5_foot
+  rotate: true
+  xy: 596, 333
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+guaiC5ds/guaiC5_handL
+  rotate: false
+  xy: 596, 385
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+guaiC5ds/guaiC5_handR
+  rotate: false
+  xy: 149, 53
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+guaiC5ds/guaiC5_nose
+  rotate: true
+  xy: 596, 311
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+guaiC5ds/guaiC5_tail
+  rotate: false
+  xy: 111, 43
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+guaiC5ds/guaiC5_tangue
+  rotate: false
+  xy: 185, 64
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+guaiC5ds/guaiC5_tooth
+  rotate: false
+  xy: 185, 81
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1

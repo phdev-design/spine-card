@@ -1,0 +1,55 @@
+
+guaiA10a.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA10a/guaiA10a_body
+  rotate: false
+  xy: 2, 26
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+guaiA10a/guaiA10a_foot
+  rotate: false
+  xy: 148, 49
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+guaiA10a/guaiA10a_head
+  rotate: true
+  xy: 112, 26
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+guaiA10a/guaiA10a_legL
+  rotate: true
+  xy: 162, 91
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+guaiA10a/guaiA10a_legR
+  rotate: false
+  xy: 211, 78
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+guaiA10a/guaiA10a_mouth
+  rotate: false
+  xy: 2, 2
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+guaiA10a/guaiA10a_wing
+  rotate: false
+  xy: 112, 83
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1

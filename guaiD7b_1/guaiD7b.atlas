@@ -1,0 +1,48 @@
+
+guaiD7b.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD7b/guaiD7b_body
+  rotate: true
+  xy: 128, 19
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+guaiD7b/guaiD7b_head
+  rotate: false
+  xy: 2, 10
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+guaiD7b/guaiD7b_leg1
+  rotate: true
+  xy: 186, 2
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+guaiD7b/guaiD7b_leg2
+  rotate: true
+  xy: 58, 6
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+guaiD7b/guaiD7b_shou1
+  rotate: true
+  xy: 58, 26
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+guaiD7b/guaiD7b_shou2
+  rotate: true
+  xy: 186, 28
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1

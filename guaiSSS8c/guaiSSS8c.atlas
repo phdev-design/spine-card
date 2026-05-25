@@ -1,0 +1,160 @@
+
+guaiSSS8c.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS8c/beiji
+  rotate: false
+  xy: 471, 180
+  size: 37, 74
+  orig: 37, 74
+  offset: 0, 0
+  index: -1
+guaiSSS8c/houfa
+  rotate: false
+  xy: 182, 27
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+guaiSSS8c/huangguan
+  rotate: true
+  xy: 442, 123
+  size: 51, 38
+  orig: 51, 38
+  offset: 0, 0
+  index: -1
+guaiSSS8c/jiemao
+  rotate: false
+  xy: 388, 112
+  size: 46, 6
+  orig: 46, 6
+  offset: 0, 0
+  index: -1
+guaiSSS8c/kc
+  rotate: false
+  xy: 2, 5
+  size: 108, 66
+  orig: 108, 66
+  offset: 0, 0
+  index: -1
+guaiSSS8c/meimao
+  rotate: false
+  xy: 388, 103
+  size: 43, 7
+  orig: 43, 7
+  offset: 0, 0
+  index: -1
+guaiSSS8c/paopao1
+  rotate: false
+  xy: 386, 176
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+guaiSSS8c/qianfa you
+  rotate: false
+  xy: 320, 146
+  size: 64, 108
+  orig: 64, 108
+  offset: 0, 0
+  index: -1
+guaiSSS8c/qianfa zuo
+  rotate: false
+  xy: 174, 107
+  size: 144, 147
+  orig: 144, 147
+  offset: 0, 0
+  index: -1
+guaiSSS8c/shenti
+  rotate: true
+  xy: 320, 96
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+guaiSSS8c/tongkong
+  rotate: true
+  xy: 366, 45
+  size: 49, 19
+  orig: 49, 19
+  offset: 0, 0
+  index: -1
+guaiSSS8c/tou
+  rotate: false
+  xy: 112, 4
+  size: 68, 67
+  orig: 68, 67
+  offset: 0, 0
+  index: -1
+guaiSSS8c/weijin
+  rotate: false
+  xy: 308, 2
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+guaiSSS8c/xiaoyu1
+  rotate: false
+  xy: 261, 27
+  size: 45, 78
+  orig: 45, 78
+  offset: 0, 0
+  index: -1
+guaiSSS8c/youshou
+  rotate: false
+  xy: 388, 120
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+guaiSSS8c/yu shenti
+  rotate: false
+  xy: 2, 73
+  size: 170, 181
+  orig: 170, 181
+  offset: 0, 0
+  index: -1
+guaiSSS8c/yushou
+  rotate: true
+  xy: 242, 2
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+guaiSSS8c/yuyan
+  rotate: false
+  xy: 182, 2
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+guaiSSS8c/yuyankuang
+  rotate: false
+  xy: 212, 2
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+guaiSSS8c/yuzui
+  rotate: false
+  xy: 263, 5
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+guaiSSS8c/zuiba
+  rotate: true
+  xy: 174, 97
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+guaiSSS8c/zuoshou
+  rotate: false
+  xy: 308, 33
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+guaiA6a.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA6a/guaiA6a_body
+  rotate: false
+  xy: 111, 78
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+guaiA6a/guaiA6a_chibang1
+  rotate: true
+  xy: 2, 2
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+guaiA6a/guaiA6a_chibang2
+  rotate: true
+  xy: 168, 95
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+guaiA6a/guaiA6a_head
+  rotate: false
+  xy: 2, 41
+  size: 107, 84
+  orig: 107, 84
+  offset: 0, 0
+  index: -1
+guaiA6a/guaiA6a_jian
+  rotate: false
+  xy: 54, 3
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+guaiA6a/guaiA6a_qian1
+  rotate: true
+  xy: 111, 42
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+guaiA6a/guaiA6a_qian2
+  rotate: true
+  xy: 168, 71
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1

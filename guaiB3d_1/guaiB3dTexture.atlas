@@ -1,0 +1,104 @@
+
+guaiB3dTexture_1.png
+size: 474,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB3d_1/guaiB3_arrow
+  rotate: false
+  xy: 351, 106
+  size: 75, 20
+  orig: 75, 20
+  offset: 0, 0
+  index: -1
+guaiB3d_1/guaiB3d_armL
+  rotate: false
+  xy: 169, 51
+  size: 54, 75
+  orig: 54, 75
+  offset: 0, 0
+  index: -1
+guaiB3d_1/guaiB3d_armR
+  rotate: false
+  xy: 225, 72
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+guaiB3d_1/guaiB3d_body
+  rotate: false
+  xy: 2, 17
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+guaiB3d_1/guaiB3d_bot
+  rotate: false
+  xy: 247, 5
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+guaiB3d_1/guaiB3d_bow
+  rotate: false
+  xy: 90, 32
+  size: 77, 94
+  orig: 77, 94
+  offset: 0, 0
+  index: -1
+guaiB3d_1/guaiB3d_footL
+  rotate: false
+  xy: 294, 2
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+guaiB3d_1/guaiB3d_footR
+  rotate: false
+  xy: 331, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+guaiB3d_1/guaiB3d_hair
+  rotate: false
+  xy: 428, 102
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+guaiB3d_1/guaiB3d_legL
+  rotate: false
+  xy: 294, 30
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+guaiB3d_1/guaiB3d_legR
+  rotate: false
+  xy: 403, 68
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+guaiB3d_1/guaiB3d_mouth
+  rotate: false
+  xy: 294, 76
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+guaiB3d_1/guaiB3d_shoulder
+  rotate: false
+  xy: 351, 62
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+guaiB3d_1/guaiB3d_suit
+  rotate: false
+  xy: 169, 2
+  size: 76, 47
+  orig: 76, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+guaiD2dsTexture.png
+size: 1018,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD2ds/01
+  rotate: false
+  xy: 158, 154
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiD2ds/02
+  rotate: false
+  xy: 233, 154
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiD2ds/03
+  rotate: false
+  xy: 308, 154
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiD2ds/04
+  rotate: false
+  xy: 383, 154
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiD2ds/05
+  rotate: false
+  xy: 458, 154
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiD2ds/06
+  rotate: false
+  xy: 533, 154
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiD2ds/07
+  rotate: false
+  xy: 608, 154
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiD2ds/08
+  rotate: false
+  xy: 683, 154
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiD2ds/09
+  rotate: false
+  xy: 758, 154
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiD2ds/10
+  rotate: false
+  xy: 833, 154
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiD2ds/biyan
+  rotate: false
+  xy: 119, 77
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+guaiD2ds/chibang
+  rotate: false
+  xy: 908, 185
+  size: 75, 69
+  orig: 75, 69
+  offset: 0, 0
+  index: -1
+guaiD2ds/chibang2
+  rotate: false
+  xy: 908, 124
+  size: 76, 59
+  orig: 76, 59
+  offset: 0, 0
+  index: -1
+guaiD2ds/shenti
+  rotate: false
+  xy: 2, 166
+  size: 154, 88
+  orig: 154, 88
+  offset: 0, 0
+  index: -1
+guaiD2ds/shou1
+  rotate: false
+  xy: 2, 2
+  size: 29, 51
+  orig: 29, 51
+  offset: 0, 0
+  index: -1
+guaiD2ds/shou2
+  rotate: false
+  xy: 33, 7
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+guaiD2ds/tou
+  rotate: false
+  xy: 2, 55
+  size: 115, 109
+  orig: 115, 109
+  offset: 0, 0
+  index: -1
+guaiD2ds/tui1
+  rotate: false
+  xy: 985, 201
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+guaiD2ds/tui2
+  rotate: false
+  xy: 119, 110
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1

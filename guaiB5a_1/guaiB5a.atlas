@@ -1,0 +1,41 @@
+
+guaiB5a.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB5a/guaiB5a_body
+  rotate: false
+  xy: 2, 42
+  size: 119, 68
+  orig: 119, 68
+  offset: 0, 0
+  index: -1
+guaiB5a/guaiB5a_head
+  rotate: false
+  xy: 123, 46
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+guaiB5a/guaiB5a_leg1
+  rotate: true
+  xy: 81, 2
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+guaiB5a/guaiB5a_leg2
+  rotate: true
+  xy: 180, 69
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+guaiB5a/guaiB5a_neck
+  rotate: true
+  xy: 2, 4
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1

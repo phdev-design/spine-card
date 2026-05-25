@@ -1,0 +1,160 @@
+
+guaiS8e.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS8e/chibang
+  rotate: false
+  xy: 432, 160
+  size: 72, 94
+  orig: 72, 94
+  offset: 0, 0
+  index: -1
+guaiS8e/chibang2
+  rotate: false
+  xy: 108, 26
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+guaiS8e/er1
+  rotate: false
+  xy: 352, 83
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+guaiS8e/er2
+  rotate: true
+  xy: 187, 2
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+guaiS8e/jiao
+  rotate: false
+  xy: 270, 7
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+guaiS8e/jiao2
+  rotate: true
+  xy: 407, 113
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+guaiS8e/quan
+  rotate: false
+  xy: 305, 137
+  size: 125, 117
+  orig: 125, 117
+  offset: 0, 0
+  index: -1
+guaiS8e/she
+  rotate: false
+  xy: 432, 120
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+guaiS8e/shenti
+  rotate: false
+  xy: 2, 101
+  size: 170, 153
+  orig: 170, 153
+  offset: 0, 0
+  index: -1
+guaiS8e/tou
+  rotate: false
+  xy: 174, 130
+  size: 129, 124
+  orig: 129, 124
+  offset: 0, 0
+  index: -1
+guaiS8e/tui1
+  rotate: false
+  xy: 311, 68
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+guaiS8e/tui2
+  rotate: false
+  xy: 187, 54
+  size: 62, 74
+  orig: 62, 74
+  offset: 0, 0
+  index: -1
+guaiS8e/tui3
+  rotate: false
+  xy: 441, 78
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+guaiS8e/tui4
+  rotate: false
+  xy: 407, 73
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+guaiS8e/tui5
+  rotate: false
+  xy: 358, 39
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+guaiS8e/tui6
+  rotate: false
+  xy: 317, 23
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+guaiS8e/tui7
+  rotate: false
+  xy: 224, 5
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+guaiS8e/tui8
+  rotate: true
+  xy: 358, 5
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+guaiS8e/weiba
+  rotate: true
+  xy: 2, 3
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+guaiS8e/xiaba
+  rotate: false
+  xy: 2, 35
+  size: 104, 64
+  orig: 104, 64
+  offset: 0, 0
+  index: -1
+guaiS8e/yan
+  rotate: true
+  xy: 251, 66
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+guaiS8e/zhu
+  rotate: false
+  xy: 38, 11
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1

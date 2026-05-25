@@ -1,0 +1,76 @@
+
+guaiSS3e.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSS3e/bi1
+  rotate: true
+  xy: 187, 2
+  size: 53, 88
+  orig: 53, 88
+  offset: 0, 0
+  index: -1
+guaiSS3e/bi2
+  rotate: false
+  xy: 780, 134
+  size: 85, 84
+  orig: 85, 84
+  offset: 0, 0
+  index: -1
+guaiSS3e/chi4
+  rotate: false
+  xy: 187, 57
+  size: 225, 161
+  orig: 225, 161
+  offset: 0, 0
+  index: -1
+guaiSS3e/dao
+  rotate: true
+  xy: 945, 142
+  size: 76, 77
+  orig: 76, 77
+  offset: 0, 0
+  index: -1
+guaiSS3e/dao1
+  rotate: false
+  xy: 867, 140
+  size: 76, 78
+  orig: 76, 78
+  offset: 0, 0
+  index: -1
+guaiSS3e/jiao1
+  rotate: false
+  xy: 780, 84
+  size: 43, 48
+  orig: 43, 48
+  offset: 0, 0
+  index: -1
+guaiSS3e/jiao2
+  rotate: false
+  xy: 277, 9
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+guaiSS3e/shenti
+  rotate: true
+  xy: 414, 46
+  size: 172, 173
+  orig: 172, 173
+  offset: 0, 0
+  index: -1
+guaiSS3e/shou
+  rotate: false
+  xy: 589, 82
+  size: 189, 136
+  orig: 189, 136
+  offset: 0, 0
+  index: -1
+guaiSS3e/tou
+  rotate: false
+  xy: 2, 3
+  size: 183, 215
+  orig: 183, 215
+  offset: 0, 0
+  index: -1

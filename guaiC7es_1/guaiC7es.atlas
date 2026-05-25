@@ -1,0 +1,158 @@
+
+guaiC7es.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC7es/01
+  rotate: false
+  xy: 2, 535
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiC7es/02
+  rotate: false
+  xy: 2, 177
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiC7es/03
+  rotate: false
+  xy: 368, 535
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiC7es/04
+  rotate: false
+  xy: 368, 177
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiC7es/guaiC7_jiao1
+  rotate: false
+  xy: 2, 2
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+guaiC7es/guaiC7_jiao2
+  rotate: false
+  xy: 42, 55
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+guaiC7es/guaiC7e_body
+  rotate: false
+  xy: 734, 847
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+guaiC7es/guaiC7e_head
+  rotate: false
+  xy: 2, 67
+  size: 102, 108
+  orig: 102, 108
+  offset: 0, 0
+  index: -1
+guaiC7es/guaiC7e_shou1
+  rotate: false
+  xy: 2, 16
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+guaiC7es/guaiC7e_shou11
+  rotate: false
+  xy: 734, 819
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+guaiC7es/guaiC7e_shou2
+  rotate: false
+  xy: 106, 132
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+guaiC7es/guaiC7e_shou21
+  rotate: false
+  xy: 789, 871
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+
+guaiC7es2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC7es/05
+  rotate: false
+  xy: 2, 360
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiC7es/06
+  rotate: false
+  xy: 2, 2
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiC7es/07
+  rotate: false
+  xy: 368, 360
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiC7es/08
+  rotate: false
+  xy: 368, 2
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+
+guaiC7es3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC7es/09
+  rotate: false
+  xy: 2, 360
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiC7es/10
+  rotate: false
+  xy: 2, 2
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiC7es/11
+  rotate: false
+  xy: 368, 360
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiC7es/12
+  rotate: false
+  xy: 368, 2
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1

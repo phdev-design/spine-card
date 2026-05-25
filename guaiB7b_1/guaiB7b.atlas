@@ -1,0 +1,55 @@
+
+guaiB7b.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB7b/guaiB7b_body
+  rotate: true
+  xy: 188, 58
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+guaiB7b/guaiB7b_head
+  rotate: false
+  xy: 131, 61
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+guaiB7b/guaiB7b_liandao
+  rotate: false
+  xy: 2, 41
+  size: 127, 85
+  orig: 127, 85
+  offset: 0, 0
+  index: -1
+guaiB7b/guaiB7b_lingzi
+  rotate: false
+  xy: 67, 3
+  size: 78, 36
+  orig: 78, 36
+  offset: 0, 0
+  index: -1
+guaiB7b/guaiB7b_pifeng
+  rotate: false
+  xy: 2, 2
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+guaiB7b/guaiB7b_shou1
+  rotate: false
+  xy: 147, 26
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+guaiB7b/guaiB7b_shou2
+  rotate: false
+  xy: 174, 26
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

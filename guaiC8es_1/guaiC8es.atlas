@@ -1,0 +1,83 @@
+
+guaiC8es.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC8es/01
+  rotate: true
+  xy: 2, 2
+  size: 117, 151
+  orig: 117, 151
+  offset: 0, 0
+  index: -1
+guaiC8es/02
+  rotate: false
+  xy: 2, 121
+  size: 150, 131
+  orig: 150, 131
+  offset: 0, 0
+  index: -1
+guaiC8es/03
+  rotate: false
+  xy: 154, 121
+  size: 150, 131
+  orig: 150, 131
+  offset: 0, 0
+  index: -1
+guaiC8es/04
+  rotate: false
+  xy: 306, 121
+  size: 150, 131
+  orig: 150, 131
+  offset: 0, 0
+  index: -1
+guaiC8es/05
+  rotate: false
+  xy: 458, 121
+  size: 150, 131
+  orig: 150, 131
+  offset: 0, 0
+  index: -1
+guaiC8es/06
+  rotate: false
+  xy: 610, 121
+  size: 150, 131
+  orig: 150, 131
+  offset: 0, 0
+  index: -1
+guaiC8es/guaiC8e_body
+  rotate: false
+  xy: 851, 217
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+guaiC8es/guaiC8e_head
+  rotate: false
+  xy: 762, 160
+  size: 87, 92
+  orig: 87, 92
+  offset: 0, 0
+  index: -1
+guaiC8es/guaiC8e_jiao
+  rotate: false
+  xy: 155, 33
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+guaiC8es/guaiC8e_shou1
+  rotate: true
+  xy: 762, 121
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+guaiC8es/guaiC8e_shou2
+  rotate: false
+  xy: 155, 58
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1

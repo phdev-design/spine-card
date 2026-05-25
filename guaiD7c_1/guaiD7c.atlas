@@ -1,0 +1,76 @@
+
+guaiD7c.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD7c/guaiD7c_body
+  rotate: false
+  xy: 301, 62
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+guaiD7c/guaiD7c_head
+  rotate: false
+  xy: 233, 58
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+guaiD7c/guaiD7c_leg1
+  rotate: false
+  xy: 346, 76
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+guaiD7c/guaiD7c_leg2
+  rotate: true
+  xy: 79, 7
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+guaiD7c/guaiD7c_shou1
+  rotate: true
+  xy: 79, 27
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+guaiD7c/guaiD7c_shou2
+  rotate: true
+  xy: 149, 29
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+guaiD7c/guaiD7e01
+  rotate: false
+  xy: 79, 65
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+guaiD7c/guaiD7e02
+  rotate: false
+  xy: 156, 65
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+guaiD7c/guaiD7e04
+  rotate: true
+  xy: 2, 2
+  size: 42, 75
+  orig: 42, 75
+  offset: 0, 0
+  index: -1
+guaiD7c/guaiD7e05
+  rotate: false
+  xy: 2, 46
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+guaiD3e.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD3e/guaiD3_armL
+  rotate: false
+  xy: 162, 87
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+guaiD3e/guaiD3_armR
+  rotate: false
+  xy: 194, 94
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+guaiD3e/guaiD3_eyeL
+  rotate: false
+  xy: 94, 12
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+guaiD3e/guaiD3_eyeR
+  rotate: true
+  xy: 2, 2
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+guaiD3e/guaiD3_eyebrowL
+  rotate: false
+  xy: 162, 70
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+guaiD3e/guaiD3_eyebrowR
+  rotate: false
+  xy: 158, 51
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+guaiD3e/guaiD3e_body
+  rotate: false
+  xy: 2, 11
+  size: 90, 115
+  orig: 90, 115
+  offset: 0, 0
+  index: -1
+guaiD3e/guaiD3e_flower
+  rotate: false
+  xy: 94, 70
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+guaiD3e/guaiD3e_leaf
+  rotate: false
+  xy: 94, 25
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1

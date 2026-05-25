@@ -1,0 +1,279 @@
+
+guaiSS4es.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSS4es/1
+  rotate: true
+  xy: 584, 827
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+guaiSS4es/10
+  rotate: true
+  xy: 2, 155
+  size: 286, 186
+  orig: 286, 186
+  offset: 0, 0
+  index: -1
+guaiSS4es/11
+  rotate: false
+  xy: 292, 831
+  size: 290, 184
+  orig: 290, 184
+  offset: 0, 0
+  index: -1
+guaiSS4es/2
+  rotate: false
+  xy: 192, 487
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+guaiSS4es/3
+  rotate: false
+  xy: 382, 571
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+guaiSS4es/4
+  rotate: false
+  xy: 830, 531
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+guaiSS4es/5
+  rotate: false
+  xy: 382, 311
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+guaiSS4es/6
+  rotate: false
+  xy: 572, 357
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+guaiSS4es/7
+  rotate: false
+  xy: 762, 280
+  size: 132, 88
+  orig: 132, 88
+  offset: 0, 0
+  index: -1
+guaiSS4es/8
+  rotate: false
+  xy: 2, 747
+  size: 288, 268
+  orig: 288, 268
+  offset: 0, 0
+  index: -1
+guaiSS4es/9
+  rotate: true
+  xy: 2, 443
+  size: 302, 188
+  orig: 302, 188
+  offset: 0, 0
+  index: -1
+guaiSS4es/bi1
+  rotate: false
+  xy: 303, 271
+  size: 64, 118
+  orig: 64, 118
+  offset: 0, 0
+  index: -1
+guaiSS4es/bi2
+  rotate: false
+  xy: 935, 249
+  size: 81, 96
+  orig: 81, 96
+  offset: 0, 0
+  index: -1
+guaiSS4es/er1
+  rotate: false
+  xy: 762, 553
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+guaiSS4es/er2
+  rotate: false
+  xy: 871, 187
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+guaiSS4es/fa
+  rotate: false
+  xy: 572, 233
+  size: 174, 122
+  orig: 174, 122
+  offset: 0, 0
+  index: -1
+guaiSS4es/gu
+  rotate: false
+  xy: 844, 791
+  size: 154, 224
+  orig: 154, 224
+  offset: 0, 0
+  index: -1
+guaiSS4es/huan
+  rotate: true
+  xy: 962, 190
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+guaiSS4es/jiao1
+  rotate: true
+  xy: 277, 53
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+guaiSS4es/jiao2
+  rotate: false
+  xy: 330, 234
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+guaiSS4es/jiu
+  rotate: false
+  xy: 914, 192
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+guaiSS4es/lian1
+  rotate: false
+  xy: 329, 404
+  size: 50, 81
+  orig: 50, 81
+  offset: 0, 0
+  index: -1
+guaiSS4es/lian2
+  rotate: false
+  xy: 186, 57
+  size: 89, 96
+  orig: 89, 96
+  offset: 0, 0
+  index: -1
+guaiSS4es/qizi
+  rotate: true
+  xy: 192, 391
+  size: 94, 135
+  orig: 94, 135
+  offset: 0, 0
+  index: -1
+guaiSS4es/shanzi
+  rotate: false
+  xy: 748, 185
+  size: 121, 93
+  orig: 121, 93
+  offset: 0, 0
+  index: -1
+guaiSS4es/sheng1
+  rotate: false
+  xy: 896, 252
+  size: 37, 116
+  orig: 37, 116
+  offset: 0, 0
+  index: -1
+guaiSS4es/sheng2
+  rotate: true
+  xy: 369, 271
+  size: 38, 116
+  orig: 38, 116
+  offset: 0, 0
+  index: -1
+guaiSS4es/shenti
+  rotate: true
+  xy: 572, 617
+  size: 208, 256
+  orig: 208, 256
+  offset: 0, 0
+  index: -1
+guaiSS4es/tou
+  rotate: false
+  xy: 2, 2
+  size: 182, 151
+  orig: 182, 151
+  offset: 0, 0
+  index: -1
+guaiSS4es/tui1
+  rotate: true
+  xy: 292, 757
+  size: 72, 87
+  orig: 72, 87
+  offset: 0, 0
+  index: -1
+guaiSS4es/tui2
+  rotate: true
+  xy: 487, 242
+  size: 67, 83
+  orig: 67, 83
+  offset: 0, 0
+  index: -1
+guaiSS4es/wuqi
+  rotate: false
+  xy: 937, 347
+  size: 70, 182
+  orig: 70, 182
+  offset: 0, 0
+  index: -1
+guaiSS4es/xiangzi
+  rotate: false
+  xy: 190, 267
+  size: 111, 122
+  orig: 111, 122
+  offset: 0, 0
+  index: -1
+guaiSS4es/zhi1
+  rotate: true
+  xy: 253, 22
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+guaiSS4es/zhi2
+  rotate: false
+  xy: 277, 90
+  size: 36, 65
+  orig: 36, 65
+  offset: 0, 0
+  index: -1
+guaiSS4es/zhi3
+  rotate: true
+  xy: 186, 13
+  size: 42, 65
+  orig: 42, 65
+  offset: 0, 0
+  index: -1
+guaiSS4es/zhi4
+  rotate: false
+  xy: 299, 202
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+guaiSS4es/zhuan
+  rotate: false
+  xy: 190, 157
+  size: 107, 108
+  orig: 107, 108
+  offset: 0, 0
+  index: -1
+guaiSS4es/zhugan
+  rotate: false
+  xy: 762, 370
+  size: 173, 159
+  orig: 173, 159
+  offset: 0, 0
+  index: -1

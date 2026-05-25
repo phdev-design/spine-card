@@ -1,0 +1,146 @@
+
+guaiS12dTexture.png
+size: 1013,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS12d/06
+  rotate: false
+  xy: 588, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+guaiS12d/07
+  rotate: false
+  xy: 670, 166
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+guaiS12d/toun
+  rotate: false
+  xy: 906, 187
+  size: 57, 59
+  orig: 57, 59
+  offset: 0, 0
+  index: -1
+guaiS12d/yuebei
+  rotate: false
+  xy: 178, 62
+  size: 134, 59
+  orig: 134, 59
+  offset: 0, 0
+  index: -1
+guaiS12d/yuebi1
+  rotate: false
+  xy: 965, 198
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+guaiS12d/yuebi2
+  rotate: false
+  xy: 2, 2
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+guaiS12d/yuebiyan
+  rotate: false
+  xy: 906, 157
+  size: 51, 28
+  orig: 51, 28
+  offset: 0, 0
+  index: -1
+guaiS12d/yuedai
+  rotate: false
+  xy: 451, 140
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+guaiS12d/yuefa1
+  rotate: false
+  xy: 861, 117
+  size: 43, 129
+  orig: 43, 129
+  offset: 0, 0
+  index: -1
+guaiS12d/yuefa2
+  rotate: false
+  xy: 814, 128
+  size: 45, 118
+  orig: 45, 118
+  offset: 0, 0
+  index: -1
+guaiS12d/yueliang
+  rotate: false
+  xy: 2, 33
+  size: 174, 213
+  orig: 174, 213
+  offset: 0, 0
+  index: -1
+guaiS12d/yuemao
+  rotate: false
+  xy: 451, 155
+  size: 135, 91
+  orig: 135, 91
+  offset: 0, 0
+  index: -1
+guaiS12d/yuequn
+  rotate: false
+  xy: 990, 202
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+guaiS12d/yueshen
+  rotate: false
+  xy: 321, 133
+  size: 128, 113
+  orig: 128, 113
+  offset: 0, 0
+  index: -1
+guaiS12d/yueshou1
+  rotate: false
+  xy: 931, 137
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+guaiS12d/yuetou
+  rotate: false
+  xy: 178, 123
+  size: 141, 123
+  orig: 141, 123
+  offset: 0, 0
+  index: -1
+guaiS12d/yuetui1
+  rotate: false
+  xy: 178, 36
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+guaiS12d/yuetui2
+  rotate: false
+  xy: 906, 111
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+guaiS12d/yuexing
+  rotate: false
+  xy: 54, 3
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+guaiS12d/yueyue
+  rotate: false
+  xy: 752, 168
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1

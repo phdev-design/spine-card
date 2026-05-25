@@ -1,0 +1,27 @@
+
+guaiSSS1a.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS1a/chong
+  rotate: true
+  xy: 143, 28
+  size: 69, 78
+  orig: 69, 78
+  offset: 0, 0
+  index: -1
+guaiSSS1a/dan1
+  rotate: true
+  xy: 2, 2
+  size: 95, 77
+  orig: 95, 77
+  offset: 0, 0
+  index: -1
+guaiSSS1a/dan2
+  rotate: true
+  xy: 81, 2
+  size: 95, 60
+  orig: 95, 60
+  offset: 0, 0
+  index: -1

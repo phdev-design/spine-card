@@ -1,0 +1,139 @@
+
+guaiC7eTexture.png
+size: 506,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC7e/bi1
+  rotate: false
+  xy: 196, 21
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+guaiC7e/bi2
+  rotate: false
+  xy: 316, 69
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+guaiC7e/dai
+  rotate: false
+  xy: 446, 101
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+guaiC7e/hu1
+  rotate: false
+  xy: 493, 98
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+guaiC7e/hu2
+  rotate: false
+  xy: 261, 2
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+guaiC7e/hu3
+  rotate: false
+  xy: 263, 42
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+guaiC7e/hu4
+  rotate: false
+  xy: 249, 36
+  size: 12, 36
+  orig: 12, 36
+  offset: 0, 0
+  index: -1
+guaiC7e/hu5
+  rotate: false
+  xy: 249, 2
+  size: 10, 32
+  orig: 10, 32
+  offset: 0, 0
+  index: -1
+guaiC7e/jianjia1
+  rotate: false
+  xy: 401, 92
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+guaiC7e/jianjia2
+  rotate: false
+  xy: 486, 68
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+guaiC7e/jiao1
+  rotate: false
+  xy: 355, 55
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+guaiC7e/jiao2
+  rotate: false
+  xy: 446, 73
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+guaiC7e/mao
+  rotate: false
+  xy: 196, 74
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+guaiC7e/shenti
+  rotate: false
+  xy: 106, 21
+  size: 88, 105
+  orig: 88, 105
+  offset: 0, 0
+  index: -1
+guaiC7e/shou1
+  rotate: false
+  xy: 265, 76
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+guaiC7e/shou2
+  rotate: false
+  xy: 355, 86
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+guaiC7e/tou
+  rotate: false
+  xy: 2, 20
+  size: 102, 106
+  orig: 102, 106
+  offset: 0, 0
+  index: -1
+guaiC7e/tui1
+  rotate: false
+  xy: 401, 62
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+guaiC7e/tui2
+  rotate: false
+  xy: 398, 35
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1

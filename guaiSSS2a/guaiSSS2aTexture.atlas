@@ -1,0 +1,97 @@
+
+guaiSSS2aTexture.png
+size: 480,434
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS2a/fa1
+  rotate: false
+  xy: 2, 36
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+guaiSSS2a/fa2
+  rotate: false
+  xy: 74, 102
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+guaiSSS2a/hua
+  rotate: false
+  xy: 362, 358
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+guaiSSS2a/sehnti
+  rotate: false
+  xy: 446, 399
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+guaiSSS2a/she
+  rotate: false
+  xy: 74, 80
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+guaiSSS2a/shou1
+  rotate: false
+  xy: 45, 47
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+guaiSSS2a/shou2
+  rotate: false
+  xy: 2, 2
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+guaiSSS2a/teng
+  rotate: false
+  xy: 362, 397
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: -1
+guaiSSS2a/tou
+  rotate: false
+  xy: 2, 77
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+guaiSSS2a/tui1
+  rotate: false
+  xy: 362, 325
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+guaiSSS2a/tui2
+  rotate: false
+  xy: 404, 368
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+guaiSSS2a/yan2
+  rotate: false
+  xy: 114, 128
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+guaiSSS2a/zha
+  rotate: false
+  xy: 2, 145
+  size: 358, 289
+  orig: 358, 289
+  offset: 0, 0
+  index: -1

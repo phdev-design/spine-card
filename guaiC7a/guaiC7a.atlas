@@ -1,0 +1,76 @@
+
+guaiC7a.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC7a/bi1
+  rotate: false
+  xy: 66, 90
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+guaiC7a/bi2
+  rotate: false
+  xy: 94, 90
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+guaiC7a/jiao1
+  rotate: false
+  xy: 2, 3
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+guaiC7a/jiao2
+  rotate: false
+  xy: 94, 74
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+guaiC7a/shenti
+  rotate: false
+  xy: 2, 21
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+guaiC7a/shou1
+  rotate: false
+  xy: 66, 63
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+guaiC7a/shou2
+  rotate: false
+  xy: 27, 2
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+guaiC7a/tou
+  rotate: false
+  xy: 2, 60
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+guaiC7a/tui1
+  rotate: true
+  xy: 44, 37
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+guaiC7a/tui2
+  rotate: false
+  xy: 94, 57
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1

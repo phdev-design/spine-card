@@ -1,0 +1,69 @@
+
+guaiSSS5c.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS5c/bi1
+  rotate: false
+  xy: 227, 39
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+guaiSSS5c/bi2
+  rotate: true
+  xy: 191, 44
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+guaiSSS5c/shenti
+  rotate: false
+  xy: 112, 3
+  size: 77, 73
+  orig: 77, 73
+  offset: 0, 0
+  index: -1
+guaiSSS5c/shou1
+  rotate: true
+  xy: 212, 2
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+guaiSSS5c/shou2
+  rotate: false
+  xy: 230, 3
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+guaiSSS5c/tou
+  rotate: false
+  xy: 2, 12
+  size: 108, 114
+  orig: 108, 114
+  offset: 0, 0
+  index: -1
+guaiSSS5c/tui1
+  rotate: true
+  xy: 212, 19
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+guaiSSS5c/tui2
+  rotate: false
+  xy: 191, 2
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+guaiSSS5c/wuqi
+  rotate: false
+  xy: 112, 78
+  size: 127, 48
+  orig: 127, 48
+  offset: 0, 0
+  index: -1

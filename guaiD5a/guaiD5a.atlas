@@ -1,0 +1,83 @@
+
+guaiD5a.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD5a/jiao1
+  rotate: false
+  xy: 222, 2
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+guaiD5a/tou
+  rotate: true
+  xy: 139, 9
+  size: 53, 44
+  orig: 53, 44
+  offset: 0, 0
+  index: -1
+guaiD5a/tui1
+  rotate: false
+  xy: 222, 17
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+guaiD5a/tui2
+  rotate: false
+  xy: 213, 37
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+guaiD5a/youer
+  rotate: false
+  xy: 242, 30
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+guaiD5a/youshou1
+  rotate: false
+  xy: 185, 31
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+guaiD5a/zuoer
+  rotate: true
+  xy: 234, 46
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+guaiD5a/zuojiao1
+  rotate: false
+  xy: 238, 2
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+guaiD5a/zuoshou01
+  rotate: true
+  xy: 185, 11
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+guaiD5a/zuoshou02
+  rotate: false
+  xy: 2, 11
+  size: 78, 51
+  orig: 78, 51
+  offset: 0, 0
+  index: -1
+guaiD5a/zutui1
+  rotate: false
+  xy: 82, 6
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1

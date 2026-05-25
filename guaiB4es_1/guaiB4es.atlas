@@ -1,0 +1,132 @@
+
+guaiB4es.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB4es/01
+  rotate: false
+  xy: 255, 54
+  size: 170, 94
+  orig: 170, 94
+  offset: 0, 0
+  index: -1
+guaiB4es/02
+  rotate: false
+  xy: 2, 2
+  size: 251, 146
+  orig: 251, 146
+  offset: 0, 0
+  index: -1
+guaiB4es/03
+  rotate: false
+  xy: 410, 758
+  size: 294, 235
+  orig: 294, 235
+  offset: 0, 0
+  index: -1
+guaiB4es/04
+  rotate: false
+  xy: 2, 352
+  size: 371, 305
+  orig: 371, 305
+  offset: 0, 0
+  index: -1
+guaiB4es/05
+  rotate: false
+  xy: 2, 659
+  size: 406, 334
+  orig: 406, 334
+  offset: 0, 0
+  index: -1
+guaiB4es/10
+  rotate: true
+  xy: 908, 794
+  size: 199, 112
+  orig: 199, 112
+  offset: 0, 0
+  index: -1
+guaiB4es/11
+  rotate: false
+  xy: 410, 644
+  size: 199, 112
+  orig: 199, 112
+  offset: 0, 0
+  index: -1
+guaiB4es/12
+  rotate: false
+  xy: 375, 530
+  size: 199, 112
+  orig: 199, 112
+  offset: 0, 0
+  index: -1
+guaiB4es/13
+  rotate: false
+  xy: 375, 416
+  size: 199, 112
+  orig: 199, 112
+  offset: 0, 0
+  index: -1
+guaiB4es/14
+  rotate: false
+  xy: 2, 150
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiB4es/15
+  rotate: false
+  xy: 706, 793
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiB4es/16
+  rotate: false
+  xy: 204, 150
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiB4es/guaiB4e_armL
+  rotate: true
+  xy: 255, 7
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+guaiB4es/guaiB4e_armR
+  rotate: true
+  xy: 318, 12
+  size: 40, 54
+  orig: 40, 54
+  offset: 0, 0
+  index: -1
+guaiB4es/guaiB4e_face
+  rotate: true
+  xy: 423, 326
+  size: 88, 92
+  orig: 88, 92
+  offset: 0, 0
+  index: -1
+guaiB4es/guaiB4e_hat
+  rotate: false
+  xy: 611, 650
+  size: 87, 106
+  orig: 87, 106
+  offset: 0, 0
+  index: -1
+guaiB4es/guaiB4e_jianL
+  rotate: false
+  xy: 517, 349
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+guaiB4es/guaiB4e_jianR
+  rotate: false
+  xy: 375, 352
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1

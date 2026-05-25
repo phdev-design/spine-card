@@ -1,0 +1,153 @@
+
+guaiS6dsTexture.png
+size: 510,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS6ds/01
+  rotate: false
+  xy: 2, 58
+  size: 100, 64
+  orig: 100, 64
+  offset: 0, 0
+  index: -1
+guaiS6ds/02
+  rotate: false
+  xy: 104, 22
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+guaiS6ds/chibang01
+  rotate: false
+  xy: 2, 23
+  size: 92, 33
+  orig: 92, 33
+  offset: 0, 0
+  index: -1
+guaiS6ds/chibang02
+  rotate: false
+  xy: 338, 219
+  size: 55, 35
+  orig: 55, 35
+  offset: 0, 0
+  index: -1
+guaiS6ds/chibang03
+  rotate: false
+  xy: 436, 207
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+guaiS6ds/chibang04
+  rotate: false
+  xy: 395, 217
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+guaiS6ds/dapao
+  rotate: false
+  xy: 156, 43
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+guaiS6ds/er1
+  rotate: false
+  xy: 469, 219
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+guaiS6ds/er2
+  rotate: false
+  xy: 208, 39
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+guaiS6ds/er3
+  rotate: false
+  xy: 338, 182
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+guaiS6ds/er4
+  rotate: false
+  xy: 366, 182
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+guaiS6ds/gebilin
+  rotate: false
+  xy: 251, 188
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+guaiS6ds/gebulin2
+  rotate: false
+  xy: 156, 77
+  size: 51, 79
+  orig: 51, 79
+  offset: 0, 0
+  index: -1
+guaiS6ds/jiyi01
+  rotate: false
+  xy: 209, 76
+  size: 36, 80
+  orig: 36, 80
+  offset: 0, 0
+  index: -1
+guaiS6ds/jiyi02
+  rotate: false
+  xy: 304, 191
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+guaiS6ds/sheiti03
+  rotate: false
+  xy: 2, 2
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+guaiS6ds/shenti
+  rotate: false
+  xy: 2, 124
+  size: 152, 130
+  orig: 152, 130
+  offset: 0, 0
+  index: -1
+guaiS6ds/shenti02
+  rotate: false
+  xy: 497, 217
+  size: 13, 37
+  orig: 13, 37
+  offset: 0, 0
+  index: -1
+guaiS6ds/shenti04
+  rotate: false
+  xy: 34, 4
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+guaiS6ds/zhengqi01
+  rotate: false
+  xy: 156, 158
+  size: 90, 34
+  orig: 90, 34
+  offset: 0, 0
+  index: -1
+guaiS6ds/zhengqi02
+  rotate: false
+  xy: 156, 194
+  size: 93, 60
+  orig: 93, 60
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+guaiD5dsTexture.png
+size: 838,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD5ds/01
+  rotate: false
+  xy: 2, 746
+  size: 318, 276
+  orig: 318, 276
+  offset: 0, 0
+  index: -1
+guaiD5ds/02
+  rotate: false
+  xy: 2, 468
+  size: 318, 276
+  orig: 318, 276
+  offset: 0, 0
+  index: -1
+guaiD5ds/03
+  rotate: false
+  xy: 322, 746
+  size: 318, 276
+  orig: 318, 276
+  offset: 0, 0
+  index: -1
+guaiD5ds/04
+  rotate: false
+  xy: 2, 190
+  size: 318, 276
+  orig: 318, 276
+  offset: 0, 0
+  index: -1
+guaiD5ds/05
+  rotate: false
+  xy: 322, 468
+  size: 318, 276
+  orig: 318, 276
+  offset: 0, 0
+  index: -1
+guaiD5ds/shenti
+  rotate: false
+  xy: 322, 379
+  size: 103, 87
+  orig: 103, 87
+  offset: 0, 0
+  index: -1
+guaiD5ds/tou
+  rotate: false
+  xy: 642, 902
+  size: 156, 120
+  orig: 156, 120
+  offset: 0, 0
+  index: -1
+guaiD5ds/youer
+  rotate: false
+  xy: 800, 937
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+guaiD5ds/youshou1
+  rotate: false
+  xy: 642, 824
+  size: 49, 76
+  orig: 49, 76
+  offset: 0, 0
+  index: -1
+guaiD5ds/zuoer
+  rotate: false
+  xy: 427, 434
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+guaiD5ds/zuoshou01
+  rotate: false
+  xy: 800, 962
+  size: 38, 60
+  orig: 38, 60
+  offset: 0, 0
+  index: -1
+guaiD5ds/zuoshou02
+  rotate: false
+  xy: 2, 102
+  size: 129, 86
+  orig: 129, 86
+  offset: 0, 0
+  index: -1
+guaiD5ds/zuotui1
+  rotate: false
+  xy: 322, 341
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+guaiD5ds/zuotui2
+  rotate: false
+  xy: 693, 882
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+guaiD5ds/zuotui3
+  rotate: false
+  xy: 133, 151
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+guaiD5ds/zuotui5
+  rotate: false
+  xy: 642, 803
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+guaiD5ds/zutui1
+  rotate: false
+  xy: 2, 2
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+guaiD5ds/zutui4
+  rotate: false
+  xy: 2, 52
+  size: 41, 48
+  orig: 41, 48
+  offset: 0, 0
+  index: -1

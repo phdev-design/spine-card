@@ -1,0 +1,62 @@
+
+guaiS6b.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS6b/gan
+  rotate: false
+  xy: 180, 20
+  size: 17, 44
+  orig: 17, 44
+  offset: 0, 0
+  index: -1
+guaiS6b/pao
+  rotate: true
+  xy: 151, 17
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+guaiS6b/ren
+  rotate: false
+  xy: 151, 66
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+guaiS6b/shenti
+  rotate: false
+  xy: 2, 2
+  size: 147, 116
+  orig: 147, 116
+  offset: 0, 0
+  index: -1
+guaiS6b/tong
+  rotate: false
+  xy: 221, 69
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+guaiS6b/zhuan1
+  rotate: false
+  xy: 187, 105
+  size: 61, 13
+  orig: 61, 13
+  offset: 0, 0
+  index: -1
+guaiS6b/zhuan2
+  rotate: true
+  xy: 243, 30
+  size: 73, 11
+  orig: 73, 11
+  offset: 0, 0
+  index: -1
+guaiS6b/zhuanB
+  rotate: false
+  xy: 187, 70
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1

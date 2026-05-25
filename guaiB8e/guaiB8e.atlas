@@ -1,0 +1,104 @@
+
+guaiB8e.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB8e/niao
+  rotate: true
+  xy: 421, 56
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+guaiB8e/niaochi
+  rotate: false
+  xy: 457, 65
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+guaiB8e/niaotou
+  rotate: false
+  xy: 326, 32
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+guaiB8e/qugan
+  rotate: false
+  xy: 260, 62
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+guaiB8e/tou
+  rotate: false
+  xy: 2, 20
+  size: 117, 106
+  orig: 117, 106
+  offset: 0, 0
+  index: -1
+guaiB8e/wuqi
+  rotate: true
+  xy: 121, 52
+  size: 74, 137
+  orig: 74, 137
+  offset: 0, 0
+  index: -1
+guaiB8e/youjiao
+  rotate: false
+  xy: 176, 15
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+guaiB8e/youshou01
+  rotate: false
+  xy: 379, 56
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+guaiB8e/youshou02
+  rotate: false
+  xy: 379, 94
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+guaiB8e/youtui
+  rotate: false
+  xy: 338, 66
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+guaiB8e/yumao
+  rotate: true
+  xy: 260, 2
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+guaiB8e/zuojiao
+  rotate: false
+  xy: 220, 12
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+guaiB8e/zuoshou
+  rotate: true
+  xy: 121, 18
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+guaiB8e/zuotui
+  rotate: true
+  xy: 446, 95
+  size: 31, 60
+  orig: 31, 60
+  offset: 0, 0
+  index: -1

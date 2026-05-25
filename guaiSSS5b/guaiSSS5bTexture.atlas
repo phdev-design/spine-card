@@ -1,0 +1,62 @@
+
+guaiSSS5bTexture.png
+size: 119,122
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS5b/bi1
+  rotate: false
+  xy: 85, 24
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1
+guaiSSS5b/bi2
+  rotate: false
+  xy: 32, 2
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+guaiSSS5b/shenti
+  rotate: false
+  xy: 2, 13
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+guaiSSS5b/shu
+  rotate: false
+  xy: 85, 58
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+guaiSSS5b/tou
+  rotate: false
+  xy: 2, 49
+  size: 81, 73
+  orig: 81, 73
+  offset: 0, 0
+  index: -1
+guaiSSS5b/tui1
+  rotate: false
+  xy: 85, 84
+  size: 17, 38
+  orig: 17, 38
+  offset: 0, 0
+  index: -1
+guaiSSS5b/tui2
+  rotate: false
+  xy: 104, 84
+  size: 15, 38
+  orig: 15, 38
+  offset: 0, 0
+  index: -1
+guaiSSS5b/yan
+  rotate: false
+  xy: 32, 30
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1

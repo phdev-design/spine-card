@@ -1,0 +1,20 @@
+
+guaiB1b.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB1b/guaiB1b_body
+  rotate: true
+  xy: 2, 2
+  size: 93, 155
+  orig: 93, 155
+  offset: 0, 0
+  index: -1
+guaiB1b/guaiB1b_wing
+  rotate: false
+  xy: 159, 52
+  size: 44, 43
+  orig: 44, 43
+  offset: 0, 0
+  index: -1

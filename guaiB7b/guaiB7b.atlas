@@ -1,0 +1,76 @@
+
+guaiB7b.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB7b/Glow
+  rotate: true
+  xy: 2, 48
+  size: 195, 285
+  orig: 195, 285
+  offset: 0, 0
+  index: -1
+guaiB7b/TX2
+  rotate: false
+  xy: 847, 103
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+guaiB7b/TX3
+  rotate: false
+  xy: 701, 83
+  size: 144, 160
+  orig: 144, 160
+  offset: 0, 0
+  index: -1
+guaiB7b/YX1
+  rotate: false
+  xy: 289, 21
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+guaiB7b/glow2
+  rotate: false
+  xy: 513, 82
+  size: 186, 161
+  orig: 186, 161
+  offset: 0, 0
+  index: -1
+guaiB7b/guai7B5
+  rotate: false
+  xy: 513, 21
+  size: 73, 59
+  orig: 73, 59
+  offset: 0, 0
+  index: -1
+guaiB7b/guai7B6
+  rotate: true
+  xy: 847, 87
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+guaiB7b/guai7B7
+  rotate: false
+  xy: 588, 58
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+guaiB7b/guai7B8
+  rotate: false
+  xy: 989, 215
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+guaiB7b/guai7B9
+  rotate: false
+  xy: 2, 2
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1

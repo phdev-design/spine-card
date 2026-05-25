@@ -1,0 +1,125 @@
+
+guaiC6ds.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC6ds/01
+  rotate: false
+  xy: 680, 152
+  size: 210, 102
+  orig: 210, 102
+  offset: 0, 0
+  index: -1
+guaiC6ds/02
+  rotate: false
+  xy: 462, 152
+  size: 216, 102
+  orig: 216, 102
+  offset: 0, 0
+  index: -1
+guaiC6ds/03
+  rotate: false
+  xy: 234, 22
+  size: 218, 112
+  orig: 218, 112
+  offset: 0, 0
+  index: -1
+guaiC6ds/04
+  rotate: false
+  xy: 2, 136
+  size: 232, 118
+  orig: 232, 118
+  offset: 0, 0
+  index: -1
+guaiC6ds/05
+  rotate: false
+  xy: 2, 20
+  size: 230, 114
+  orig: 230, 114
+  offset: 0, 0
+  index: -1
+guaiC6ds/06
+  rotate: false
+  xy: 236, 136
+  size: 224, 118
+  orig: 224, 118
+  offset: 0, 0
+  index: -1
+guaiC6ds/07
+  rotate: false
+  xy: 462, 48
+  size: 208, 102
+  orig: 208, 102
+  offset: 0, 0
+  index: -1
+guaiC6ds/08
+  rotate: false
+  xy: 672, 48
+  size: 204, 102
+  orig: 204, 102
+  offset: 0, 0
+  index: -1
+guaiC6ds/guaiC6d_body
+  rotate: false
+  xy: 892, 182
+  size: 107, 72
+  orig: 107, 72
+  offset: 0, 0
+  index: -1
+guaiC6ds/guaiC6d_erduo1
+  rotate: false
+  xy: 878, 98
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+guaiC6ds/guaiC6d_erduo2
+  rotate: false
+  xy: 1001, 228
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+guaiC6ds/guaiC6d_hua
+  rotate: false
+  xy: 892, 131
+  size: 82, 49
+  orig: 82, 49
+  offset: 0, 0
+  index: -1
+guaiC6ds/guaiC6d_leg1
+  rotate: true
+  xy: 878, 141
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+guaiC6ds/guaiC6d_leg2
+  rotate: false
+  xy: 878, 84
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+guaiC6ds/guaiC6d_leg3
+  rotate: false
+  xy: 1001, 211
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+guaiC6ds/guaiC6d_leg4
+  rotate: true
+  xy: 2, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+guaiC6ds/guaiC6d_weiba
+  rotate: true
+  xy: 976, 139
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+guaiSSS1b.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS1b/maozi
+  rotate: true
+  xy: 219, 60
+  size: 57, 34
+  orig: 57, 34
+  offset: 0, 0
+  index: -1
+guaiSSS1b/shenti
+  rotate: true
+  xy: 2, 15
+  size: 102, 86
+  orig: 102, 86
+  offset: 0, 0
+  index: -1
+guaiSSS1b/shou
+  rotate: true
+  xy: 167, 64
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+guaiSSS1b/tou
+  rotate: true
+  xy: 90, 32
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+guaiSSS1b/weijin
+  rotate: false
+  xy: 99, 4
+  size: 78, 26
+  orig: 78, 26
+  offset: 0, 0
+  index: -1
+guaiSSS1b/xueqiu1
+  rotate: true
+  xy: 179, 9
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+guaiSSS1b/yanqiu
+  rotate: false
+  xy: 2, 2
+  size: 46, 11
+  orig: 46, 11
+  offset: 0, 0
+  index: -1
+guaiSSS1b/zhayan
+  rotate: false
+  xy: 50, 4
+  size: 47, 9
+  orig: 47, 9
+  offset: 0, 0
+  index: -1

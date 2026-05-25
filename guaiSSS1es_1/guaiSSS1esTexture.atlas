@@ -1,0 +1,62 @@
+
+guaiSSS1esTexture_1.png
+size: 821,957
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS1es_1/01
+  rotate: false
+  xy: 2, 681
+  size: 318, 276
+  orig: 318, 276
+  offset: 0, 0
+  index: -1
+guaiSSS1es_1/02
+  rotate: false
+  xy: 2, 403
+  size: 318, 276
+  orig: 318, 276
+  offset: 0, 0
+  index: -1
+guaiSSS1es_1/03
+  rotate: false
+  xy: 322, 681
+  size: 318, 276
+  orig: 318, 276
+  offset: 0, 0
+  index: -1
+guaiSSS1es_1/04
+  rotate: false
+  xy: 2, 125
+  size: 318, 276
+  orig: 318, 276
+  offset: 0, 0
+  index: -1
+guaiSSS1es_1/05
+  rotate: false
+  xy: 322, 403
+  size: 318, 276
+  orig: 318, 276
+  offset: 0, 0
+  index: -1
+guaiSSS1es_1/chong
+  rotate: false
+  xy: 322, 208
+  size: 116, 193
+  orig: 116, 193
+  offset: 0, 0
+  index: -1
+guaiSSS1es_1/dan1
+  rotate: false
+  xy: 642, 804
+  size: 179, 153
+  orig: 179, 153
+  offset: 0, 0
+  index: -1
+guaiSSS1es_1/dan2
+  rotate: false
+  xy: 2, 2
+  size: 180, 121
+  orig: 180, 121
+  offset: 0, 0
+  index: -1

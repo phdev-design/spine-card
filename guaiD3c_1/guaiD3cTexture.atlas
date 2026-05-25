@@ -1,0 +1,55 @@
+
+guaiD3cTexture_1.png
+size: 192,117
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD3c_1/guaiD3_armL
+  rotate: false
+  xy: 94, 33
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+guaiD3c_1/guaiD3_armR
+  rotate: false
+  xy: 158, 85
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+guaiD3c_1/guaiD3_eyeL
+  rotate: false
+  xy: 94, 20
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+guaiD3c_1/guaiD3_eyeR
+  rotate: false
+  xy: 158, 74
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+guaiD3c_1/guaiD3c_body
+  rotate: false
+  xy: 2, 2
+  size: 90, 115
+  orig: 90, 115
+  offset: 0, 0
+  index: -1
+guaiD3c_1/guaiD3c_flower
+  rotate: false
+  xy: 126, 38
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+guaiD3c_1/guaiD3c_leaf
+  rotate: false
+  xy: 94, 74
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1

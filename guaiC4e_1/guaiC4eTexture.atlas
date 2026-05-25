@@ -1,0 +1,272 @@
+
+guaiC4eTexture_1.png
+size: 1021,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC4e_1/01
+  rotate: false
+  xy: 204, 51
+  size: 100, 75
+  orig: 100, 75
+  offset: 0, 0
+  index: -1
+guaiC4e_1/02
+  rotate: false
+  xy: 306, 51
+  size: 100, 75
+  orig: 100, 75
+  offset: 0, 0
+  index: -1
+guaiC4e_1/03
+  rotate: false
+  xy: 408, 51
+  size: 100, 75
+  orig: 100, 75
+  offset: 0, 0
+  index: -1
+guaiC4e_1/04
+  rotate: false
+  xy: 510, 51
+  size: 100, 75
+  orig: 100, 75
+  offset: 0, 0
+  index: -1
+guaiC4e_1/bi1
+  rotate: false
+  xy: 1008, 93
+  size: 13, 33
+  orig: 13, 33
+  offset: 0, 0
+  index: -1
+guaiC4e_1/bi2
+  rotate: false
+  xy: 424, 10
+  size: 15, 39
+  orig: 15, 39
+  offset: 0, 0
+  index: -1
+guaiC4e_1/dang
+  rotate: false
+  xy: 828, 79
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+guaiC4e_1/guaiC4_arm1
+  rotate: false
+  xy: 404, 10
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+guaiC4e_1/guaiC4_arm2
+  rotate: false
+  xy: 759, 76
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+guaiC4e_1/guaiC4_body
+  rotate: false
+  xy: 125, 20
+  size: 77, 106
+  orig: 77, 106
+  offset: 0, 0
+  index: -1
+guaiC4e_1/guaiC4_ear
+  rotate: false
+  xy: 336, 29
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+guaiC4e_1/guaiC4_face
+  rotate: false
+  xy: 235, 22
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+guaiC4e_1/guaiC4_foot
+  rotate: false
+  xy: 336, 2
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+guaiC4e_1/guaiC4_light
+  rotate: false
+  xy: 362, 35
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+guaiC4e_1/guaiC4_lip
+  rotate: false
+  xy: 712, 82
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+guaiC4e_1/guaiC4_mouth
+  rotate: false
+  xy: 950, 92
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+guaiC4e_1/guaiC4_spring1
+  rotate: false
+  xy: 287, 25
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+guaiC4e_1/guaiC4_spring2
+  rotate: false
+  xy: 391, 45
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+guaiC4e_1/guaiC4_tongue
+  rotate: false
+  xy: 235, 2
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+guaiC4e_1/guaiC4_tooth
+  rotate: false
+  xy: 981, 96
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+guaiC4e_1/j1
+  rotate: false
+  xy: 481, 21
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+guaiC4e_1/j2
+  rotate: false
+  xy: 506, 37
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+guaiC4e_1/jian1
+  rotate: false
+  xy: 799, 73
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+guaiC4e_1/jian2
+  rotate: false
+  xy: 204, 2
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+guaiC4e_1/key
+  rotate: false
+  xy: 875, 92
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+guaiC4e_1/pao1
+  rotate: false
+  xy: 612, 62
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+guaiC4e_1/pao2
+  rotate: false
+  xy: 663, 62
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+guaiC4e_1/shenti
+  rotate: false
+  xy: 2, 9
+  size: 121, 117
+  orig: 121, 117
+  offset: 0, 0
+  index: -1
+guaiC4e_1/t1
+  rotate: false
+  xy: 362, 2
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+guaiC4e_1/t2
+  rotate: false
+  xy: 462, 20
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+guaiC4e_1/tou
+  rotate: false
+  xy: 828, 95
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+guaiC4e_1/tui1
+  rotate: false
+  xy: 441, 14
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+guaiC4e_1/tui2
+  rotate: false
+  xy: 384, 2
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+guaiC4e_1/xiong
+  rotate: false
+  xy: 913, 88
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+guaiC4e_1/yan1
+  rotate: false
+  xy: 481, 36
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+guaiC4e_1/yan2
+  rotate: false
+  xy: 125, 9
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+guaiC4e_1/yan3
+  rotate: false
+  xy: 712, 68
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+guaiC4e_1/yan4
+  rotate: false
+  xy: 612, 52
+  size: 31, 8
+  orig: 31, 8
+  offset: 0, 0
+  index: -1

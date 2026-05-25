@@ -1,0 +1,48 @@
+
+guaiB5dTexture_1.png
+size: 121,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB5d_1/guaiB5d_body
+  rotate: false
+  xy: 2, 168
+  size: 119, 68
+  orig: 119, 68
+  offset: 0, 0
+  index: -1
+guaiB5d_1/guaiB5d_head
+  rotate: false
+  xy: 2, 100
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+guaiB5d_1/guaiB5d_leg1
+  rotate: false
+  xy: 40, 2
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+guaiB5d_1/guaiB5d_leg2
+  rotate: false
+  xy: 61, 98
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+guaiB5d_1/guaiB5d_neck
+  rotate: false
+  xy: 2, 21
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+guaiB5d_1/guaiB5d_zongmao
+  rotate: false
+  xy: 40, 56
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+guaiC4e.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC4e/guaiC4_arm1
+  rotate: true
+  xy: 128, 77
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+guaiC4e/guaiC4_arm2
+  rotate: false
+  xy: 81, 28
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+guaiC4e/guaiC4_body
+  rotate: false
+  xy: 2, 18
+  size: 77, 106
+  orig: 77, 106
+  offset: 0, 0
+  index: -1
+guaiC4e/guaiC4_ear
+  rotate: false
+  xy: 148, 15
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+guaiC4e/guaiC4_face
+  rotate: false
+  xy: 128, 97
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+guaiC4e/guaiC4_foot
+  rotate: true
+  xy: 121, 20
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+guaiC4e/guaiC4_light
+  rotate: false
+  xy: 2, 2
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+guaiC4e/guaiC4_lip
+  rotate: false
+  xy: 81, 80
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+guaiC4e/guaiC4_mouth
+  rotate: false
+  xy: 121, 41
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+guaiC4e/guaiC4_spring1
+  rotate: false
+  xy: 180, 100
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+guaiC4e/guaiC4_spring2
+  rotate: true
+  xy: 169, 84
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+guaiC4e/guaiC4_tongue
+  rotate: true
+  xy: 152, 37
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+guaiC4e/guaiC4_tooth
+  rotate: false
+  xy: 229, 94
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

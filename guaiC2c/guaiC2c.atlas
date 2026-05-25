@@ -1,0 +1,97 @@
+
+guaiC2c.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC2c/jian
+  rotate: false
+  xy: 219, 33
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+guaiC2c/jian1
+  rotate: false
+  xy: 314, 102
+  size: 160, 24
+  orig: 160, 24
+  offset: 0, 0
+  index: -1
+guaiC2c/tou
+  rotate: false
+  xy: 2, 4
+  size: 105, 122
+  orig: 105, 122
+  offset: 0, 0
+  index: -1
+guaiC2c/xian
+  rotate: false
+  xy: 314, 36
+  size: 71, 64
+  orig: 71, 64
+  offset: 0, 0
+  index: -1
+guaiC2c/yao
+  rotate: false
+  xy: 387, 40
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+guaiC2c/youjiao1
+  rotate: false
+  xy: 219, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+guaiC2c/youjiao2
+  rotate: true
+  xy: 476, 105
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+guaiC2c/youshou1
+  rotate: false
+  xy: 435, 64
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+guaiC2c/youshou2
+  rotate: true
+  xy: 109, 5
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+guaiC2c/zuojiao1
+  rotate: false
+  xy: 278, 5
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+guaiC2c/zuojiao2
+  rotate: true
+  xy: 435, 42
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+guaiC2c/zuoshou1
+  rotate: false
+  xy: 109, 27
+  size: 108, 99
+  orig: 108, 99
+  offset: 0, 0
+  index: -1
+guaiC2c/zuoshou2
+  rotate: false
+  xy: 251, 3
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1

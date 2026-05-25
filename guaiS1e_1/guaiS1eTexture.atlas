@@ -1,0 +1,244 @@
+
+guaiS1eTexture_1.png
+size: 1022,501
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS1e_1/guaiS101
+  rotate: false
+  xy: 2, 142
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1_s01
+  rotate: false
+  xy: 2, 142
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS102
+  rotate: false
+  xy: 250, 301
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1_s02
+  rotate: false
+  xy: 250, 301
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS103
+  rotate: false
+  xy: 452, 301
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1_s03
+  rotate: false
+  xy: 452, 301
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS104
+  rotate: false
+  xy: 654, 301
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1_s04
+  rotate: false
+  xy: 654, 301
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS105
+  rotate: false
+  xy: 204, 99
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1_s05
+  rotate: false
+  xy: 204, 99
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1_armL2
+  rotate: false
+  xy: 67, 22
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1_armL3
+  rotate: false
+  xy: 735, 254
+  size: 24, 45
+  orig: 24, 45
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1_armL4
+  rotate: false
+  xy: 185, 104
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1_armR1
+  rotate: false
+  xy: 937, 341
+  size: 45, 88
+  orig: 45, 88
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1_armR2
+  rotate: false
+  xy: 988, 460
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1_armR3
+  rotate: false
+  xy: 761, 260
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1_armR4
+  rotate: false
+  xy: 856, 302
+  size: 13, 35
+  orig: 13, 35
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1_armor1
+  rotate: false
+  xy: 522, 232
+  size: 57, 67
+  orig: 57, 67
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1_head2
+  rotate: false
+  xy: 581, 251
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1_head3
+  rotate: false
+  xy: 204, 301
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1e_armL1
+  rotate: false
+  xy: 856, 339
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1e_armor1
+  rotate: false
+  xy: 406, 131
+  size: 58, 98
+  orig: 58, 98
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1e_body
+  rotate: false
+  xy: 406, 231
+  size: 114, 68
+  orig: 114, 68
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1e_handL1
+  rotate: false
+  xy: 466, 159
+  size: 51, 70
+  orig: 51, 70
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1e_handR1
+  rotate: false
+  xy: 701, 254
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1e_head1
+  rotate: false
+  xy: 2, 2
+  size: 63, 71
+  orig: 63, 71
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1e_light
+  rotate: false
+  xy: 671, 227
+  size: 28, 72
+  orig: 28, 72
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1e_nack
+  rotate: false
+  xy: 638, 237
+  size: 31, 62
+  orig: 31, 62
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1e_ringB
+  rotate: false
+  xy: 466, 136
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1e_ringF
+  rotate: false
+  xy: 406, 107
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1e_shoulder
+  rotate: false
+  xy: 134, 78
+  size: 49, 62
+  orig: 49, 62
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1e_weapon
+  rotate: false
+  xy: 2, 344
+  size: 246, 157
+  orig: 246, 157
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1e_wingB
+  rotate: false
+  xy: 2, 75
+  size: 130, 65
+  orig: 130, 65
+  offset: 0, 0
+  index: -1
+guaiS1e_1/guaiS1e_wingF
+  rotate: false
+  xy: 856, 431
+  size: 130, 70
+  orig: 130, 70
+  offset: 0, 0
+  index: -1

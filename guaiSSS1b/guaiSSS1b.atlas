@@ -1,0 +1,48 @@
+
+guaiSSS1b.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS1b/gui2
+  rotate: true
+  xy: 284, 73
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+guaiSSS1b/lian
+  rotate: false
+  xy: 141, 56
+  size: 74, 70
+  orig: 74, 70
+  offset: 0, 0
+  index: -1
+guaiSSS1b/pao1
+  rotate: false
+  xy: 141, 31
+  size: 57, 23
+  orig: 57, 23
+  offset: 0, 0
+  index: -1
+guaiSSS1b/pao2
+  rotate: false
+  xy: 284, 103
+  size: 57, 23
+  orig: 57, 23
+  offset: 0, 0
+  index: -1
+guaiSSS1b/shenti
+  rotate: true
+  xy: 2, 2
+  size: 124, 137
+  orig: 124, 137
+  offset: 0, 0
+  index: -1
+guaiSSS1b/tui
+  rotate: false
+  xy: 217, 70
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1

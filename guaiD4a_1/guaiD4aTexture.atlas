@@ -1,0 +1,27 @@
+
+guaiD4aTexture_1.png
+size: 110,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD4a_1/guaiD4_hand1
+  rotate: false
+  xy: 72, 35
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+guaiD4a_1/guaiD4_hand2
+  rotate: false
+  xy: 72, 72
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+guaiD4a_1/guaiD4a_body
+  rotate: false
+  xy: 2, 2
+  size: 68, 104
+  orig: 68, 104
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+guaiB2e.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB2e/body
+  rotate: false
+  xy: 164, 76
+  size: 158, 163
+  orig: 158, 163
+  offset: 0, 0
+  index: -1
+guaiB2e/hair
+  rotate: false
+  xy: 2, 59
+  size: 160, 180
+  orig: 160, 180
+  offset: 0, 0
+  index: -1
+guaiB2e/head
+  rotate: false
+  xy: 483, 118
+  size: 165, 121
+  orig: 165, 121
+  offset: 0, 0
+  index: -1
+guaiB2e/left arm
+  rotate: false
+  xy: 731, 145
+  size: 57, 94
+  orig: 57, 94
+  offset: 0, 0
+  index: -1
+guaiB2e/left foot
+  rotate: false
+  xy: 227, 41
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+guaiB2e/left hand
+  rotate: false
+  xy: 324, 99
+  size: 157, 140
+  orig: 157, 140
+  offset: 0, 0
+  index: -1
+guaiB2e/left leg
+  rotate: false
+  xy: 164, 30
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+guaiB2e/right arm
+  rotate: false
+  xy: 790, 174
+  size: 68, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+guaiB2e/right foot
+  rotate: false
+  xy: 916, 184
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+guaiB2e/right hand
+  rotate: false
+  xy: 105, 5
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+guaiB2e/right leg
+  rotate: false
+  xy: 860, 177
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+guaiB2e/right shoulder
+  rotate: false
+  xy: 650, 145
+  size: 79, 94
+  orig: 79, 94
+  offset: 0, 0
+  index: -1
+guaiB2e/underwear
+  rotate: false
+  xy: 2, 2
+  size: 101, 55
+  orig: 101, 55
+  offset: 0, 0
+  index: -1

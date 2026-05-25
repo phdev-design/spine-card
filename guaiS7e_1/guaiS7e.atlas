@@ -1,0 +1,76 @@
+
+guaiS7e.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS7e/beibao
+  rotate: false
+  xy: 158, 2
+  size: 99, 118
+  orig: 99, 118
+  offset: 0, 0
+  index: -1
+guaiS7e/nvtou
+  rotate: false
+  xy: 301, 89
+  size: 110, 87
+  orig: 110, 87
+  offset: 0, 0
+  index: -1
+guaiS7e/tiu2
+  rotate: false
+  xy: 331, 50
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+guaiS7e/tui1
+  rotate: false
+  xy: 259, 91
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+guaiS7e/xiongshen
+  rotate: false
+  xy: 2, 78
+  size: 154, 166
+  orig: 154, 166
+  offset: 0, 0
+  index: -1
+guaiS7e/xiongshou1
+  rotate: true
+  xy: 2, 2
+  size: 74, 154
+  orig: 74, 154
+  offset: 0, 0
+  index: -1
+guaiS7e/xiongshou2
+  rotate: true
+  xy: 301, 178
+  size: 66, 140
+  orig: 66, 140
+  offset: 0, 0
+  index: -1
+guaiS7e/xiongtou
+  rotate: false
+  xy: 158, 122
+  size: 141, 122
+  orig: 141, 122
+  offset: 0, 0
+  index: -1
+guaiS7e/xiongtui1
+  rotate: false
+  xy: 259, 9
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+guaiS7e/xiongtui2
+  rotate: false
+  xy: 443, 194
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1

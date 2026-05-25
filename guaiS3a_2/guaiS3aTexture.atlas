@@ -1,0 +1,69 @@
+
+guaiS3aTexture_2.png
+size: 245,54
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS3a_2/she
+  rotate: false
+  xy: 230, 41
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+guaiS3a_2/shenti
+  rotate: false
+  xy: 2, 4
+  size: 79, 50
+  orig: 79, 50
+  offset: 0, 0
+  index: -1
+guaiS3a_2/tou
+  rotate: false
+  xy: 83, 19
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+guaiS3a_2/tuiB1
+  rotate: false
+  xy: 194, 18
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+guaiS3a_2/tuiB2
+  rotate: false
+  xy: 156, 17
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+guaiS3a_2/tuiF1
+  rotate: false
+  xy: 212, 18
+  size: 16, 36
+  orig: 16, 36
+  offset: 0, 0
+  index: -1
+guaiS3a_2/tuiF2
+  rotate: false
+  xy: 175, 17
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+guaiS3a_2/xiaba1
+  rotate: false
+  xy: 124, 30
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+guaiS3a_2/xiaba2
+  rotate: false
+  xy: 83, 2
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1

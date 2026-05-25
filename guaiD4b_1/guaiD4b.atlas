@@ -1,0 +1,27 @@
+
+guaiD4b.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD4b/guaiD4_hand1
+  rotate: false
+  xy: 88, 40
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+guaiD4b/guaiD4_hand2
+  rotate: false
+  xy: 88, 77
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+guaiD4b/guaiD4b_body
+  rotate: false
+  xy: 2, 2
+  size: 84, 109
+  orig: 84, 109
+  offset: 0, 0
+  index: -1

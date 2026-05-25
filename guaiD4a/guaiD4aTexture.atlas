@@ -1,0 +1,55 @@
+
+guaiD4aTexture.png
+size: 61,118
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD4a/hua
+  rotate: false
+  xy: 2, 2
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+guaiD4a/qugan
+  rotate: false
+  xy: 2, 51
+  size: 48, 67
+  orig: 48, 67
+  offset: 0, 0
+  index: -1
+guaiD4a/youjiao
+  rotate: false
+  xy: 48, 38
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+guaiD4a/youshou1
+  rotate: false
+  xy: 2, 22
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+guaiD4a/zhi
+  rotate: false
+  xy: 52, 95
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+guaiD4a/zuojiao
+  rotate: false
+  xy: 52, 107
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+guaiD4a/zuoshou
+  rotate: false
+  xy: 28, 3
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1

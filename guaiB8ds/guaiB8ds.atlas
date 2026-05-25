@@ -1,0 +1,146 @@
+
+guaiB8ds.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB8ds/01
+  rotate: false
+  xy: 91, 26
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8ds/02
+  rotate: false
+  xy: 166, 26
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8ds/03
+  rotate: false
+  xy: 241, 26
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8ds/04
+  rotate: false
+  xy: 316, 26
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8ds/05
+  rotate: false
+  xy: 391, 26
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8ds/06
+  rotate: false
+  xy: 466, 26
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8ds/07
+  rotate: false
+  xy: 541, 26
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8ds/08
+  rotate: false
+  xy: 616, 26
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8ds/09
+  rotate: false
+  xy: 691, 26
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8ds/10
+  rotate: false
+  xy: 766, 26
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8ds/qugan
+  rotate: true
+  xy: 945, 76
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+guaiB8ds/shou02
+  rotate: false
+  xy: 942, 41
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+guaiB8ds/tou
+  rotate: true
+  xy: 2, 24
+  size: 102, 87
+  orig: 102, 87
+  offset: 0, 0
+  index: -1
+guaiB8ds/wuqi
+  rotate: false
+  xy: 841, 34
+  size: 72, 92
+  orig: 72, 92
+  offset: 0, 0
+  index: -1
+guaiB8ds/youjiao
+  rotate: false
+  xy: 875, 3
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+guaiB8ds/youshou01
+  rotate: true
+  xy: 915, 37
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+guaiB8ds/youtui
+  rotate: true
+  xy: 908, 7
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+guaiB8ds/zuojiao
+  rotate: false
+  xy: 841, 2
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+guaiB8ds/zuoshou01
+  rotate: false
+  xy: 915, 65
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+guaiB8ds/zuotui
+  rotate: false
+  xy: 915, 98
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+guaiD6e.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD6e/guaiD6e_armL
+  rotate: false
+  xy: 176, 39
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+guaiD6e/guaiD6e_armR
+  rotate: true
+  xy: 86, 2
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+guaiD6e/guaiD6e_body
+  rotate: false
+  xy: 2, 9
+  size: 82, 117
+  orig: 82, 117
+  offset: 0, 0
+  index: -1
+guaiD6e/guaiD6e_hat
+  rotate: false
+  xy: 86, 39
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+guaiD6e/guaiD6e_tail
+  rotate: false
+  xy: 176, 68
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+guaiC8dTexture_1.png
+size: 230,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC8d_1/guaiC8d_body
+  rotate: false
+  xy: 172, 84
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+guaiC8d_1/guaiC8d_head
+  rotate: false
+  xy: 2, 27
+  size: 87, 92
+  orig: 87, 92
+  offset: 0, 0
+  index: -1
+guaiC8d_1/guaiC8d_jiao
+  rotate: false
+  xy: 2, 2
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+guaiC8d_1/guaiC8d_shou1
+  rotate: false
+  xy: 133, 56
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+guaiC8d_1/guaiC8d_shou2
+  rotate: false
+  xy: 91, 58
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1

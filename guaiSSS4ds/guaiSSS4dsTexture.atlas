@@ -1,0 +1,153 @@
+
+guaiSSS4dsTexture.png
+size: 1006,497
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS4ds/01
+  rotate: false
+  xy: 2, 58
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/02
+  rotate: false
+  xy: 362, 349
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/03
+  rotate: false
+  xy: 154, 58
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/04
+  rotate: false
+  xy: 514, 349
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/05
+  rotate: false
+  xy: 666, 349
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/06
+  rotate: false
+  xy: 818, 349
+  size: 150, 148
+  orig: 150, 148
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/fa
+  rotate: false
+  xy: 2, 2
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/lo
+  rotate: false
+  xy: 362, 224
+  size: 35, 22
+  orig: 35, 22
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/longtou
+  rotate: false
+  xy: 362, 248
+  size: 87, 99
+  orig: 87, 99
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/qun
+  rotate: false
+  xy: 306, 83
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/shenti
+  rotate: false
+  xy: 542, 276
+  size: 78, 71
+  orig: 78, 71
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/shoubi1
+  rotate: false
+  xy: 622, 268
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/shoubi2
+  rotate: false
+  xy: 679, 277
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/tou
+  rotate: false
+  xy: 306, 122
+  size: 66, 84
+  orig: 66, 84
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/tui1
+  rotate: false
+  xy: 970, 443
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/tui2
+  rotate: false
+  xy: 82, 2
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/wuqi
+  rotate: false
+  xy: 451, 273
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/xiaba
+  rotate: false
+  xy: 737, 302
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/yan
+  rotate: false
+  xy: 306, 68
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/zha
+  rotate: false
+  xy: 2, 208
+  size: 358, 289
+  orig: 358, 289
+  offset: 0, 0
+  index: -1
+guaiSSS4ds/zui
+  rotate: false
+  xy: 451, 250
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1

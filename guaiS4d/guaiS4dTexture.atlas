@@ -1,0 +1,118 @@
+
+guaiS4dTexture.png
+size: 510,250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS4d/guaiS4d_armL1
+  rotate: false
+  xy: 173, 127
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+guaiS4d/guaiS4d_armL2
+  rotate: false
+  xy: 420, 148
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+guaiS4d/guaiS4d_armR1
+  rotate: false
+  xy: 90, 7
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+guaiS4d/guaiS4d_armR2
+  rotate: false
+  xy: 143, 37
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+guaiS4d/guaiS4d_body
+  rotate: false
+  xy: 288, 175
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+guaiS4d/guaiS4d_dress
+  rotate: false
+  xy: 420, 174
+  size: 52, 76
+  orig: 52, 76
+  offset: 0, 0
+  index: -1
+guaiS4d/guaiS4d_earL
+  rotate: false
+  xy: 95, 79
+  size: 46, 78
+  orig: 46, 78
+  offset: 0, 0
+  index: -1
+guaiS4d/guaiS4d_earR
+  rotate: false
+  xy: 474, 179
+  size: 36, 71
+  orig: 36, 71
+  offset: 0, 0
+  index: -1
+guaiS4d/guaiS4d_gunL
+  rotate: false
+  xy: 2, 2
+  size: 86, 98
+  orig: 86, 98
+  offset: 0, 0
+  index: -1
+guaiS4d/guaiS4d_gunR
+  rotate: false
+  xy: 95, 159
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+guaiS4d/guaiS4d_hair
+  rotate: false
+  xy: 2, 102
+  size: 91, 148
+  orig: 91, 148
+  offset: 0, 0
+  index: -1
+guaiS4d/guaiS4d_head
+  rotate: false
+  xy: 186, 173
+  size: 100, 77
+  orig: 100, 77
+  offset: 0, 0
+  index: -1
+guaiS4d/guaiS4d_legL
+  rotate: false
+  xy: 363, 142
+  size: 55, 108
+  orig: 55, 108
+  offset: 0, 0
+  index: -1
+guaiS4d/guaiS4d_legR
+  rotate: false
+  xy: 143, 59
+  size: 28, 98
+  orig: 28, 98
+  offset: 0, 0
+  index: -1
+guaiS4d/guaiS4d_shoulderL
+  rotate: false
+  xy: 90, 40
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+guaiS4d/guaiS4d_shoulderR
+  rotate: false
+  xy: 118, 38
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1

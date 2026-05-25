@@ -1,0 +1,55 @@
+
+guaiC4b.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC4b/guaiC4_arm
+  rotate: false
+  xy: 220, 36
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+guaiC4b/guaiC4_body
+  rotate: false
+  xy: 2, 5
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+guaiC4b/guaiC4_leaf
+  rotate: false
+  xy: 78, 22
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+guaiC4b/guaiC4_lip
+  rotate: false
+  xy: 142, 18
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+guaiC4b/guaiC4_mouth
+  rotate: false
+  xy: 189, 28
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+guaiC4b/guaiC4_tongue
+  rotate: false
+  xy: 78, 2
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+guaiC4b/guaiC4_tooth
+  rotate: true
+  xy: 220, 9
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

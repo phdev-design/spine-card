@@ -1,0 +1,83 @@
+
+guaiS10c.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS10c/01
+  rotate: false
+  xy: 246, 68
+  size: 90, 58
+  orig: 90, 58
+  offset: 0, 0
+  index: -1
+guaiS10c/02
+  rotate: false
+  xy: 338, 68
+  size: 90, 58
+  orig: 90, 58
+  offset: 0, 0
+  index: -1
+guaiS10c/03
+  rotate: false
+  xy: 430, 68
+  size: 90, 58
+  orig: 90, 58
+  offset: 0, 0
+  index: -1
+guaiS10c/04
+  rotate: false
+  xy: 522, 68
+  size: 90, 58
+  orig: 90, 58
+  offset: 0, 0
+  index: -1
+guaiS10c/ditai
+  rotate: false
+  xy: 246, 34
+  size: 80, 32
+  orig: 80, 32
+  offset: 0, 0
+  index: -1
+guaiS10c/she
+  rotate: false
+  xy: 729, 90
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+guaiS10c/shenti
+  rotate: true
+  xy: 2, 2
+  size: 124, 155
+  orig: 124, 155
+  offset: 0, 0
+  index: -1
+guaiS10c/tou
+  rotate: false
+  xy: 159, 30
+  size: 85, 96
+  orig: 85, 96
+  offset: 0, 0
+  index: -1
+guaiS10c/xiaba
+  rotate: false
+  xy: 614, 77
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+guaiS10c/yan
+  rotate: false
+  xy: 159, 12
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+guaiS10c/zui
+  rotate: true
+  xy: 677, 80
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1

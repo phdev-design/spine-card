@@ -1,0 +1,48 @@
+
+guaiD3bTexture.png
+size: 213,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD3b/geng
+  rotate: false
+  xy: 178, 64
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+guaiD3b/hua
+  rotate: false
+  xy: 141, 54
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+guaiD3b/sehnti
+  rotate: false
+  xy: 2, 2
+  size: 137, 118
+  orig: 137, 118
+  offset: 0, 0
+  index: -1
+guaiD3b/yan1
+  rotate: false
+  xy: 141, 30
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+guaiD3b/yan2
+  rotate: false
+  xy: 195, 93
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+guaiD3b/zui
+  rotate: false
+  xy: 141, 86
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1

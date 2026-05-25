@@ -1,0 +1,153 @@
+
+guaiSSS2es.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS2es/01
+  rotate: false
+  xy: 889, 386
+  size: 100, 37
+  orig: 100, 37
+  offset: 0, 0
+  index: -1
+guaiSSS2es/02
+  rotate: false
+  xy: 169, 5
+  size: 100, 97
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+guaiSSS2es/03
+  rotate: false
+  xy: 2, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiSSS2es/04
+  rotate: false
+  xy: 204, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiSSS2es/05
+  rotate: false
+  xy: 204, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiSSS2es/06
+  rotate: false
+  xy: 2, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiSSS2es/09
+  rotate: false
+  xy: 889, 425
+  size: 100, 81
+  orig: 100, 81
+  offset: 0, 0
+  index: -1
+guaiSSS2es/hu1
+  rotate: true
+  xy: 575, 178
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+guaiSSS2es/hu2
+  rotate: true
+  xy: 575, 229
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+guaiSSS2es/mei1
+  rotate: true
+  xy: 991, 474
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+guaiSSS2es/mei2
+  rotate: false
+  xy: 991, 447
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+guaiSSS2es/shenti
+  rotate: false
+  xy: 406, 184
+  size: 167, 170
+  orig: 167, 170
+  offset: 0, 0
+  index: -1
+guaiSSS2es/shoubi1
+  rotate: true
+  xy: 2, 2
+  size: 100, 165
+  orig: 100, 165
+  offset: 0, 0
+  index: -1
+guaiSSS2es/shoubi2
+  rotate: false
+  xy: 775, 374
+  size: 112, 132
+  orig: 112, 132
+  offset: 0, 0
+  index: -1
+guaiSSS2es/tou
+  rotate: true
+  xy: 610, 368
+  size: 138, 163
+  orig: 138, 163
+  offset: 0, 0
+  index: -1
+guaiSSS2es/tui1
+  rotate: false
+  xy: 271, 14
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: -1
+guaiSSS2es/tui2
+  rotate: false
+  xy: 339, 11
+  size: 59, 91
+  orig: 59, 91
+  offset: 0, 0
+  index: -1
+guaiSSS2es/wuqi
+  rotate: false
+  xy: 406, 356
+  size: 202, 150
+  orig: 202, 150
+  offset: 0, 0
+  index: -1
+guaiSSS2es/yan
+  rotate: true
+  xy: 575, 287
+  size: 67, 24
+  orig: 67, 24
+  offset: 0, 0
+  index: -1
+guaiSSS2es/yao
+  rotate: false
+  xy: 406, 123
+  size: 117, 59
+  orig: 117, 59
+  offset: 0, 0
+  index: -1
+guaiSSS2es/zui
+  rotate: true
+  xy: 525, 126
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1

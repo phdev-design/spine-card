@@ -1,0 +1,48 @@
+
+guaiS6aTexture_2.png
+size: 169,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS6a_2/gan
+  rotate: false
+  xy: 161, 79
+  size: 8, 37
+  orig: 8, 37
+  offset: 0, 0
+  index: -1
+guaiS6a_2/pao
+  rotate: false
+  xy: 101, 77
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+guaiS6a_2/shenti
+  rotate: false
+  xy: 2, 36
+  size: 97, 80
+  orig: 97, 80
+  offset: 0, 0
+  index: -1
+guaiS6a_2/tou
+  rotate: false
+  xy: 101, 50
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+guaiS6a_2/xuan1
+  rotate: false
+  xy: 2, 2
+  size: 79, 16
+  orig: 79, 16
+  offset: 0, 0
+  index: -1
+guaiS6a_2/xuan2
+  rotate: false
+  xy: 2, 20
+  size: 95, 14
+  orig: 95, 14
+  offset: 0, 0
+  index: -1

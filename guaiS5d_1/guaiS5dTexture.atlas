@@ -1,0 +1,160 @@
+
+guaiS5dTexture_1.png
+size: 1016,117
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS5d_1/beijing
+  rotate: false
+  xy: 284, 51
+  size: 115, 66
+  orig: 115, 66
+  offset: 0, 0
+  index: -1
+guaiS5d_1/bi1
+  rotate: false
+  xy: 952, 54
+  size: 36, 63
+  orig: 36, 63
+  offset: 0, 0
+  index: -1
+guaiS5d_1/boom
+  rotate: false
+  xy: 734, 70
+  size: 67, 47
+  orig: 67, 47
+  offset: 0, 0
+  index: -1
+guaiS5d_1/dao
+  rotate: false
+  xy: 673, 50
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+guaiS5d_1/daoshou
+  rotate: false
+  xy: 614, 47
+  size: 57, 70
+  orig: 57, 70
+  offset: 0, 0
+  index: -1
+guaiS5d_1/datui1
+  rotate: false
+  xy: 314, 10
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+guaiS5d_1/datui2
+  rotate: false
+  xy: 206, 7
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+guaiS5d_1/datui3
+  rotate: false
+  xy: 324, 30
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+guaiS5d_1/datui4
+  rotate: false
+  xy: 162, 7
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+guaiS5d_1/gun
+  rotate: false
+  xy: 990, 52
+  size: 26, 65
+  orig: 26, 65
+  offset: 0, 0
+  index: -1
+guaiS5d_1/jian1
+  rotate: false
+  xy: 249, 8
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+guaiS5d_1/jiaogen1
+  rotate: false
+  xy: 289, 2
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+guaiS5d_1/jiaogen2
+  rotate: false
+  xy: 769, 43
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+guaiS5d_1/jiaojian1
+  rotate: false
+  xy: 734, 49
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+guaiS5d_1/jiaojian2
+  rotate: false
+  xy: 289, 30
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+guaiS5d_1/shenti
+  rotate: false
+  xy: 2, 4
+  size: 158, 113
+  orig: 158, 113
+  offset: 0, 0
+  index: -1
+guaiS5d_1/tou
+  rotate: false
+  xy: 904, 68
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+guaiS5d_1/xiaotui1
+  rotate: false
+  xy: 803, 67
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+guaiS5d_1/xiaotui2
+  rotate: false
+  xy: 854, 67
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+guaiS5d_1/yao
+  rotate: false
+  xy: 401, 64
+  size: 116, 53
+  orig: 116, 53
+  offset: 0, 0
+  index: -1
+guaiS5d_1/zhaozi
+  rotate: false
+  xy: 519, 47
+  size: 93, 70
+  orig: 93, 70
+  offset: 0, 0
+  index: -1
+guaiS5d_1/zuan
+  rotate: false
+  xy: 162, 50
+  size: 120, 67
+  orig: 120, 67
+  offset: 0, 0
+  index: -1

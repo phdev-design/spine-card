@@ -1,0 +1,55 @@
+
+guaiC4a.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC4a/di
+  rotate: false
+  xy: 48, 22
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+guaiC4a/guan
+  rotate: false
+  xy: 30, 5
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+guaiC4a/key
+  rotate: false
+  xy: 70, 35
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+guaiC4a/lun1
+  rotate: false
+  xy: 43, 35
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+guaiC4a/lun2
+  rotate: false
+  xy: 96, 35
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+guaiC4a/pao
+  rotate: true
+  xy: 2, 2
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+guaiC4a/shen
+  rotate: false
+  xy: 2, 25
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+guaiA1b.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA1b/guaiA1b_armL
+  rotate: true
+  xy: 144, 65
+  size: 61, 75
+  orig: 61, 75
+  offset: 0, 0
+  index: -1
+guaiA1b/guaiA1b_armR
+  rotate: true
+  xy: 144, 5
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+guaiA1b/guaiA1b_body
+  rotate: true
+  xy: 2, 24
+  size: 102, 140
+  orig: 102, 140
+  offset: 0, 0
+  index: -1
+guaiA1b/guaiA1b_legL
+  rotate: true
+  xy: 210, 35
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+guaiA1b/guaiA1b_legR
+  rotate: false
+  xy: 210, 2
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1

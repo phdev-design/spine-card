@@ -1,0 +1,104 @@
+
+guaiB5dsTexture.png
+size: 1018,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB5ds/01
+  rotate: false
+  xy: 680, 134
+  size: 210, 102
+  orig: 210, 102
+  offset: 0, 0
+  index: -1
+guaiB5ds/02
+  rotate: false
+  xy: 462, 134
+  size: 216, 102
+  orig: 216, 102
+  offset: 0, 0
+  index: -1
+guaiB5ds/03
+  rotate: false
+  xy: 234, 4
+  size: 218, 112
+  orig: 218, 112
+  offset: 0, 0
+  index: -1
+guaiB5ds/04
+  rotate: false
+  xy: 2, 118
+  size: 232, 118
+  orig: 232, 118
+  offset: 0, 0
+  index: -1
+guaiB5ds/05
+  rotate: false
+  xy: 2, 2
+  size: 230, 114
+  orig: 230, 114
+  offset: 0, 0
+  index: -1
+guaiB5ds/06
+  rotate: false
+  xy: 236, 118
+  size: 224, 118
+  orig: 224, 118
+  offset: 0, 0
+  index: -1
+guaiB5ds/07
+  rotate: false
+  xy: 462, 30
+  size: 208, 102
+  orig: 208, 102
+  offset: 0, 0
+  index: -1
+guaiB5ds/08
+  rotate: false
+  xy: 672, 30
+  size: 204, 102
+  orig: 204, 102
+  offset: 0, 0
+  index: -1
+guaiB5ds/guaiB5d_body
+  rotate: false
+  xy: 892, 168
+  size: 119, 68
+  orig: 119, 68
+  offset: 0, 0
+  index: -1
+guaiB5ds/guaiB5d_head
+  rotate: false
+  xy: 878, 58
+  size: 57, 66
+  orig: 57, 66
+  offset: 0, 0
+  index: -1
+guaiB5ds/guaiB5d_leg1
+  rotate: false
+  xy: 980, 35
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+guaiB5ds/guaiB5d_leg2
+  rotate: false
+  xy: 937, 56
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+guaiB5ds/guaiB5d_neck
+  rotate: false
+  xy: 980, 89
+  size: 36, 77
+  orig: 36, 77
+  offset: 0, 0
+  index: -1
+guaiB5ds/guaiB5d_zongmao
+  rotate: false
+  xy: 892, 126
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1

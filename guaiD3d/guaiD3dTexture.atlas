@@ -1,0 +1,83 @@
+
+guaiD3dTexture.png
+size: 244,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD3d/hua
+  rotate: false
+  xy: 186, 196
+  size: 58, 50
+  orig: 58, 50
+  offset: 0, 0
+  index: -1
+guaiD3d/shenti
+  rotate: false
+  xy: 2, 100
+  size: 182, 146
+  orig: 182, 146
+  offset: 0, 0
+  index: -1
+guaiD3d/shou1
+  rotate: false
+  xy: 74, 44
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+guaiD3d/shou2
+  rotate: false
+  xy: 2, 35
+  size: 70, 63
+  orig: 70, 63
+  offset: 0, 0
+  index: -1
+guaiD3d/yan1
+  rotate: false
+  xy: 168, 79
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+guaiD3d/yan2
+  rotate: false
+  xy: 186, 122
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+guaiD3d/ye1
+  rotate: false
+  xy: 130, 49
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+guaiD3d/ye2
+  rotate: false
+  xy: 186, 168
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+guaiD3d/ye3
+  rotate: false
+  xy: 186, 145
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+guaiD3d/ye4
+  rotate: false
+  xy: 130, 73
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+guaiD3d/zui
+  rotate: false
+  xy: 2, 2
+  size: 71, 31
+  orig: 71, 31
+  offset: 0, 0
+  index: -1

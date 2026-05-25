@@ -1,0 +1,138 @@
+
+guaiB2ds.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB2ds/01
+  rotate: false
+  xy: 2, 605
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiB2ds/02
+  rotate: false
+  xy: 2, 190
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiB2ds/03
+  rotate: false
+  xy: 441, 605
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiB2ds/04
+  rotate: false
+  xy: 441, 190
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiB2ds/guaiB2d_armL
+  rotate: false
+  xy: 2, 2
+  size: 54, 75
+  orig: 54, 75
+  offset: 0, 0
+  index: -1
+guaiB2ds/guaiB2d_armR
+  rotate: false
+  xy: 880, 887
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+guaiB2ds/guaiB2d_body
+  rotate: false
+  xy: 2, 79
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+guaiB2ds/guaiB2d_footL
+  rotate: false
+  xy: 206, 162
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+guaiB2ds/guaiB2d_footR
+  rotate: false
+  xy: 880, 829
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+guaiB2ds/guaiB2d_hair
+  rotate: true
+  xy: 58, 31
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+guaiB2ds/guaiB2d_legL
+  rotate: false
+  xy: 90, 95
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+guaiB2ds/guaiB2d_legR
+  rotate: false
+  xy: 168, 156
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+guaiB2ds/guaiB2d_mouth
+  rotate: false
+  xy: 958, 968
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+guaiB2ds/guaiB2d_shoulder
+  rotate: false
+  xy: 880, 857
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+guaiB2ds/guaiB2d_suit
+  rotate: false
+  xy: 90, 141
+  size: 76, 47
+  orig: 76, 47
+  offset: 0, 0
+  index: -1
+guaiB2ds/guaiB2d_weapon
+  rotate: false
+  xy: 880, 943
+  size: 76, 75
+  orig: 76, 75
+  offset: 0, 0
+  index: -1
+
+guaiB2ds2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB2ds/05
+  rotate: false
+  xy: 2, 2
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiB2ds/06
+  rotate: false
+  xy: 441, 2
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1

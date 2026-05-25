@@ -1,0 +1,89 @@
+
+guaiD6esTexture_1.png
+size: 968,1009
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD6es_1/01
+  rotate: false
+  xy: 2, 596
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiD6es_1/02
+  rotate: false
+  xy: 2, 181
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiD6es_1/03
+  rotate: false
+  xy: 441, 596
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiD6es_1/04
+  rotate: false
+  xy: 441, 181
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiD6es_1/guaiD6e_armL
+  rotate: false
+  xy: 86, 152
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+guaiD6es_1/guaiD6e_armR
+  rotate: false
+  xy: 880, 894
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+guaiD6es_1/guaiD6e_body
+  rotate: false
+  xy: 2, 62
+  size: 82, 117
+  orig: 82, 117
+  offset: 0, 0
+  index: -1
+guaiD6es_1/guaiD6e_hat
+  rotate: false
+  xy: 880, 922
+  size: 88, 87
+  orig: 88, 87
+  offset: 0, 0
+  index: -1
+guaiD6es_1/guaiD6e_tail
+  rotate: false
+  xy: 2, 2
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+
+guaiD6esTexture2_1.png
+size: 878,415
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD6es_1/05
+  rotate: false
+  xy: 2, 2
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiD6es_1/06
+  rotate: false
+  xy: 441, 2
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1

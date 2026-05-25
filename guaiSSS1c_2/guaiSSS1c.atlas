@@ -1,0 +1,76 @@
+
+guaiSSS1c.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS1c/shenti
+  rotate: false
+  xy: 2, 20
+  size: 144, 104
+  orig: 144, 104
+  offset: 0, 0
+  index: -1
+guaiSSS1c/shoutao
+  rotate: false
+  xy: 289, 6
+  size: 57, 53
+  orig: 57, 53
+  offset: 0, 0
+  index: -1
+guaiSSS1c/tou
+  rotate: false
+  xy: 148, 22
+  size: 139, 102
+  orig: 139, 102
+  offset: 0, 0
+  index: -1
+guaiSSS1c/weijin
+  rotate: false
+  xy: 360, 92
+  size: 116, 32
+  orig: 116, 32
+  offset: 0, 0
+  index: -1
+guaiSSS1c/weijin2
+  rotate: false
+  xy: 478, 55
+  size: 29, 69
+  orig: 29, 69
+  offset: 0, 0
+  index: -1
+guaiSSS1c/xueqiu1
+  rotate: false
+  xy: 431, 5
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+guaiSSS1c/yanqiu
+  rotate: true
+  xy: 482, 2
+  size: 51, 13
+  orig: 51, 13
+  offset: 0, 0
+  index: -1
+guaiSSS1c/youshou
+  rotate: false
+  xy: 289, 61
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+guaiSSS1c/zhayan
+  rotate: true
+  xy: 348, 5
+  size: 54, 10
+  orig: 54, 10
+  offset: 0, 0
+  index: -1
+guaiSSS1c/zuoshou
+  rotate: false
+  xy: 360, 27
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1

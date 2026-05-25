@@ -1,0 +1,76 @@
+
+guaiSS1a.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSS1a/bi1
+  rotate: false
+  xy: 168, 78
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+guaiSS1a/bi2
+  rotate: false
+  xy: 168, 102
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+guaiSS1a/jiu
+  rotate: false
+  xy: 133, 74
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+guaiSS1a/sheng
+  rotate: true
+  xy: 133, 67
+  size: 5, 27
+  orig: 5, 27
+  offset: 0, 0
+  index: -1
+guaiSS1a/shenti
+  rotate: false
+  xy: 2, 51
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+guaiSS1a/tou
+  rotate: false
+  xy: 69, 67
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+guaiSS1a/tui1
+  rotate: false
+  xy: 69, 44
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+guaiSS1a/tui2
+  rotate: false
+  xy: 50, 26
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+guaiSS1a/wei
+  rotate: false
+  xy: 2, 2
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+guaiSS1a/yan
+  rotate: false
+  xy: 198, 113
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1

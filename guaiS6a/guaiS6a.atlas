@@ -1,0 +1,55 @@
+
+guaiS6a.png
+size: 256,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS6a/jiyi
+  rotate: false
+  xy: 127, 26
+  size: 48, 17
+  orig: 48, 17
+  offset: 0, 0
+  index: -1
+guaiS6a/jiyi2
+  rotate: false
+  xy: 127, 45
+  size: 60, 17
+  orig: 60, 17
+  offset: 0, 0
+  index: -1
+guaiS6a/pao
+  rotate: false
+  xy: 78, 2
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+guaiS6a/pao1
+  rotate: true
+  xy: 138, 2
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+guaiS6a/shenti
+  rotate: true
+  xy: 2, 15
+  size: 47, 74
+  orig: 47, 74
+  offset: 0, 0
+  index: -1
+guaiS6a/tou
+  rotate: false
+  xy: 78, 25
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+guaiS6a/yancong
+  rotate: true
+  xy: 112, 2
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1

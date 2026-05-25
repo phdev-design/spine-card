@@ -1,0 +1,111 @@
+
+guaiC7ds.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC7ds/01
+  rotate: false
+  xy: 302, 89
+  size: 100, 37
+  orig: 100, 37
+  offset: 0, 0
+  index: -1
+guaiC7ds/02
+  rotate: false
+  xy: 200, 38
+  size: 100, 88
+  orig: 100, 88
+  offset: 0, 0
+  index: -1
+guaiC7ds/03
+  rotate: false
+  xy: 2, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guaiC7ds/bi1
+  rotate: true
+  xy: 404, 75
+  size: 51, 61
+  orig: 51, 61
+  offset: 0, 0
+  index: -1
+guaiC7ds/bi2
+  rotate: false
+  xy: 467, 76
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+guaiC7ds/jianjia
+  rotate: true
+  xy: 373, 15
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+guaiC7ds/jianjia2
+  rotate: false
+  xy: 67, 7
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+guaiC7ds/jiao1
+  rotate: true
+  xy: 447, 38
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+guaiC7ds/jiao2
+  rotate: false
+  xy: 2, 2
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+guaiC7ds/shenti
+  rotate: false
+  xy: 302, 24
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+guaiC7ds/shou1
+  rotate: false
+  xy: 406, 36
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+guaiC7ds/shou2
+  rotate: false
+  xy: 373, 61
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+guaiC7ds/tou
+  rotate: false
+  xy: 104, 30
+  size: 94, 96
+  orig: 94, 96
+  offset: 0, 0
+  index: -1
+guaiC7ds/tui1
+  rotate: true
+  xy: 406, 2
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+guaiC7ds/tui2
+  rotate: false
+  xy: 36, 2
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1

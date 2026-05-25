@@ -1,0 +1,34 @@
+
+guaiD6dTexture_1.png
+size: 168,117
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD6d_1/guaiD6d_armL
+  rotate: false
+  xy: 85, 46
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+guaiD6d_1/guaiD6d_armR
+  rotate: false
+  xy: 134, 88
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+guaiD6d_1/guaiD6d_body
+  rotate: false
+  xy: 2, 2
+  size: 81, 115
+  orig: 81, 115
+  offset: 0, 0
+  index: -1
+guaiD6d_1/guaiD6d_tail
+  rotate: false
+  xy: 85, 77
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1

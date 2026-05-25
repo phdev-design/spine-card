@@ -1,0 +1,55 @@
+
+guaiD5cTexture_1.png
+size: 192,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD5c_1/guaiD5a_hand1
+  rotate: false
+  xy: 153, 86
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+guaiD5c_1/guaiD5a_hand2
+  rotate: false
+  xy: 54, 26
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+guaiD5c_1/guaiD5a_leg1
+  rotate: false
+  xy: 153, 62
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+guaiD5c_1/guaiD5a_leg2
+  rotate: false
+  xy: 176, 101
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+guaiD5c_1/guaiD5c_body
+  rotate: false
+  xy: 2, 2
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+guaiD5c_1/guaiD5c_head
+  rotate: false
+  xy: 88, 50
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+guaiD5c_1/guaiD5c_weapon
+  rotate: false
+  xy: 2, 57
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1

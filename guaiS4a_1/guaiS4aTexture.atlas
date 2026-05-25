@@ -1,0 +1,111 @@
+
+guaiS4aTexture_1.png
+size: 612,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS4a_1/guaiS4a_armL1
+  rotate: false
+  xy: 2, 2
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+guaiS4a_1/guaiS4a_armL2
+  rotate: false
+  xy: 439, 2
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+guaiS4a_1/guaiS4a_armR1
+  rotate: false
+  xy: 555, 55
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+guaiS4a_1/guaiS4a_armR2
+  rotate: false
+  xy: 585, 106
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+guaiS4a_1/guaiS4a_earL
+  rotate: false
+  xy: 469, 48
+  size: 46, 78
+  orig: 46, 78
+  offset: 0, 0
+  index: -1
+guaiS4a_1/guaiS4a_earR
+  rotate: false
+  xy: 517, 54
+  size: 36, 72
+  orig: 36, 72
+  offset: 0, 0
+  index: -1
+guaiS4a_1/guaiS4a_gunL
+  rotate: false
+  xy: 2, 34
+  size: 82, 92
+  orig: 82, 92
+  offset: 0, 0
+  index: -1
+guaiS4a_1/guaiS4a_gunR
+  rotate: false
+  xy: 86, 42
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+guaiS4a_1/guaiS4a_hair
+  rotate: false
+  xy: 245, 60
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+guaiS4a_1/guaiS4a_head
+  rotate: false
+  xy: 319, 57
+  size: 61, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+guaiS4a_1/guaiS4a_legL
+  rotate: false
+  xy: 382, 18
+  size: 55, 108
+  orig: 55, 108
+  offset: 0, 0
+  index: -1
+guaiS4a_1/guaiS4a_legR
+  rotate: false
+  xy: 439, 28
+  size: 28, 98
+  orig: 28, 98
+  offset: 0, 0
+  index: -1
+guaiS4a_1/guaiS4a_shoulderL
+  rotate: false
+  xy: 555, 88
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+guaiS4a_1/guaiS4a_shoulderR
+  rotate: false
+  xy: 21, 3
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+guaiS4a_1/guaiS4d_body
+  rotate: false
+  xy: 170, 51
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+guaiC6eTexture_1.png
+size: 250,116
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC6e_1/guaiC6e_body
+  rotate: false
+  xy: 2, 38
+  size: 118, 78
+  orig: 118, 78
+  offset: 0, 0
+  index: -1
+guaiC6e_1/guaiC6e_erduo1
+  rotate: false
+  xy: 47, 2
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+guaiC6e_1/guaiC6e_erduo2
+  rotate: false
+  xy: 218, 90
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+guaiC6e_1/guaiC6e_hua
+  rotate: false
+  xy: 122, 37
+  size: 94, 79
+  orig: 94, 79
+  offset: 0, 0
+  index: -1
+guaiC6e_1/guaiC6e_leg1
+  rotate: false
+  xy: 241, 104
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+guaiC6e_1/guaiC6e_leg2
+  rotate: false
+  xy: 86, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+guaiC6e_1/guaiC6e_leg3
+  rotate: false
+  xy: 218, 69
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+guaiC6e_1/guaiC6e_leg4
+  rotate: false
+  xy: 86, 16
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+guaiC6e_1/guaiC6e_weiba
+  rotate: false
+  xy: 2, 2
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1

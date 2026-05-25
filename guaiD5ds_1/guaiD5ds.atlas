@@ -1,0 +1,62 @@
+
+guaiD5ds.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD5ds/22
+  rotate: false
+  xy: 2, 64
+  size: 174, 189
+  orig: 174, 189
+  offset: 0, 0
+  index: -1
+guaiD5ds/guaiD5d_body
+  rotate: false
+  xy: 178, 113
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+guaiD5ds/guaiD5d_hand1
+  rotate: false
+  xy: 284, 214
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+guaiD5ds/guaiD5d_hand2
+  rotate: false
+  xy: 91, 34
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+guaiD5ds/guaiD5d_head
+  rotate: false
+  xy: 178, 168
+  size: 104, 85
+  orig: 104, 85
+  offset: 0, 0
+  index: -1
+guaiD5ds/guaiD5d_leg1
+  rotate: false
+  xy: 229, 144
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+guaiD5ds/guaiD5d_leg2
+  rotate: false
+  xy: 178, 88
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+guaiD5ds/guaiD5d_weapon
+  rotate: false
+  xy: 2, 2
+  size: 87, 60
+  orig: 87, 60
+  offset: 0, 0
+  index: -1

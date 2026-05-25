@@ -1,0 +1,69 @@
+
+guaiB2aTexture_1.png
+size: 443,111
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB2a_1/guaiB2a_armL
+  rotate: false
+  xy: 90, 36
+  size: 54, 75
+  orig: 54, 75
+  offset: 0, 0
+  index: -1
+guaiB2a_1/guaiB2a_armR
+  rotate: false
+  xy: 146, 57
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+guaiB2a_1/guaiB2a_body
+  rotate: false
+  xy: 2, 2
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+guaiB2a_1/guaiB2a_footL
+  rotate: false
+  xy: 380, 85
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+guaiB2a_1/guaiB2a_footR
+  rotate: false
+  xy: 417, 85
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+guaiB2a_1/guaiB2a_legL
+  rotate: false
+  xy: 329, 67
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+guaiB2a_1/guaiB2a_legR
+  rotate: false
+  xy: 90, 2
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+guaiB2a_1/guaiB2a_mouth
+  rotate: false
+  xy: 272, 61
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+guaiB2a_1/guaiB2a_weapon
+  rotate: false
+  xy: 215, 51
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1

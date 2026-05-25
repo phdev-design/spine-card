@@ -1,0 +1,104 @@
+
+guaiS5bTexture_2.png
+size: 479,122
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS5b_2/datuiL
+  rotate: false
+  xy: 186, 71
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+guaiS5b_2/datuiR
+  rotate: false
+  xy: 228, 70
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+guaiS5b_2/gun1
+  rotate: false
+  xy: 321, 86
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+guaiS5b_2/gun2
+  rotate: false
+  xy: 86, 58
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+guaiS5b_2/jiaoL
+  rotate: false
+  xy: 2, 2
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1
+guaiS5b_2/jiaoR
+  rotate: false
+  xy: 37, 3
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+guaiS5b_2/jiazi1
+  rotate: false
+  xy: 270, 88
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+guaiS5b_2/jiazi2
+  rotate: false
+  xy: 128, 79
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+guaiS5b_2/shenti
+  rotate: false
+  xy: 2, 33
+  size: 82, 89
+  orig: 82, 89
+  offset: 0, 0
+  index: -1
+guaiS5b_2/tou
+  rotate: false
+  xy: 86, 26
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+guaiS5b_2/xiaotuiL
+  rotate: false
+  xy: 403, 83
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+guaiS5b_2/xiaotuiR
+  rotate: false
+  xy: 442, 83
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+guaiS5b_2/yantong
+  rotate: false
+  xy: 362, 78
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+guaiS5b_2/yantong2
+  rotate: false
+  xy: 128, 26
+  size: 31, 51
+  orig: 31, 51
+  offset: 0, 0
+  index: -1

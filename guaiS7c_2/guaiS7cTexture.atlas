@@ -1,0 +1,125 @@
+
+guaiS7cTexture_2.png
+size: 510,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS7c_2/biao
+  rotate: false
+  xy: 200, 8
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+guaiS7c_2/chilun1
+  rotate: false
+  xy: 220, 30
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+guaiS7c_2/chilun2
+  rotate: false
+  xy: 240, 33
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+guaiS7c_2/chilun3
+  rotate: false
+  xy: 496, 110
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+guaiS7c_2/di
+  rotate: false
+  xy: 2, 2
+  size: 137, 122
+  orig: 137, 122
+  offset: 0, 0
+  index: -1
+guaiS7c_2/gan
+  rotate: false
+  xy: 141, 35
+  size: 70, 89
+  orig: 70, 89
+  offset: 0, 0
+  index: -1
+guaiS7c_2/guan1
+  rotate: false
+  xy: 404, 50
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+guaiS7c_2/guan2
+  rotate: false
+  xy: 446, 50
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+guaiS7c_2/jia1
+  rotate: false
+  xy: 141, 5
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+guaiS7c_2/lun1
+  rotate: false
+  xy: 213, 87
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+guaiS7c_2/lun2
+  rotate: false
+  xy: 213, 49
+  size: 74, 36
+  orig: 74, 36
+  offset: 0, 0
+  index: -1
+guaiS7c_2/lun3
+  rotate: false
+  xy: 289, 87
+  size: 66, 37
+  orig: 66, 37
+  offset: 0, 0
+  index: -1
+guaiS7c_2/lun4
+  rotate: false
+  xy: 289, 49
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+guaiS7c_2/qiu
+  rotate: false
+  xy: 357, 75
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+guaiS7c_2/sheng1
+  rotate: false
+  xy: 488, 52
+  size: 6, 72
+  orig: 6, 72
+  offset: 0, 0
+  index: -1
+guaiS7c_2/sheng2
+  rotate: false
+  xy: 404, 104
+  size: 72, 20
+  orig: 72, 20
+  offset: 0, 0
+  index: -1
+guaiS7c_2/tou
+  rotate: false
+  xy: 357, 34
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1

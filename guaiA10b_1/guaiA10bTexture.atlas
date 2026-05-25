@@ -1,0 +1,55 @@
+
+guaiA10bTexture_1.png
+size: 251,109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA10b_1/guaiA10b_body
+  rotate: false
+  xy: 2, 2
+  size: 114, 107
+  orig: 114, 107
+  offset: 0, 0
+  index: -1
+guaiA10b_1/guaiA10b_foot
+  rotate: false
+  xy: 225, 77
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+guaiA10b_1/guaiA10b_head
+  rotate: false
+  xy: 118, 62
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+guaiA10b_1/guaiA10b_legL
+  rotate: false
+  xy: 168, 13
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+guaiA10b_1/guaiA10b_legR
+  rotate: false
+  xy: 204, 25
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+guaiA10b_1/guaiA10b_mouth
+  rotate: false
+  xy: 175, 74
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+guaiA10b_1/guaiA10b_wing
+  rotate: false
+  xy: 118, 18
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1

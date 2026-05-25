@@ -1,0 +1,76 @@
+
+guaiC3bTexture.png
+size: 125,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC3b/fa
+  rotate: false
+  xy: 2, 46
+  size: 39, 79
+  orig: 39, 79
+  offset: 0, 0
+  index: -1
+guaiC3b/lian
+  rotate: false
+  xy: 83, 2
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+guaiC3b/shangbi1
+  rotate: false
+  xy: 2, 3
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+guaiC3b/shenti
+  rotate: false
+  xy: 31, 6
+  size: 23, 38
+  orig: 23, 38
+  offset: 0, 0
+  index: -1
+guaiC3b/shoubi1
+  rotate: false
+  xy: 2, 18
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+guaiC3b/tou
+  rotate: false
+  xy: 43, 61
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+guaiC3b/tui1
+  rotate: false
+  xy: 110, 90
+  size: 15, 35
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+guaiC3b/tui2
+  rotate: false
+  xy: 83, 25
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+guaiC3b/wuqi
+  rotate: false
+  xy: 56, 7
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1
+guaiC3b/xiaobi1
+  rotate: false
+  xy: 105, 35
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1

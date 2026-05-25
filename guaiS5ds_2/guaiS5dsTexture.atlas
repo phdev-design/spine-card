@@ -1,0 +1,202 @@
+
+guaiS5dsTexture_2.png
+size: 1022,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS5ds_2/01
+  rotate: false
+  xy: 187, 137
+  size: 162, 117
+  orig: 162, 117
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/02
+  rotate: false
+  xy: 478, 24
+  size: 55, 100
+  orig: 55, 100
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/03
+  rotate: false
+  xy: 535, 24
+  size: 53, 100
+  orig: 53, 100
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/04
+  rotate: false
+  xy: 288, 35
+  size: 59, 100
+  orig: 59, 100
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/05
+  rotate: false
+  xy: 418, 24
+  size: 58, 100
+  orig: 58, 100
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/06
+  rotate: false
+  xy: 351, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/07
+  rotate: false
+  xy: 481, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/08
+  rotate: false
+  xy: 611, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/09
+  rotate: false
+  xy: 741, 126
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/datuiL
+  rotate: false
+  xy: 349, 11
+  size: 67, 113
+  orig: 67, 113
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/datuiR
+  rotate: false
+  xy: 819, 44
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/jianjiaL
+  rotate: false
+  xy: 744, 58
+  size: 73, 66
+  orig: 73, 66
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/jianjiaR
+  rotate: false
+  xy: 880, 61
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/jiaoL
+  rotate: false
+  xy: 288, 7
+  size: 59, 26
+  orig: 59, 26
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/jiaoR
+  rotate: false
+  xy: 2, 6
+  size: 54, 21
+  orig: 54, 21
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/shangbiL
+  rotate: false
+  xy: 950, 33
+  size: 51, 94
+  orig: 51, 94
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/shangbiR
+  rotate: false
+  xy: 983, 176
+  size: 39, 78
+  orig: 39, 78
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/shenti
+  rotate: false
+  xy: 2, 114
+  size: 183, 140
+  orig: 183, 140
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/tou
+  rotate: false
+  xy: 590, 50
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/xiaobiL
+  rotate: false
+  xy: 871, 133
+  size: 110, 121
+  orig: 110, 121
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/xiaobiR
+  rotate: false
+  xy: 2, 29
+  size: 140, 83
+  orig: 140, 83
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/xiaotuiL
+  rotate: false
+  xy: 667, 3
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/xiaotuiR
+  rotate: false
+  xy: 983, 129
+  size: 39, 45
+  orig: 39, 45
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/yantong1
+  rotate: false
+  xy: 201, 20
+  size: 85, 115
+  orig: 85, 115
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/yantong2
+  rotate: false
+  xy: 144, 2
+  size: 55, 110
+  orig: 55, 110
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/yao
+  rotate: false
+  xy: 667, 57
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/zhongtuiL
+  rotate: false
+  xy: 744, 7
+  size: 73, 49
+  orig: 73, 49
+  offset: 0, 0
+  index: -1
+guaiS5ds_2/zhongtuiR
+  rotate: false
+  xy: 880, 12
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1

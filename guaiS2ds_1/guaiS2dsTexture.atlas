@@ -1,0 +1,125 @@
+
+guaiS2dsTexture_1.png
+size: 1015,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS2ds_1/01
+  rotate: false
+  xy: 814, 432
+  size: 146, 56
+  orig: 146, 56
+  offset: 0, 0
+  index: -1
+guaiS2ds_1/02
+  rotate: false
+  xy: 646, 420
+  size: 166, 68
+  orig: 166, 68
+  offset: 0, 0
+  index: -1
+guaiS2ds_1/03
+  rotate: false
+  xy: 446, 332
+  size: 188, 72
+  orig: 188, 72
+  offset: 0, 0
+  index: -1
+guaiS2ds_1/04
+  rotate: false
+  xy: 2, 2
+  size: 194, 82
+  orig: 194, 82
+  offset: 0, 0
+  index: -1
+guaiS2ds_1/05
+  rotate: false
+  xy: 2, 86
+  size: 196, 88
+  orig: 196, 88
+  offset: 0, 0
+  index: -1
+guaiS2ds_1/06
+  rotate: false
+  xy: 446, 406
+  size: 198, 82
+  orig: 198, 82
+  offset: 0, 0
+  index: -1
+guaiS2ds_1/111
+  rotate: false
+  xy: 2, 176
+  size: 297, 312
+  orig: 297, 312
+  offset: 0, 0
+  index: -1
+guaiS2ds_1/guaiS2d_body
+  rotate: false
+  xy: 301, 168
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+guaiS2ds_1/guaiS2d_hair
+  rotate: false
+  xy: 446, 274
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+guaiS2ds_1/guaiS2d_handL
+  rotate: false
+  xy: 441, 196
+  size: 49, 76
+  orig: 49, 76
+  offset: 0, 0
+  index: -1
+guaiS2ds_1/guaiS2d_handR
+  rotate: false
+  xy: 962, 448
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+guaiS2ds_1/guaiS2d_head
+  rotate: false
+  xy: 200, 103
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+guaiS2ds_1/guaiS2d_mouth1
+  rotate: false
+  xy: 371, 136
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+guaiS2ds_1/guaiS2d_mouth2
+  rotate: false
+  xy: 515, 306
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+guaiS2ds_1/guaiS2d_mustache
+  rotate: false
+  xy: 403, 197
+  size: 36, 81
+  orig: 36, 81
+  offset: 0, 0
+  index: -1
+guaiS2ds_1/guaiS2d_shoulder
+  rotate: false
+  xy: 291, 86
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+guaiS2ds_1/guaiS2d_weapon
+  rotate: false
+  xy: 301, 280
+  size: 143, 208
+  orig: 143, 208
+  offset: 0, 0
+  index: -1

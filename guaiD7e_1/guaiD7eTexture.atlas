@@ -1,0 +1,90 @@
+
+guaiD7eTexture_1.png
+size: 250,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD7e_1/guaiD7e01
+  rotate: false
+  xy: 103, 201
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+guaiD7e_1/guaiD7e02
+  rotate: false
+  xy: 103, 146
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+guaiD7e_1/guaiD7e04
+  rotate: false
+  xy: 79, 50
+  size: 42, 75
+  orig: 42, 75
+  offset: 0, 0
+  index: -1
+guaiD7e_1/guaiD7e05
+  rotate: false
+  xy: 2, 53
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+guaiD7e_1/guaiD7e_body
+  rotate: false
+  xy: 123, 88
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+guaiD7e_1/guaiD7e_hair
+  rotate: false
+  xy: 2, 127
+  size: 99, 127
+  orig: 99, 127
+  offset: 0, 0
+  index: -1
+guaiD7e_1/guaiD7e_head
+  rotate: false
+  xy: 2, 9
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+guaiD7e_1/guaiD7e_leg1
+  rotate: false
+  xy: 180, 135
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+guaiD7e_1/guaiD7e_leg2
+  rotate: false
+  xy: 232, 216
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+guaiD7e_1/guaiD7e_shou1
+  rotate: false
+  xy: 123, 30
+  size: 30, 56
+  orig: 30, 56
+  offset: 0, 0
+  index: -1
+guaiD7e_1/guaiD7e_shou2
+  rotate: false
+  xy: 64, 2
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+guaiD7e_1/guaiD7e_wuqi
+  rotate: false
+  xy: 180, 179
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+guaiC7dTexture_1.png
+size: 247,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC7d_1/guaiC7_jiao1
+  rotate: false
+  xy: 219, 114
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+guaiC7d_1/guaiC7_jiao2
+  rotate: false
+  xy: 190, 94
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+guaiC7d_1/guaiC7d_body
+  rotate: false
+  xy: 98, 81
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+guaiC7d_1/guaiC7d_head
+  rotate: false
+  xy: 2, 34
+  size: 94, 92
+  orig: 94, 92
+  offset: 0, 0
+  index: -1
+guaiC7d_1/guaiC7d_shou1
+  rotate: false
+  xy: 98, 30
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+guaiC7d_1/guaiC7d_shou11
+  rotate: false
+  xy: 2, 2
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+guaiC7d_1/guaiC7d_shou2
+  rotate: false
+  xy: 154, 83
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+guaiC7d_1/guaiC7d_shou21
+  rotate: false
+  xy: 190, 106
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1

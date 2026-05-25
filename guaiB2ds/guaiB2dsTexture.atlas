@@ -1,0 +1,181 @@
+
+guaiB2dsTexture.png
+size: 991,1003
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB2ds/01
+  rotate: false
+  xy: 2, 820
+  size: 585, 183
+  orig: 585, 183
+  offset: 0, 0
+  index: -1
+guaiB2ds/02
+  rotate: false
+  xy: 2, 635
+  size: 585, 183
+  orig: 585, 183
+  offset: 0, 0
+  index: -1
+guaiB2ds/03
+  rotate: false
+  xy: 2, 450
+  size: 585, 183
+  orig: 585, 183
+  offset: 0, 0
+  index: -1
+guaiB2ds/04
+  rotate: false
+  xy: 2, 265
+  size: 585, 183
+  orig: 585, 183
+  offset: 0, 0
+  index: -1
+guaiB2ds/05
+  rotate: false
+  xy: 2, 80
+  size: 585, 183
+  orig: 585, 183
+  offset: 0, 0
+  index: -1
+guaiB2ds/06
+  rotate: false
+  xy: 589, 803
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiB2ds/07
+  rotate: false
+  xy: 589, 601
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiB2ds/08
+  rotate: false
+  xy: 791, 803
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiB2ds/09
+  rotate: false
+  xy: 589, 399
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiB2ds/10
+  rotate: false
+  xy: 791, 601
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiB2ds/11
+  rotate: false
+  xy: 589, 197
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiB2ds/body
+  rotate: false
+  xy: 589, 86
+  size: 129, 109
+  orig: 129, 109
+  offset: 0, 0
+  index: -1
+guaiB2ds/head
+  rotate: false
+  xy: 2, 2
+  size: 89, 76
+  orig: 89, 76
+  offset: 0, 0
+  index: -1
+guaiB2ds/jian
+  rotate: false
+  xy: 791, 375
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+guaiB2ds/left arm
+  rotate: false
+  xy: 720, 125
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+guaiB2ds/left foot
+  rotate: false
+  xy: 791, 232
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+guaiB2ds/left hand
+  rotate: false
+  xy: 791, 457
+  size: 99, 142
+  orig: 99, 142
+  offset: 0, 0
+  index: -1
+guaiB2ds/left leg
+  rotate: false
+  xy: 198, 40
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+guaiB2ds/lian
+  rotate: false
+  xy: 720, 89
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+guaiB2ds/right foot
+  rotate: false
+  xy: 791, 273
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+guaiB2ds/right hand
+  rotate: false
+  xy: 246, 44
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+guaiB2ds/right leg
+  rotate: false
+  xy: 892, 481
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+guaiB2ds/underwear
+  rotate: false
+  xy: 93, 33
+  size: 103, 45
+  orig: 103, 45
+  offset: 0, 0
+  index: -1
+guaiB2ds/xiaba
+  rotate: false
+  xy: 892, 533
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+guaiB2ds/xiaobi
+  rotate: false
+  xy: 791, 314
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1

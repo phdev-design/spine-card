@@ -1,0 +1,174 @@
+
+guaiB8esTexture.png
+size: 1022,247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB8es/01
+  rotate: false
+  xy: 121, 147
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8es/02
+  rotate: false
+  xy: 196, 147
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8es/03
+  rotate: false
+  xy: 271, 147
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8es/04
+  rotate: false
+  xy: 346, 147
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8es/05
+  rotate: false
+  xy: 421, 147
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8es/06
+  rotate: false
+  xy: 496, 147
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8es/07
+  rotate: false
+  xy: 571, 147
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8es/08
+  rotate: false
+  xy: 646, 147
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8es/09
+  rotate: false
+  xy: 721, 147
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8es/10
+  rotate: false
+  xy: 796, 147
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiB8es/niao
+  rotate: false
+  xy: 119, 81
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+guaiB8es/niaochi
+  rotate: false
+  xy: 121, 117
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+guaiB8es/niaotou
+  rotate: false
+  xy: 201, 117
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+guaiB8es/qugan
+  rotate: false
+  xy: 871, 183
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+guaiB8es/tou
+  rotate: false
+  xy: 2, 141
+  size: 117, 106
+  orig: 117, 106
+  offset: 0, 0
+  index: -1
+guaiB8es/wuqi
+  rotate: false
+  xy: 2, 2
+  size: 74, 137
+  orig: 74, 137
+  offset: 0, 0
+  index: -1
+guaiB8es/youjiao
+  rotate: false
+  xy: 938, 146
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+guaiB8es/youshou01
+  rotate: false
+  xy: 982, 145
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+guaiB8es/youshou02
+  rotate: false
+  xy: 871, 149
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+guaiB8es/youtui
+  rotate: false
+  xy: 78, 79
+  size: 39, 60
+  orig: 39, 60
+  offset: 0, 0
+  index: -1
+guaiB8es/yumao
+  rotate: false
+  xy: 949, 183
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+guaiB8es/zuojiao
+  rotate: false
+  xy: 161, 107
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+guaiB8es/zuoshou
+  rotate: false
+  xy: 111, 24
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+guaiB8es/zuotui
+  rotate: false
+  xy: 78, 17
+  size: 31, 60
+  orig: 31, 60
+  offset: 0, 0
+  index: -1

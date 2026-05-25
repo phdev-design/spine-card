@@ -1,0 +1,48 @@
+
+guaiD3a.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD3a/guaiD3_armL
+  rotate: false
+  xy: 89, 82
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+guaiD3a/guaiD3_armR
+  rotate: true
+  xy: 89, 46
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+guaiD3a/guaiD3_eyeL
+  rotate: false
+  xy: 2, 2
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+guaiD3a/guaiD3_eyeR
+  rotate: false
+  xy: 108, 35
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+guaiD3a/guaiD3a_body
+  rotate: false
+  xy: 2, 15
+  size: 85, 106
+  orig: 85, 106
+  offset: 0, 0
+  index: -1
+guaiD3a/guaiD3a_leaf
+  rotate: true
+  xy: 89, 4
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1

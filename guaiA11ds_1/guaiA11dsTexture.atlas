@@ -1,0 +1,55 @@
+
+guaiA11dsTexture_1.png
+size: 407,249
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA11ds_1/03
+  rotate: false
+  xy: 2, 86
+  size: 128, 137
+  orig: 128, 137
+  offset: 0, 0
+  index: -1
+guaiA11ds_1/guaiA11d_armL
+  rotate: false
+  xy: 280, 167
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+guaiA11ds_1/guaiA11d_armR
+  rotate: false
+  xy: 67, 29
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+guaiA11ds_1/guaiA11d_body
+  rotate: false
+  xy: 132, 105
+  size: 85, 118
+  orig: 85, 118
+  offset: 0, 0
+  index: -1
+guaiA11ds_1/guaiA11d_hand
+  rotate: false
+  xy: 2, 2
+  size: 63, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+guaiA11ds_1/guaiA11d_head
+  rotate: false
+  xy: 219, 146
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1
+guaiA11ds_1/te02
+  rotate: false
+  xy: 2, 225
+  size: 405, 24
+  orig: 405, 24
+  offset: 0, 0
+  index: -1

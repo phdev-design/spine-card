@@ -1,0 +1,83 @@
+
+guaiS6cTexture.png
+size: 471,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS6c/boli
+  rotate: false
+  xy: 252, 34
+  size: 36, 61
+  orig: 36, 61
+  offset: 0, 0
+  index: -1
+guaiS6c/dapao
+  rotate: false
+  xy: 419, 101
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+guaiS6c/gebilin
+  rotate: false
+  xy: 163, 27
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+guaiS6c/jiang
+  rotate: false
+  xy: 271, 98
+  size: 84, 28
+  orig: 84, 28
+  offset: 0, 0
+  index: -1
+guaiS6c/jiyi01
+  rotate: false
+  xy: 212, 28
+  size: 38, 67
+  orig: 38, 67
+  offset: 0, 0
+  index: -1
+guaiS6c/jiyi02
+  rotate: false
+  xy: 290, 36
+  size: 29, 60
+  orig: 29, 60
+  offset: 0, 0
+  index: -1
+guaiS6c/luoxuanjiang
+  rotate: false
+  xy: 163, 97
+  size: 106, 29
+  orig: 106, 29
+  offset: 0, 0
+  index: -1
+guaiS6c/shenti
+  rotate: false
+  xy: 2, 15
+  size: 159, 111
+  orig: 159, 111
+  offset: 0, 0
+  index: -1
+guaiS6c/shenti02
+  rotate: false
+  xy: 321, 66
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+guaiS6c/zhengqi02
+  rotate: false
+  xy: 163, 2
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+guaiS6c/zhenqi01
+  rotate: false
+  xy: 357, 94
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1

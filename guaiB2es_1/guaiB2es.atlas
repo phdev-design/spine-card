@@ -1,0 +1,145 @@
+
+guaiB2es.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB2es/01
+  rotate: false
+  xy: 2, 584
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiB2es/02
+  rotate: false
+  xy: 2, 169
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiB2es/03
+  rotate: false
+  xy: 441, 584
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiB2es/04
+  rotate: false
+  xy: 441, 169
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiB2es/guaiB2e_armL
+  rotate: false
+  xy: 880, 837
+  size: 54, 75
+  orig: 54, 75
+  offset: 0, 0
+  index: -1
+guaiB2es/guaiB2e_armR
+  rotate: false
+  xy: 147, 113
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+guaiB2es/guaiB2e_body
+  rotate: false
+  xy: 2, 58
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+guaiB2es/guaiB2e_footL
+  rotate: false
+  xy: 216, 141
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+guaiB2es/guaiB2e_footR
+  rotate: false
+  xy: 880, 763
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+guaiB2es/guaiB2e_hair
+  rotate: false
+  xy: 936, 865
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+guaiB2es/guaiB2e_hat
+  rotate: false
+  xy: 90, 75
+  size: 55, 92
+  orig: 55, 92
+  offset: 0, 0
+  index: -1
+guaiB2es/guaiB2e_legL
+  rotate: false
+  xy: 880, 791
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+guaiB2es/guaiB2e_legR
+  rotate: false
+  xy: 147, 79
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+guaiB2es/guaiB2e_mouth
+  rotate: true
+  xy: 972, 942
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+guaiB2es/guaiB2e_shoulder
+  rotate: false
+  xy: 972, 905
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+guaiB2es/guaiB2e_suit
+  rotate: false
+  xy: 2, 2
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+guaiB2es/guaiB2e_weapon
+  rotate: false
+  xy: 880, 914
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1
+
+guaiB2es2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB2es/05
+  rotate: false
+  xy: 2, 2
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiB2es/06
+  rotate: false
+  xy: 441, 2
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+guaiD2a.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD2a/biyan
+  rotate: false
+  xy: 189, 95
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+guaiD2a/chibang
+  rotate: false
+  xy: 2, 22
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+guaiD2a/chibang2
+  rotate: false
+  xy: 149, 92
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+guaiD2a/shenti
+  rotate: false
+  xy: 72, 84
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+guaiD2a/shou1
+  rotate: true
+  xy: 72, 66
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+guaiD2a/shou2
+  rotate: false
+  xy: 221, 98
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+guaiD2a/tou
+  rotate: false
+  xy: 2, 62
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+guaiD2a/tui1
+  rotate: false
+  xy: 42, 30
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+guaiD2a/tui2
+  rotate: true
+  xy: 2, 2
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1

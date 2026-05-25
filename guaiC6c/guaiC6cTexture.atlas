@@ -1,0 +1,55 @@
+
+guaiC6cTexture.png
+size: 192,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC6c/zu16
+  rotate: false
+  xy: 2, 2
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1
+guaiC6c/zu17
+  rotate: false
+  xy: 138, 175
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+guaiC6c/zu18
+  rotate: false
+  xy: 138, 193
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+guaiC6c/zu19
+  rotate: false
+  xy: 2, 96
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+guaiC6c/zu20
+  rotate: false
+  xy: 2, 35
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+guaiC6c/zu21
+  rotate: false
+  xy: 48, 70
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+guaiC6c/zu22
+  rotate: false
+  xy: 171, 205
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1

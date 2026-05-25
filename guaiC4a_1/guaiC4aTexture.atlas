@@ -1,0 +1,97 @@
+
+guaiC4aTexture_1.png
+size: 424,59
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC4a_1/di
+  rotate: false
+  xy: 78, 2
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+guaiC4a_1/guaiC4_body
+  rotate: false
+  xy: 2, 2
+  size: 74, 57
+  orig: 74, 57
+  offset: 0, 0
+  index: -1
+guaiC4a_1/guaiC4_leaf
+  rotate: false
+  xy: 125, 23
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+guaiC4a_1/guaiC4_lip
+  rotate: false
+  xy: 78, 15
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+guaiC4a_1/guaiC4_mouth
+  rotate: false
+  xy: 208, 25
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+guaiC4a_1/guaiC4_tongue
+  rotate: false
+  xy: 239, 41
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+guaiC4a_1/guaiC4_tooth
+  rotate: false
+  xy: 279, 29
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+guaiC4a_1/guan
+  rotate: false
+  xy: 408, 41
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+guaiC4a_1/key
+  rotate: false
+  xy: 333, 34
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+guaiC4a_1/lun1
+  rotate: false
+  xy: 306, 34
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+guaiC4a_1/lun2
+  rotate: false
+  xy: 359, 34
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+guaiC4a_1/pao
+  rotate: false
+  xy: 385, 33
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+guaiC4a_1/shen
+  rotate: false
+  xy: 167, 24
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1

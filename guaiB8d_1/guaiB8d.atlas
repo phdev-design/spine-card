@@ -1,0 +1,62 @@
+
+guaiB8d.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB8d/guaib8b_weijing
+  rotate: false
+  xy: 164, 80
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+guaiB8d/guaib8d_body
+  rotate: false
+  xy: 2, 2
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+guaiB8d/guaib8d_head
+  rotate: false
+  xy: 2, 43
+  size: 85, 72
+  orig: 85, 72
+  offset: 0, 0
+  index: -1
+guaiB8d/guaib8d_leg1
+  rotate: false
+  xy: 69, 11
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+guaiB8d/guaib8d_leg2
+  rotate: true
+  xy: 164, 54
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+guaiB8d/guaib8d_shou1
+  rotate: true
+  xy: 199, 96
+  size: 19, 47
+  orig: 19, 47
+  offset: 0, 0
+  index: -1
+guaiB8d/guaib8d_shou2
+  rotate: false
+  xy: 42, 9
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+guaiB8d/guaib8d_wuqi
+  rotate: true
+  xy: 89, 61
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1

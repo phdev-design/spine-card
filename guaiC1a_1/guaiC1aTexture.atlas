@@ -1,0 +1,55 @@
+
+guaiC1aTexture_1.png
+size: 224,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC1a_1/guaiC1a_body
+  rotate: false
+  xy: 121, 55
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+guaiC1a_1/guaiC1a_head
+  rotate: false
+  xy: 47, 9
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+guaiC1a_1/guaiC1a_leg1
+  rotate: false
+  xy: 163, 41
+  size: 31, 65
+  orig: 31, 65
+  offset: 0, 0
+  index: -1
+guaiC1a_1/guaiC1a_leg2
+  rotate: false
+  xy: 2, 2
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+guaiC1a_1/guaiC1a_shou1
+  rotate: false
+  xy: 196, 57
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+guaiC1a_1/guaiC1a_shou2
+  rotate: false
+  xy: 93, 13
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+guaiC1a_1/guaiC1a_wuqi
+  rotate: false
+  xy: 2, 64
+  size: 117, 42
+  orig: 117, 42
+  offset: 0, 0
+  index: -1

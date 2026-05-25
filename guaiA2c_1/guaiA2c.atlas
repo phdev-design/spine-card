@@ -1,0 +1,132 @@
+
+guaiA2c.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA2c/guaiA2c_armL1
+  rotate: false
+  xy: 489, 57
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+guaiA2c/guaiA2c_armL2
+  rotate: true
+  xy: 421, 20
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+guaiA2c/guaiA2c_armR1
+  rotate: true
+  xy: 358, 14
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+guaiA2c/guaiA2c_armR2
+  rotate: true
+  xy: 314, 12
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+guaiA2c/guaiA2c_body
+  rotate: false
+  xy: 195, 127
+  size: 108, 127
+  orig: 108, 127
+  offset: 0, 0
+  index: -1
+guaiA2c/guaiA2c_eye1
+  rotate: false
+  xy: 461, 27
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+guaiA2c/guaiA2c_head
+  rotate: true
+  xy: 239, 39
+  size: 86, 51
+  orig: 86, 51
+  offset: 0, 0
+  index: -1
+guaiA2c/guaiA2c_legL
+  rotate: true
+  xy: 426, 98
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+guaiA2c/guaiA2c_legR
+  rotate: true
+  xy: 292, 36
+  size: 54, 66
+  orig: 54, 66
+  offset: 0, 0
+  index: -1
+guaiA2c/guaiA2c_mouth
+  rotate: false
+  xy: 239, 2
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+guaiA2c/guaiA2c_shoulderL
+  rotate: false
+  xy: 360, 35
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+guaiA2c/guaiA2c_shoulderR
+  rotate: false
+  xy: 426, 44
+  size: 61, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+guaiA2c/guaiA2c_swordL
+  rotate: false
+  xy: 305, 92
+  size: 119, 50
+  orig: 119, 50
+  offset: 0, 0
+  index: -1
+guaiA2c/guaiA2c_swordR
+  rotate: true
+  xy: 189, 10
+  size: 110, 48
+  orig: 110, 48
+  offset: 0, 0
+  index: -1
+guaiA2c/guaiA2e01
+  rotate: false
+  xy: 406, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guaiA2c/guaiA2e02
+  rotate: false
+  xy: 305, 144
+  size: 99, 110
+  orig: 99, 110
+  offset: 0, 0
+  index: -1
+guaiA2c/guaiA2e03
+  rotate: false
+  xy: 2, 122
+  size: 191, 132
+  orig: 191, 132
+  offset: 0, 0
+  index: -1
+guaiA2c/guaiA2e04
+  rotate: false
+  xy: 2, 10
+  size: 185, 110
+  orig: 185, 110
+  offset: 0, 0
+  index: -1

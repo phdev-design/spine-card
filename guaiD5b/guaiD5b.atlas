@@ -1,0 +1,83 @@
+
+guaiD5b.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD5b/shenti
+  rotate: true
+  xy: 2, 2
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+guaiD5b/tou
+  rotate: true
+  xy: 98, 64
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+guaiD5b/youer
+  rotate: false
+  xy: 221, 109
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+guaiD5b/youjiao1
+  rotate: false
+  xy: 236, 113
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+guaiD5b/youshou1
+  rotate: false
+  xy: 169, 94
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+guaiD5b/youtui1
+  rotate: false
+  xy: 169, 68
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+guaiD5b/zuoer
+  rotate: false
+  xy: 67, 2
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+guaiD5b/zuojiao1
+  rotate: false
+  xy: 201, 92
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+guaiD5b/zuoshou01
+  rotate: false
+  xy: 67, 30
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+guaiD5b/zuoshou02
+  rotate: false
+  xy: 2, 70
+  size: 94, 56
+  orig: 94, 56
+  offset: 0, 0
+  index: -1
+guaiD5b/zutui1
+  rotate: false
+  xy: 201, 107
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+guaiSS2d.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSS2d/bei
+  rotate: false
+  xy: 345, 153
+  size: 192, 101
+  orig: 192, 101
+  offset: 0, 0
+  index: -1
+guaiSS2d/dao
+  rotate: false
+  xy: 2, 61
+  size: 150, 193
+  orig: 150, 193
+  offset: 0, 0
+  index: -1
+guaiSS2d/dao2
+  rotate: false
+  xy: 154, 2
+  size: 157, 100
+  orig: 157, 100
+  offset: 0, 0
+  index: -1
+guaiSS2d/datui1
+  rotate: true
+  xy: 831, 161
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+guaiSS2d/datui2
+  rotate: false
+  xy: 345, 104
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+guaiSS2d/jiao1
+  rotate: false
+  xy: 876, 169
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+guaiSS2d/jiao2
+  rotate: false
+  xy: 411, 128
+  size: 36, 23
+  orig: 36, 23
+  offset: 0, 0
+  index: -1
+guaiSS2d/lian
+  rotate: false
+  xy: 385, 112
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+guaiSS2d/shangbi1
+  rotate: false
+  xy: 661, 148
+  size: 91, 106
+  orig: 91, 106
+  offset: 0, 0
+  index: -1
+guaiSS2d/shangbi2
+  rotate: true
+  xy: 930, 196
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+guaiSS2d/shenti
+  rotate: true
+  xy: 539, 146
+  size: 108, 120
+  orig: 108, 120
+  offset: 0, 0
+  index: -1
+guaiSS2d/tou
+  rotate: false
+  xy: 313, 2
+  size: 87, 100
+  orig: 87, 100
+  offset: 0, 0
+  index: -1
+guaiSS2d/wuqi
+  rotate: false
+  xy: 154, 104
+  size: 189, 150
+  orig: 189, 150
+  offset: 0, 0
+  index: -1
+guaiSS2d/xiaba
+  rotate: false
+  xy: 831, 195
+  size: 97, 59
+  orig: 97, 59
+  offset: 0, 0
+  index: -1
+guaiSS2d/xiaobi1
+  rotate: false
+  xy: 754, 167
+  size: 75, 87
+  orig: 75, 87
+  offset: 0, 0
+  index: -1
+guaiSS2d/xiaobi2
+  rotate: true
+  xy: 2, 6
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+guaiSS2d/xiaotui1
+  rotate: false
+  xy: 63, 21
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+guaiSS2d/xiaotui2
+  rotate: false
+  xy: 105, 21
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1

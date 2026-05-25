@@ -1,0 +1,69 @@
+
+guaiSS2c.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSS2c/bi1
+  rotate: true
+  xy: 138, 77
+  size: 55, 145
+  orig: 55, 145
+  offset: 0, 0
+  index: -1
+guaiSS2c/bi2
+  rotate: true
+  xy: 303, 177
+  size: 72, 149
+  orig: 72, 149
+  offset: 0, 0
+  index: -1
+guaiSS2c/lian
+  rotate: false
+  xy: 71, 13
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+guaiSS2c/sheng
+  rotate: false
+  xy: 138, 61
+  size: 81, 14
+  orig: 81, 14
+  offset: 0, 0
+  index: -1
+guaiSS2c/shenti
+  rotate: false
+  xy: 2, 65
+  size: 134, 184
+  orig: 134, 184
+  offset: 0, 0
+  index: -1
+guaiSS2c/tou
+  rotate: false
+  xy: 138, 134
+  size: 163, 115
+  orig: 163, 115
+  offset: 0, 0
+  index: -1
+guaiSS2c/tui1
+  rotate: true
+  xy: 2, 2
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+guaiSS2c/tui2
+  rotate: false
+  xy: 454, 186
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+guaiSS2c/yan
+  rotate: false
+  xy: 303, 139
+  size: 81, 36
+  orig: 81, 36
+  offset: 0, 0
+  index: -1

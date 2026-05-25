@@ -1,0 +1,104 @@
+
+guaiS2dTexture_1.png
+size: 502,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS2d_1/guaiS2d_body
+  rotate: false
+  xy: 147, 142
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+guaiS2d_1/guaiS2d_hair
+  rotate: false
+  xy: 318, 72
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+guaiS2d_1/guaiS2d_handL
+  rotate: false
+  xy: 453, 176
+  size: 49, 76
+  orig: 49, 76
+  offset: 0, 0
+  index: -1
+guaiS2d_1/guaiS2d_handR
+  rotate: false
+  xy: 2, 2
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+guaiS2d_1/guaiS2d_head
+  rotate: false
+  xy: 147, 69
+  size: 89, 71
+  orig: 89, 71
+  offset: 0, 0
+  index: -1
+guaiS2d_1/guaiS2d_mouth1
+  rotate: false
+  xy: 453, 144
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+guaiS2d_1/guaiS2d_mouth2
+  rotate: false
+  xy: 57, 18
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+guaiS2d_1/guaiS2d_mustache
+  rotate: false
+  xy: 387, 47
+  size: 36, 81
+  orig: 36, 81
+  offset: 0, 0
+  index: -1
+guaiS2d_1/guaiS2d_shoulder
+  rotate: false
+  xy: 238, 48
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+guaiS2d_1/guaiS2d_weapon
+  rotate: false
+  xy: 2, 44
+  size: 143, 208
+  orig: 143, 208
+  offset: 0, 0
+  index: -1
+guaiS2d_1/guaiS2e01
+  rotate: false
+  xy: 249, 192
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+guaiS2d_1/guaiS2e02
+  rotate: false
+  xy: 351, 192
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+guaiS2d_1/guaiS2e03
+  rotate: false
+  xy: 249, 130
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+guaiS2d_1/guaiS2e04
+  rotate: false
+  xy: 351, 130
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1

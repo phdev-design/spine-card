@@ -1,0 +1,20 @@
+
+guaiB1cTexture_1.png
+size: 93,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB1c_1/guaiB1c_body
+  rotate: false
+  xy: 2, 65
+  size: 91, 167
+  orig: 91, 167
+  offset: 0, 0
+  index: -1
+guaiB1c_1/guaiB1c_wing
+  rotate: false
+  xy: 2, 2
+  size: 50, 61
+  orig: 50, 61
+  offset: 0, 0
+  index: -1

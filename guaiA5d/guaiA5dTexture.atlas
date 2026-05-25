@@ -1,0 +1,125 @@
+
+guaiA5dTexture.png
+size: 835,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA5d/guaiA5d_bi1
+  rotate: false
+  xy: 103, 26
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+guaiA5d/guaiA5d_bi2
+  rotate: false
+  xy: 815, 111
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+guaiA5d/guaiA5d_body
+  rotate: false
+  xy: 590, 65
+  size: 46, 61
+  orig: 46, 61
+  offset: 0, 0
+  index: -1
+guaiA5d/guaiA5d_head
+  rotate: false
+  xy: 638, 73
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+guaiA5d/guaiA5d_jiao1
+  rotate: false
+  xy: 795, 88
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+guaiA5d/guaiA5d_jiao2
+  rotate: false
+  xy: 747, 87
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+guaiA5d/guaiA5d_shou1
+  rotate: false
+  xy: 688, 71
+  size: 33, 55
+  orig: 33, 55
+  offset: 0, 0
+  index: -1
+guaiA5d/guaiA5d_shou2
+  rotate: false
+  xy: 66, 18
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+guaiA5d/guaiA5d_shou2a
+  rotate: false
+  xy: 590, 40
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+guaiA5d/guaiA5d_tui1
+  rotate: false
+  xy: 772, 86
+  size: 21, 40
+  orig: 21, 40
+  offset: 0, 0
+  index: -1
+guaiA5d/guaiA5d_tui2
+  rotate: false
+  xy: 723, 84
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+guaiA5d/guaiA5d_weiba
+  rotate: false
+  xy: 2, 2
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+guaiA5d/guaiA5d_wuqi
+  rotate: false
+  xy: 2, 53
+  size: 178, 73
+  orig: 178, 73
+  offset: 0, 0
+  index: -1
+guaiA5d/guaiA5e01
+  rotate: false
+  xy: 182, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guaiA5d/guaiA5e02
+  rotate: false
+  xy: 284, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guaiA5d/guaiA5e03
+  rotate: false
+  xy: 386, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guaiA5d/guaiA5e04
+  rotate: false
+  xy: 488, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

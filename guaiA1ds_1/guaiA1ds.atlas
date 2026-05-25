@@ -1,0 +1,96 @@
+
+guaiA1ds.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA1ds/01
+  rotate: false
+  xy: 2, 598
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiA1ds/02
+  rotate: false
+  xy: 2, 183
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiA1ds/03
+  rotate: false
+  xy: 441, 598
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiA1ds/04
+  rotate: false
+  xy: 441, 183
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiA1ds/guaiA1d_armL
+  rotate: false
+  xy: 2, 46
+  size: 103, 135
+  orig: 103, 135
+  offset: 0, 0
+  index: -1
+guaiA1ds/guaiA1d_armR
+  rotate: false
+  xy: 880, 773
+  size: 73, 120
+  orig: 73, 120
+  offset: 0, 0
+  index: -1
+guaiA1ds/guaiA1d_body
+  rotate: false
+  xy: 107, 84
+  size: 102, 97
+  orig: 102, 97
+  offset: 0, 0
+  index: -1
+guaiA1ds/guaiA1d_head
+  rotate: false
+  xy: 880, 895
+  size: 110, 116
+  orig: 110, 116
+  offset: 0, 0
+  index: -1
+guaiA1ds/guaiA1d_legL
+  rotate: false
+  xy: 2, 2
+  size: 49, 42
+  orig: 49, 42
+  offset: 0, 0
+  index: -1
+guaiA1ds/guaiA1d_legR
+  rotate: false
+  xy: 211, 141
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+
+guaiA1ds2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA1ds/05
+  rotate: false
+  xy: 2, 2
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1
+guaiA1ds/06
+  rotate: false
+  xy: 441, 2
+  size: 437, 413
+  orig: 437, 413
+  offset: 0, 0
+  index: -1

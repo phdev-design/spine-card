@@ -1,0 +1,48 @@
+
+guaiD2aTexture_1.png
+size: 123,58
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD2a_1/guaiD2a_body
+  rotate: false
+  xy: 45, 21
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+guaiD2a_1/guaiD2a_hand1
+  rotate: false
+  xy: 45, 2
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+guaiD2a_1/guaiD2a_hand2
+  rotate: false
+  xy: 59, 7
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+guaiD2a_1/guaiD2a_head
+  rotate: false
+  xy: 2, 2
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+guaiD2a_1/guaiD2a_leg
+  rotate: false
+  xy: 107, 30
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1
+guaiD2a_1/guaiD2a_tail
+  rotate: false
+  xy: 78, 34
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1

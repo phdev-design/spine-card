@@ -1,0 +1,160 @@
+
+guaiC2dsTexture_1.png
+size: 1010,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC2ds_1/01
+  rotate: false
+  xy: 2, 346
+  size: 200, 138
+  orig: 200, 138
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/02
+  rotate: false
+  xy: 2, 206
+  size: 200, 138
+  orig: 200, 138
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/03
+  rotate: false
+  xy: 204, 346
+  size: 200, 138
+  orig: 200, 138
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/04
+  rotate: false
+  xy: 2, 66
+  size: 200, 138
+  orig: 200, 138
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/05
+  rotate: false
+  xy: 204, 206
+  size: 200, 138
+  orig: 200, 138
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/06
+  rotate: false
+  xy: 406, 346
+  size: 200, 138
+  orig: 200, 138
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/07
+  rotate: false
+  xy: 204, 66
+  size: 200, 138
+  orig: 200, 138
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/08
+  rotate: false
+  xy: 406, 206
+  size: 200, 138
+  orig: 200, 138
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/09
+  rotate: false
+  xy: 608, 346
+  size: 200, 138
+  orig: 200, 138
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/10
+  rotate: false
+  xy: 406, 66
+  size: 200, 138
+  orig: 200, 138
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/11
+  rotate: false
+  xy: 608, 206
+  size: 200, 138
+  orig: 200, 138
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/12
+  rotate: false
+  xy: 810, 348
+  size: 151, 136
+  orig: 151, 136
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/13
+  rotate: false
+  xy: 608, 68
+  size: 151, 136
+  orig: 151, 136
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/cde_jian
+  rotate: false
+  xy: 47, 51
+  size: 74, 13
+  orig: 74, 13
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/guaiC2_tong
+  rotate: false
+  xy: 2, 2
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/guaiC2_xian
+  rotate: false
+  xy: 761, 119
+  size: 5, 85
+  orig: 5, 85
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/guaiC2d_body
+  rotate: false
+  xy: 963, 426
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/guaiC2d_head
+  rotate: false
+  xy: 880, 301
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/guaiC2d_leg1
+  rotate: false
+  xy: 768, 156
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/guaiC2d_leg2
+  rotate: false
+  xy: 810, 206
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/guaiC2d_shou1
+  rotate: false
+  xy: 963, 370
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+guaiC2ds_1/guaiC2d_shou2
+  rotate: false
+  xy: 810, 251
+  size: 68, 95
+  orig: 68, 95
+  offset: 0, 0
+  index: -1

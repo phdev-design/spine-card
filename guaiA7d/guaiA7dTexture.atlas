@@ -1,0 +1,146 @@
+
+guaiA7dTexture.png
+size: 124,510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA7d/bi1
+  rotate: false
+  xy: 2, 178
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+guaiA7d/bi2
+  rotate: false
+  xy: 2, 234
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+guaiA7d/jia1
+  rotate: false
+  xy: 53, 257
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+guaiA7d/jia2
+  rotate: false
+  xy: 53, 195
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+guaiA7d/jia3
+  rotate: false
+  xy: 2, 125
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+guaiA7d/jia4
+  rotate: false
+  xy: 53, 221
+  size: 55, 34
+  orig: 55, 34
+  offset: 0, 0
+  index: -1
+guaiA7d/jiao1
+  rotate: false
+  xy: 2, 150
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+guaiA7d/pi1
+  rotate: false
+  xy: 53, 177
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+guaiA7d/pi2
+  rotate: false
+  xy: 2, 26
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+guaiA7d/pu1
+  rotate: false
+  xy: 2, 96
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+guaiA7d/pu2
+  rotate: false
+  xy: 2, 67
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+guaiA7d/shenti
+  rotate: false
+  xy: 2, 385
+  size: 118, 125
+  orig: 118, 125
+  offset: 0, 0
+  index: -1
+guaiA7d/tou
+  rotate: false
+  xy: 2, 291
+  size: 110, 92
+  orig: 110, 92
+  offset: 0, 0
+  index: -1
+guaiA7d/xiaba
+  rotate: false
+  xy: 2, 45
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+guaiA7d/xv1
+  rotate: false
+  xy: 114, 342
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+guaiA7d/xv2
+  rotate: false
+  xy: 98, 194
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+guaiA7d/xv3
+  rotate: false
+  xy: 27, 2
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+guaiA7d/xv4
+  rotate: false
+  xy: 114, 362
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+guaiA7d/xv5
+  rotate: false
+  xy: 27, 16
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+guaiA7d/yan
+  rotate: false
+  xy: 2, 8
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1

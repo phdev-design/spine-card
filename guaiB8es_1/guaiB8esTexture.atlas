@@ -1,0 +1,132 @@
+
+guaiB8esTexture_1.png
+size: 992,488
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB8es_1/01
+  rotate: false
+  xy: 2, 353
+  size: 246, 135
+  orig: 246, 135
+  offset: 0, 0
+  index: -1
+guaiB8es_1/02
+  rotate: false
+  xy: 2, 216
+  size: 246, 135
+  orig: 246, 135
+  offset: 0, 0
+  index: -1
+guaiB8es_1/03
+  rotate: false
+  xy: 250, 353
+  size: 246, 135
+  orig: 246, 135
+  offset: 0, 0
+  index: -1
+guaiB8es_1/04
+  rotate: false
+  xy: 2, 79
+  size: 246, 135
+  orig: 246, 135
+  offset: 0, 0
+  index: -1
+guaiB8es_1/05
+  rotate: false
+  xy: 250, 216
+  size: 246, 135
+  orig: 246, 135
+  offset: 0, 0
+  index: -1
+guaiB8es_1/06
+  rotate: false
+  xy: 498, 353
+  size: 246, 135
+  orig: 246, 135
+  offset: 0, 0
+  index: -1
+guaiB8es_1/07
+  rotate: false
+  xy: 250, 79
+  size: 246, 135
+  orig: 246, 135
+  offset: 0, 0
+  index: -1
+guaiB8es_1/08
+  rotate: false
+  xy: 498, 216
+  size: 246, 135
+  orig: 246, 135
+  offset: 0, 0
+  index: -1
+guaiB8es_1/09
+  rotate: false
+  xy: 746, 353
+  size: 246, 135
+  orig: 246, 135
+  offset: 0, 0
+  index: -1
+guaiB8es_1/guaib8e_body
+  rotate: false
+  xy: 603, 166
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+guaiB8es_1/guaib8e_head
+  rotate: false
+  xy: 498, 106
+  size: 103, 108
+  orig: 103, 108
+  offset: 0, 0
+  index: -1
+guaiB8es_1/guaib8e_leg1
+  rotate: false
+  xy: 603, 128
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+guaiB8es_1/guaib8e_leg2
+  rotate: false
+  xy: 786, 316
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+guaiB8es_1/guaib8e_niao
+  rotate: false
+  xy: 69, 36
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+guaiB8es_1/guaib8e_shou1
+  rotate: false
+  xy: 746, 289
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+guaiB8es_1/guaib8e_shou2
+  rotate: false
+  xy: 746, 251
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+guaiB8es_1/guaib8e_weijing
+  rotate: false
+  xy: 498, 80
+  size: 39, 24
+  orig: 39, 24
+  offset: 0, 0
+  index: -1
+guaiB8es_1/guaib8e_wuqi
+  rotate: false
+  xy: 2, 2
+  size: 65, 75
+  orig: 65, 75
+  offset: 0, 0
+  index: -1

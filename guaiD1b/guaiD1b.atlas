@@ -1,0 +1,27 @@
+
+guaiD1b.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD1b/jiao
+  rotate: false
+  xy: 69, 73
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+guaiD1b/tou
+  rotate: false
+  xy: 2, 23
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+guaiD1b/yan
+  rotate: false
+  xy: 2, 2
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1

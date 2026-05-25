@@ -1,0 +1,69 @@
+
+guaiC2bTexture_1.png
+size: 242,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC2b_1/ab-jian
+  rotate: false
+  xy: 149, 111
+  size: 71, 9
+  orig: 71, 9
+  offset: 0, 0
+  index: -1
+guaiC2b_1/guaiC2_tong
+  rotate: false
+  xy: 97, 78
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+guaiC2b_1/guaiC2_xian
+  rotate: false
+  xy: 211, 24
+  size: 5, 85
+  orig: 5, 85
+  offset: 0, 0
+  index: -1
+guaiC2b_1/guaiC2b_body
+  rotate: false
+  xy: 149, 65
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+guaiC2b_1/guaiC2b_head
+  rotate: false
+  xy: 2, 60
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+guaiC2b_1/guaiC2b_leg1
+  rotate: false
+  xy: 184, 52
+  size: 25, 57
+  orig: 25, 57
+  offset: 0, 0
+  index: -1
+guaiC2b_1/guaiC2b_leg2
+  rotate: false
+  xy: 52, 70
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+guaiC2b_1/guaiC2b_shou1
+  rotate: false
+  xy: 218, 69
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+guaiC2b_1/guaiC2b_shou2
+  rotate: false
+  xy: 2, 2
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1

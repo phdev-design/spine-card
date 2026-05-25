@@ -1,0 +1,55 @@
+
+guaiB7c.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB7c/guaiB7c_beibu
+  rotate: false
+  xy: 131, 46
+  size: 116, 80
+  orig: 116, 80
+  offset: 0, 0
+  index: -1
+guaiB7c/guaiB7c_body
+  rotate: false
+  xy: 345, 76
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+guaiB7c/guaiB7c_head
+  rotate: true
+  xy: 249, 66
+  size: 60, 94
+  orig: 60, 94
+  offset: 0, 0
+  index: -1
+guaiB7c/guaiB7c_liandao
+  rotate: false
+  xy: 2, 32
+  size: 127, 94
+  orig: 127, 94
+  offset: 0, 0
+  index: -1
+guaiB7c/guaiB7c_pifeng
+  rotate: false
+  xy: 415, 89
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+guaiB7c/guaiB7c_shou1
+  rotate: false
+  xy: 480, 93
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+guaiB7c/guaiB7c_shou2
+  rotate: true
+  xy: 2, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

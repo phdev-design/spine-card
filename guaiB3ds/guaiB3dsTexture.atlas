@@ -1,0 +1,272 @@
+
+guaiB3dsTexture.png
+size: 1015,1009
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB3ds/01
+  rotate: false
+  xy: 446, 794
+  size: 150, 79
+  orig: 150, 79
+  offset: 0, 0
+  index: -1
+guaiB3ds/02
+  rotate: false
+  xy: 598, 794
+  size: 150, 79
+  orig: 150, 79
+  offset: 0, 0
+  index: -1
+guaiB3ds/03
+  rotate: false
+  xy: 224, 532
+  size: 150, 79
+  orig: 150, 79
+  offset: 0, 0
+  index: -1
+guaiB3ds/04
+  rotate: false
+  xy: 210, 451
+  size: 150, 79
+  orig: 150, 79
+  offset: 0, 0
+  index: -1
+guaiB3ds/05
+  rotate: false
+  xy: 210, 370
+  size: 150, 79
+  orig: 150, 79
+  offset: 0, 0
+  index: -1
+guaiB3ds/06
+  rotate: false
+  xy: 180, 289
+  size: 150, 79
+  orig: 150, 79
+  offset: 0, 0
+  index: -1
+guaiB3ds/07
+  rotate: false
+  xy: 180, 208
+  size: 150, 79
+  orig: 150, 79
+  offset: 0, 0
+  index: -1
+guaiB3ds/08
+  rotate: false
+  xy: 170, 127
+  size: 150, 79
+  orig: 150, 79
+  offset: 0, 0
+  index: -1
+guaiB3ds/09
+  rotate: false
+  xy: 160, 46
+  size: 150, 79
+  orig: 150, 79
+  offset: 0, 0
+  index: -1
+guaiB3ds/10
+  rotate: false
+  xy: 378, 714
+  size: 142, 78
+  orig: 142, 78
+  offset: 0, 0
+  index: -1
+guaiB3ds/11
+  rotate: false
+  xy: 2, 67
+  size: 156, 90
+  orig: 156, 90
+  offset: 0, 0
+  index: -1
+guaiB3ds/12
+  rotate: false
+  xy: 2, 159
+  size: 166, 106
+  orig: 166, 106
+  offset: 0, 0
+  index: -1
+guaiB3ds/13
+  rotate: false
+  xy: 802, 881
+  size: 178, 128
+  orig: 178, 128
+  offset: 0, 0
+  index: -1
+guaiB3ds/14
+  rotate: false
+  xy: 446, 875
+  size: 178, 134
+  orig: 178, 134
+  offset: 0, 0
+  index: -1
+guaiB3ds/15
+  rotate: false
+  xy: 626, 875
+  size: 174, 134
+  orig: 174, 134
+  offset: 0, 0
+  index: -1
+guaiB3ds/16
+  rotate: false
+  xy: 2, 267
+  size: 176, 134
+  orig: 176, 134
+  offset: 0, 0
+  index: -1
+guaiB3ds/17
+  rotate: false
+  xy: 224, 613
+  size: 152, 192
+  orig: 152, 192
+  offset: 0, 0
+  index: -1
+guaiB3ds/18
+  rotate: false
+  xy: 224, 807
+  size: 220, 202
+  orig: 220, 202
+  offset: 0, 0
+  index: -1
+guaiB3ds/19
+  rotate: false
+  xy: 2, 573
+  size: 220, 214
+  orig: 220, 214
+  offset: 0, 0
+  index: -1
+guaiB3ds/20
+  rotate: false
+  xy: 2, 789
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: -1
+guaiB3ds/21
+  rotate: false
+  xy: 2, 403
+  size: 206, 168
+  orig: 206, 168
+  offset: 0, 0
+  index: -1
+guaiB3ds/body
+  rotate: false
+  xy: 378, 601
+  size: 102, 111
+  orig: 102, 111
+  offset: 0, 0
+  index: -1
+guaiB3ds/head
+  rotate: false
+  xy: 522, 695
+  size: 101, 97
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+guaiB3ds/jian1
+  rotate: false
+  xy: 750, 789
+  size: 55, 84
+  orig: 55, 84
+  offset: 0, 0
+  index: -1
+guaiB3ds/jian2
+  rotate: false
+  xy: 807, 798
+  size: 60, 81
+  orig: 60, 81
+  offset: 0, 0
+  index: -1
+guaiB3ds/jian3
+  rotate: false
+  xy: 869, 797
+  size: 58, 82
+  orig: 58, 82
+  offset: 0, 0
+  index: -1
+guaiB3ds/left arm
+  rotate: false
+  xy: 482, 633
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+guaiB3ds/left foot
+  rotate: false
+  xy: 332, 339
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+guaiB3ds/left hand
+  rotate: false
+  xy: 625, 697
+  size: 82, 95
+  orig: 82, 95
+  offset: 0, 0
+  index: -1
+guaiB3ds/left leg
+  rotate: false
+  xy: 376, 565
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+guaiB3ds/left shoulder
+  rotate: false
+  xy: 982, 972
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+guaiB3ds/right arm
+  rotate: false
+  xy: 482, 670
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+guaiB3ds/right foot
+  rotate: false
+  xy: 709, 720
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+guaiB3ds/right hand
+  rotate: false
+  xy: 709, 755
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+guaiB3ds/right leg
+  rotate: false
+  xy: 929, 836
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+guaiB3ds/right shoulder
+  rotate: false
+  xy: 76, 4
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+guaiB3ds/underwear
+  rotate: false
+  xy: 2, 2
+  size: 72, 63
+  orig: 72, 63
+  offset: 0, 0
+  index: -1
+guaiB3ds/xiaba
+  rotate: false
+  xy: 929, 797
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1

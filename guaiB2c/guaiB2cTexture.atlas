@@ -1,0 +1,97 @@
+
+guaiB2cTexture.png
+size: 821,114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB2c/body
+  rotate: false
+  xy: 2, 2
+  size: 105, 112
+  orig: 105, 112
+  offset: 0, 0
+  index: -1
+guaiB2c/left arm
+  rotate: false
+  xy: 549, 35
+  size: 54, 79
+  orig: 54, 79
+  offset: 0, 0
+  index: -1
+guaiB2c/left foot
+  rotate: false
+  xy: 385, 32
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+guaiB2c/left hand
+  rotate: false
+  xy: 109, 27
+  size: 113, 87
+  orig: 113, 87
+  offset: 0, 0
+  index: -1
+guaiB2c/left leg
+  rotate: false
+  xy: 745, 77
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+guaiB2c/right arm
+  rotate: false
+  xy: 651, 65
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+guaiB2c/right foot
+  rotate: false
+  xy: 786, 77
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+guaiB2c/right hand
+  rotate: false
+  xy: 697, 70
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+guaiB2c/right leg
+  rotate: false
+  xy: 605, 63
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+guaiB2c/shangbi
+  rotate: false
+  xy: 311, 23
+  size: 72, 91
+  orig: 72, 91
+  offset: 0, 0
+  index: -1
+guaiB2c/tou
+  rotate: false
+  xy: 224, 24
+  size: 85, 90
+  orig: 85, 90
+  offset: 0, 0
+  index: -1
+guaiB2c/underwear
+  rotate: false
+  xy: 474, 60
+  size: 73, 54
+  orig: 73, 54
+  offset: 0, 0
+  index: -1
+guaiB2c/xiaba
+  rotate: false
+  xy: 385, 61
+  size: 87, 53
+  orig: 87, 53
+  offset: 0, 0
+  index: -1

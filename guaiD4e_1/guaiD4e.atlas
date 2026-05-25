@@ -1,0 +1,48 @@
+
+guaiD4e.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD4e/guaiD4e_body
+  rotate: false
+  xy: 2, 28
+  size: 93, 98
+  orig: 93, 98
+  offset: 0, 0
+  index: -1
+guaiD4e/guaiD4e_bu
+  rotate: false
+  xy: 2, 2
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+guaiD4e/guaiD4e_hand1
+  rotate: false
+  xy: 97, 46
+  size: 50, 80
+  orig: 50, 80
+  offset: 0, 0
+  index: -1
+guaiD4e/guaiD4e_hand2
+  rotate: false
+  xy: 149, 50
+  size: 39, 76
+  orig: 39, 76
+  offset: 0, 0
+  index: -1
+guaiD4e/guaiD4e_leg1
+  rotate: false
+  xy: 190, 74
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+guaiD4e/guaiD4e_leg2
+  rotate: false
+  xy: 226, 86
+  size: 28, 40
+  orig: 28, 40
+  offset: 0, 0
+  index: -1

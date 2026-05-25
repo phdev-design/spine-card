@@ -1,0 +1,48 @@
+
+guaiD4c.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD4c/maozi
+  rotate: false
+  xy: 75, 55
+  size: 85, 59
+  orig: 85, 59
+  offset: 0, 0
+  index: -1
+guaiD4c/pifeng01
+  rotate: false
+  xy: 162, 66
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+guaiD4c/pifeng2
+  rotate: false
+  xy: 75, 4
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+guaiD4c/youjiao
+  rotate: false
+  xy: 2, 2
+  size: 71, 112
+  orig: 71, 112
+  offset: 0, 0
+  index: -1
+guaiD4c/youshou2
+  rotate: false
+  xy: 113, 21
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+guaiD4c/zuoshou
+  rotate: false
+  xy: 195, 87
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+guaiSSS4e.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS4e/01
+  rotate: false
+  xy: 2, 120
+  size: 372, 390
+  orig: 372, 390
+  offset: 0, 0
+  index: -1
+guaiSSS4e/chong
+  rotate: false
+  xy: 289, 46
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+guaiSSS4e/chongyan
+  rotate: false
+  xy: 132, 2
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+guaiSSS4e/hu1
+  rotate: true
+  xy: 426, 73
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+guaiSSS4e/hu2
+  rotate: true
+  xy: 480, 415
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+guaiSSS4e/hu3
+  rotate: true
+  xy: 480, 487
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+guaiSSS4e/jian1
+  rotate: true
+  xy: 376, 226
+  size: 77, 66
+  orig: 77, 66
+  offset: 0, 0
+  index: -1
+guaiSSS4e/jian2
+  rotate: true
+  xy: 376, 155
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+guaiSSS4e/jiao1
+  rotate: true
+  xy: 376, 106
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+guaiSSS4e/jiao2
+  rotate: true
+  xy: 363, 59
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+guaiSSS4e/shenti
+  rotate: false
+  xy: 376, 407
+  size: 102, 103
+  orig: 102, 103
+  offset: 0, 0
+  index: -1
+guaiSSS4e/shoubi1
+  rotate: false
+  xy: 376, 305
+  size: 61, 100
+  orig: 61, 100
+  offset: 0, 0
+  index: -1
+guaiSSS4e/shoubi2
+  rotate: false
+  xy: 219, 36
+  size: 68, 82
+  orig: 68, 82
+  offset: 0, 0
+  index: -1
+guaiSSS4e/tou
+  rotate: false
+  xy: 132, 22
+  size: 85, 96
+  orig: 85, 96
+  offset: 0, 0
+  index: -1
+guaiSSS4e/tui1
+  rotate: false
+  xy: 402, 3
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+guaiSSS4e/tui2
+  rotate: false
+  xy: 363, 2
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+guaiSSS4e/wuqi
+  rotate: false
+  xy: 2, 15
+  size: 128, 103
+  orig: 128, 103
+  offset: 0, 0
+  index: -1
+guaiSSS4e/yan
+  rotate: false
+  xy: 439, 308
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+guaiSSS4e/yao
+  rotate: true
+  xy: 439, 325
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+guaiSSS4e/zui
+  rotate: true
+  xy: 480, 451
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1

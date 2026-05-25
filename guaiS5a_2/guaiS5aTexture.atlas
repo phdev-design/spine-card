@@ -1,0 +1,76 @@
+
+guaiS5aTexture_2.png
+size: 240,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS5a_2/jianjiaR
+  rotate: false
+  xy: 135, 39
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+guaiS5a_2/lunL
+  rotate: false
+  xy: 93, 4
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+guaiS5a_2/lunR
+  rotate: false
+  xy: 169, 88
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+guaiS5a_2/quantao
+  rotate: false
+  xy: 46, 5
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+guaiS5a_2/shenti
+  rotate: false
+  xy: 2, 50
+  size: 98, 76
+  orig: 98, 76
+  offset: 0, 0
+  index: -1
+guaiS5a_2/tanhuang
+  rotate: false
+  xy: 102, 67
+  size: 49, 17
+  orig: 49, 17
+  offset: 0, 0
+  index: -1
+guaiS5a_2/tou
+  rotate: false
+  xy: 102, 34
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+guaiS5a_2/yinying
+  rotate: false
+  xy: 102, 86
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+guaiS5a_2/zhijiaL
+  rotate: false
+  xy: 2, 2
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+guaiS5a_2/zhijiaR
+  rotate: false
+  xy: 208, 66
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1

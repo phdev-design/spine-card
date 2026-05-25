@@ -1,0 +1,132 @@
+
+guaiSSS5dsTexture.png
+size: 507,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS5ds/01
+  rotate: false
+  xy: 2, 22
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiSSS5ds/02
+  rotate: false
+  xy: 134, 154
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiSSS5ds/03
+  rotate: false
+  xy: 209, 154
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiSSS5ds/04
+  rotate: false
+  xy: 284, 154
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiSSS5ds/05
+  rotate: false
+  xy: 359, 154
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiSSS5ds/06
+  rotate: false
+  xy: 434, 154
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiSSS5ds/07
+  rotate: false
+  xy: 77, 22
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiSSS5ds/08
+  rotate: false
+  xy: 152, 52
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiSSS5ds/09
+  rotate: false
+  xy: 227, 52
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiSSS5ds/10
+  rotate: false
+  xy: 302, 52
+  size: 73, 100
+  orig: 73, 100
+  offset: 0, 0
+  index: -1
+guaiSSS5ds/bao
+  rotate: false
+  xy: 152, 22
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+guaiSSS5ds/bi1
+  rotate: false
+  xy: 213, 2
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+guaiSSS5ds/bi2
+  rotate: false
+  xy: 377, 59
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+guaiSSS5ds/shenti
+  rotate: false
+  xy: 377, 100
+  size: 55, 52
+  orig: 55, 52
+  offset: 0, 0
+  index: -1
+guaiSSS5ds/tou
+  rotate: false
+  xy: 2, 124
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+guaiSSS5ds/tui1
+  rotate: false
+  xy: 409, 44
+  size: 23, 54
+  orig: 23, 54
+  offset: 0, 0
+  index: -1
+guaiSSS5ds/tui2
+  rotate: false
+  xy: 434, 75
+  size: 23, 50
+  orig: 23, 50
+  offset: 0, 0
+  index: -1
+guaiSSS5ds/yan
+  rotate: false
+  xy: 434, 127
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1

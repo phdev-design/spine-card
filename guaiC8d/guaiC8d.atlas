@@ -1,0 +1,62 @@
+
+guaiC8d.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC8d/chibang1
+  rotate: false
+  xy: 331, 53
+  size: 84, 73
+  orig: 84, 73
+  offset: 0, 0
+  index: -1
+guaiC8d/chibang2
+  rotate: true
+  xy: 239, 55
+  size: 71, 90
+  orig: 71, 90
+  offset: 0, 0
+  index: -1
+guaiC8d/shenti
+  rotate: false
+  xy: 2, 34
+  size: 152, 92
+  orig: 152, 92
+  offset: 0, 0
+  index: -1
+guaiC8d/tou
+  rotate: false
+  xy: 156, 39
+  size: 81, 87
+  orig: 81, 87
+  offset: 0, 0
+  index: -1
+guaiC8d/tui1
+  rotate: false
+  xy: 417, 87
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+guaiC8d/tui2
+  rotate: false
+  xy: 462, 87
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+guaiC8d/zui1
+  rotate: false
+  xy: 2, 2
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+guaiC8d/zui2
+  rotate: false
+  xy: 39, 15
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1

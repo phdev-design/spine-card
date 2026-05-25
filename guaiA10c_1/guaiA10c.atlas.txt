@@ -1,0 +1,104 @@
+
+guaiA10c.png
+size: 418,153
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA10c/guaiA10c_body
+  rotate: true
+  xy: 2, 38
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1
+guaiA10c/guaiA10c_foot
+  rotate: false
+  xy: 367, 73
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+guaiA10c/guaiA10c_head
+  rotate: true
+  xy: 360, 14
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+guaiA10c/guaiA10c_legL1
+  rotate: true
+  xy: 2, 5
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+guaiA10c/guaiA10c_legL2
+  rotate: true
+  xy: 399, 74
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+guaiA10c/guaiA10c_legR
+  rotate: true
+  xy: 61, 6
+  size: 30, 51
+  orig: 30, 51
+  offset: 0, 0
+  index: -1
+guaiA10c/guaiA10c_mouth
+  rotate: false
+  xy: 367, 113
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+guaiA10c/guaiA10c_wing
+  rotate: true
+  xy: 112, 69
+  size: 82, 73
+  orig: 82, 73
+  offset: 0, 0
+  index: -1
+guaiA10c/guaiA10e01
+  rotate: true
+  xy: 114, 2
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+guaiA10c/guaiA10e02
+  rotate: false
+  xy: 187, 71
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+guaiA10c/guaiA10e03
+  rotate: true
+  xy: 196, 11
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+guaiA10c/guaiA10e04
+  rotate: false
+  xy: 247, 71
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+guaiA10c/guaiA10e05
+  rotate: true
+  xy: 278, 11
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1
+guaiA10c/guaiA10e06
+  rotate: false
+  xy: 307, 71
+  size: 58, 80
+  orig: 58, 80
+  offset: 0, 0
+  index: -1

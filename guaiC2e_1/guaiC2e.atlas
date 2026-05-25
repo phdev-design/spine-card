@@ -1,0 +1,69 @@
+
+guaiC2e.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC2e/cde_jian
+  rotate: false
+  xy: 2, 9
+  size: 74, 13
+  orig: 74, 13
+  offset: 0, 0
+  index: -1
+guaiC2e/guaiC2_tong
+  rotate: true
+  xy: 124, 76
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+guaiC2e/guaiC2_xian
+  rotate: true
+  xy: 2, 2
+  size: 5, 85
+  orig: 5, 85
+  offset: 0, 0
+  index: -1
+guaiC2e/guaiC2e_body
+  rotate: false
+  xy: 72, 60
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+guaiC2e/guaiC2e_head
+  rotate: true
+  xy: 188, 75
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+guaiC2e/guaiC2e_leg1
+  rotate: true
+  xy: 128, 46
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+guaiC2e/guaiC2e_leg2
+  rotate: true
+  xy: 128, 15
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+guaiC2e/guaiC2e_shou1
+  rotate: true
+  xy: 72, 27
+  size: 31, 54
+  orig: 31, 54
+  offset: 0, 0
+  index: -1
+guaiC2e/guaiC2e_shou2
+  rotate: false
+  xy: 2, 24
+  size: 68, 95
+  orig: 68, 95
+  offset: 0, 0
+  index: -1

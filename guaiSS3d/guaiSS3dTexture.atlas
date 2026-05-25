@@ -1,0 +1,286 @@
+
+guaiSS3dTexture.png
+size: 508,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSS3d/bi1
+  rotate: false
+  xy: 452, 180
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+guaiSS3d/bi2
+  rotate: false
+  xy: 214, 83
+  size: 61, 67
+  orig: 61, 67
+  offset: 0, 0
+  index: -1
+guaiSS3d/bian1
+  rotate: false
+  xy: 435, 83
+  size: 11, 39
+  orig: 11, 39
+  offset: 0, 0
+  index: -1
+guaiSS3d/bian2
+  rotate: false
+  xy: 448, 94
+  size: 19, 71
+  orig: 19, 71
+  offset: 0, 0
+  index: -1
+guaiSS3d/bian3
+  rotate: false
+  xy: 490, 108
+  size: 18, 70
+  orig: 18, 70
+  offset: 0, 0
+  index: -1
+guaiSS3d/bian4
+  rotate: false
+  xy: 378, 46
+  size: 11, 40
+  orig: 11, 40
+  offset: 0, 0
+  index: -1
+guaiSS3d/bian5
+  rotate: false
+  xy: 469, 107
+  size: 19, 71
+  orig: 19, 71
+  offset: 0, 0
+  index: -1
+guaiSS3d/bo
+  rotate: false
+  xy: 385, 100
+  size: 48, 22
+  orig: 48, 22
+  offset: 0, 0
+  index: -1
+guaiSS3d/chi2
+  rotate: false
+  xy: 2, 74
+  size: 144, 89
+  orig: 144, 89
+  offset: 0, 0
+  index: -1
+guaiSS3d/dai2
+  rotate: false
+  xy: 277, 89
+  size: 55, 67
+  orig: 55, 67
+  offset: 0, 0
+  index: -1
+guaiSS3d/deng1
+  rotate: false
+  xy: 349, 52
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+guaiSS3d/deng2
+  rotate: false
+  xy: 349, 16
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+guaiSS3d/dian
+  rotate: false
+  xy: 214, 49
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+guaiSS3d/er1
+  rotate: false
+  xy: 314, 6
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+guaiSS3d/er2
+  rotate: false
+  xy: 395, 19
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+guaiSS3d/fa
+  rotate: false
+  xy: 148, 62
+  size: 64, 88
+  orig: 64, 88
+  offset: 0, 0
+  index: -1
+guaiSS3d/ji1
+  rotate: false
+  xy: 378, 10
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+guaiSS3d/ji2
+  rotate: false
+  xy: 414, 63
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+guaiSS3d/lian
+  rotate: false
+  xy: 263, 6
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+guaiSS3d/mao
+  rotate: false
+  xy: 79, 22
+  size: 67, 50
+  orig: 67, 50
+  offset: 0, 0
+  index: -1
+guaiSS3d/mashen
+  rotate: false
+  xy: 378, 167
+  size: 72, 87
+  orig: 72, 87
+  offset: 0, 0
+  index: -1
+guaiSS3d/shangbi1
+  rotate: false
+  xy: 266, 50
+  size: 15, 31
+  orig: 15, 31
+  offset: 0, 0
+  index: -1
+guaiSS3d/shangbi2
+  rotate: false
+  xy: 469, 85
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+guaiSS3d/shenti
+  rotate: false
+  xy: 152, 152
+  size: 112, 102
+  orig: 112, 102
+  offset: 0, 0
+  index: -1
+guaiSS3d/shou
+  rotate: false
+  xy: 2, 2
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+guaiSS3d/shou1
+  rotate: false
+  xy: 391, 46
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+guaiSS3d/shou2
+  rotate: false
+  xy: 432, 56
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+guaiSS3d/tou
+  rotate: false
+  xy: 266, 158
+  size: 110, 96
+  orig: 110, 96
+  offset: 0, 0
+  index: -1
+guaiSS3d/tui1
+  rotate: false
+  xy: 213, 2
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+guaiSS3d/tui2
+  rotate: false
+  xy: 287, 33
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+guaiSS3d/tui3
+  rotate: false
+  xy: 238, 2
+  size: 23, 45
+  orig: 23, 45
+  offset: 0, 0
+  index: -1
+guaiSS3d/tui4
+  rotate: false
+  xy: 318, 32
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+guaiSS3d/wei1
+  rotate: false
+  xy: 148, 3
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+guaiSS3d/wei2
+  rotate: false
+  xy: 334, 105
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+guaiSS3d/wei3
+  rotate: false
+  xy: 385, 124
+  size: 61, 41
+  orig: 61, 41
+  offset: 0, 0
+  index: -1
+guaiSS3d/wuqi
+  rotate: false
+  xy: 2, 165
+  size: 148, 89
+  orig: 148, 89
+  offset: 0, 0
+  index: -1
+guaiSS3d/xiaobi1
+  rotate: false
+  xy: 391, 67
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+guaiSS3d/xiaobi2
+  rotate: false
+  xy: 287, 6
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+guaiSS3d/yan
+  rotate: false
+  xy: 334, 88
+  size: 45, 15
+  orig: 45, 15
+  offset: 0, 0
+  index: -1
+guaiSS3d/yaodai
+  rotate: false
+  xy: 79, 2
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1

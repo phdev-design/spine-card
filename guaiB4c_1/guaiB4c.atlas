@@ -1,0 +1,41 @@
+
+guaiB4c.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB4c/guaiB4c_armL
+  rotate: false
+  xy: 187, 51
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+guaiB4c/guaiB4c_armR
+  rotate: true
+  xy: 167, 5
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+guaiB4c/guaiB4c_face
+  rotate: false
+  xy: 2, 17
+  size: 106, 103
+  orig: 106, 103
+  offset: 0, 0
+  index: -1
+guaiB4c/guaiB4c_hat
+  rotate: false
+  xy: 110, 54
+  size: 75, 66
+  orig: 75, 66
+  offset: 0, 0
+  index: -1
+guaiB4c/guaiB4c_jian
+  rotate: false
+  xy: 110, 2
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1

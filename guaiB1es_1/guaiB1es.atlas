@@ -1,0 +1,76 @@
+
+guaiB1es.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB1es/01
+  rotate: false
+  xy: 684, 2
+  size: 141, 119
+  orig: 141, 119
+  offset: 0, 0
+  index: -1
+guaiB1es/02
+  rotate: false
+  xy: 817, 135
+  size: 141, 119
+  orig: 141, 119
+  offset: 0, 0
+  index: -1
+guaiB1es/03
+  rotate: false
+  xy: 118, 115
+  size: 141, 139
+  orig: 141, 139
+  offset: 0, 0
+  index: -1
+guaiB1es/04
+  rotate: false
+  xy: 404, 119
+  size: 139, 135
+  orig: 139, 135
+  offset: 0, 0
+  index: -1
+guaiB1es/05
+  rotate: false
+  xy: 545, 121
+  size: 137, 133
+  orig: 137, 133
+  offset: 0, 0
+  index: -1
+guaiB1es/06
+  rotate: false
+  xy: 684, 123
+  size: 131, 131
+  orig: 131, 131
+  offset: 0, 0
+  index: -1
+guaiB1es/07
+  rotate: false
+  xy: 261, 115
+  size: 141, 139
+  orig: 141, 139
+  offset: 0, 0
+  index: -1
+guaiB1es/guaiB1e_body
+  rotate: false
+  xy: 2, 74
+  size: 114, 180
+  orig: 114, 180
+  offset: 0, 0
+  index: -1
+guaiB1es/guaiB1e_cloak
+  rotate: false
+  xy: 2, 2
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+guaiB1es/guaiB1e_wing
+  rotate: false
+  xy: 827, 69
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1

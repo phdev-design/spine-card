@@ -1,0 +1,125 @@
+
+guaiC6esTexture_1.png
+size: 1021,250
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC6es_1/01
+  rotate: false
+  xy: 680, 148
+  size: 210, 102
+  orig: 210, 102
+  offset: 0, 0
+  index: -1
+guaiC6es_1/02
+  rotate: false
+  xy: 462, 148
+  size: 216, 102
+  orig: 216, 102
+  offset: 0, 0
+  index: -1
+guaiC6es_1/03
+  rotate: false
+  xy: 234, 18
+  size: 218, 112
+  orig: 218, 112
+  offset: 0, 0
+  index: -1
+guaiC6es_1/04
+  rotate: false
+  xy: 2, 132
+  size: 232, 118
+  orig: 232, 118
+  offset: 0, 0
+  index: -1
+guaiC6es_1/05
+  rotate: false
+  xy: 2, 16
+  size: 230, 114
+  orig: 230, 114
+  offset: 0, 0
+  index: -1
+guaiC6es_1/06
+  rotate: false
+  xy: 236, 132
+  size: 224, 118
+  orig: 224, 118
+  offset: 0, 0
+  index: -1
+guaiC6es_1/07
+  rotate: false
+  xy: 462, 44
+  size: 208, 102
+  orig: 208, 102
+  offset: 0, 0
+  index: -1
+guaiC6es_1/08
+  rotate: false
+  xy: 672, 44
+  size: 204, 102
+  orig: 204, 102
+  offset: 0, 0
+  index: -1
+guaiC6es_1/guaiC6e_body
+  rotate: false
+  xy: 892, 172
+  size: 118, 78
+  orig: 118, 78
+  offset: 0, 0
+  index: -1
+guaiC6es_1/guaiC6e_erduo1
+  rotate: false
+  xy: 923, 55
+  size: 37, 34
+  orig: 37, 34
+  offset: 0, 0
+  index: -1
+guaiC6es_1/guaiC6e_erduo2
+  rotate: false
+  xy: 988, 144
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+guaiC6es_1/guaiC6e_hua
+  rotate: false
+  xy: 892, 91
+  size: 94, 79
+  orig: 94, 79
+  offset: 0, 0
+  index: -1
+guaiC6es_1/guaiC6e_leg1
+  rotate: false
+  xy: 2, 2
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+guaiC6es_1/guaiC6e_leg2
+  rotate: false
+  xy: 1012, 238
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+guaiC6es_1/guaiC6e_leg3
+  rotate: false
+  xy: 988, 123
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+guaiC6es_1/guaiC6e_leg4
+  rotate: false
+  xy: 962, 69
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+guaiC6es_1/guaiC6e_weiba
+  rotate: false
+  xy: 878, 55
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+guaiD2e.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD2e/guaiD2e_body
+  rotate: false
+  xy: 128, 30
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+guaiD2e/guaiD2e_hand1
+  rotate: true
+  xy: 128, 2
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+guaiD2e/guaiD2e_hand2
+  rotate: false
+  xy: 193, 30
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+guaiD2e/guaiD2e_head
+  rotate: false
+  xy: 2, 2
+  size: 124, 104
+  orig: 124, 104
+  offset: 0, 0
+  index: -1
+guaiD2e/guaiD2e_leg
+  rotate: true
+  xy: 361, 71
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+guaiD2e/guaiD2e_nack
+  rotate: false
+  xy: 276, 75
+  size: 83, 31
+  orig: 83, 31
+  offset: 0, 0
+  index: -1
+guaiD2e/guaiD2e_tail
+  rotate: false
+  xy: 193, 59
+  size: 81, 47
+  orig: 81, 47
+  offset: 0, 0
+  index: -1

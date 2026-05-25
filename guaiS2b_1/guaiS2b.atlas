@@ -1,0 +1,69 @@
+
+guaiS2b.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS2b/guaiS2b_body
+  rotate: false
+  xy: 134, 146
+  size: 109, 99
+  orig: 109, 99
+  offset: 0, 0
+  index: -1
+guaiS2b/guaiS2b_hair
+  rotate: false
+  xy: 245, 182
+  size: 70, 63
+  orig: 70, 63
+  offset: 0, 0
+  index: -1
+guaiS2b/guaiS2b_handL
+  rotate: false
+  xy: 76, 15
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+guaiS2b/guaiS2b_handR
+  rotate: false
+  xy: 317, 207
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+guaiS2b/guaiS2b_head
+  rotate: false
+  xy: 134, 68
+  size: 98, 76
+  orig: 98, 76
+  offset: 0, 0
+  index: -1
+guaiS2b/guaiS2b_mouth1
+  rotate: false
+  xy: 358, 208
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+guaiS2b/guaiS2b_mouth2
+  rotate: false
+  xy: 245, 155
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+guaiS2b/guaiS2b_shoulder
+  rotate: true
+  xy: 2, 2
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+guaiS2b/guaiS2b_weapon
+  rotate: false
+  xy: 2, 66
+  size: 130, 179
+  orig: 130, 179
+  offset: 0, 0
+  index: -1

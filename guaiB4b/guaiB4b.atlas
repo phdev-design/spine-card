@@ -1,0 +1,76 @@
+
+guaiB4b.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB4b/YX19
+  rotate: false
+  xy: 2, 111
+  size: 175, 142
+  orig: 175, 142
+  offset: 0, 0
+  index: -1
+guaiB4b/guai4B0
+  rotate: false
+  xy: 149, 84
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+guaiB4b/guai4B1
+  rotate: false
+  xy: 179, 223
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+guaiB4b/guai4B2
+  rotate: false
+  xy: 179, 196
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+guaiB4b/guai4B3
+  rotate: false
+  xy: 209, 228
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+guaiB4b/guai4B4
+  rotate: false
+  xy: 2, 2
+  size: 145, 107
+  orig: 145, 107
+  offset: 0, 0
+  index: -1
+guaiB4b/guai4B5
+  rotate: true
+  xy: 236, 238
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+guaiB4b/guai4B6
+  rotate: false
+  xy: 149, 63
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+guaiB4b/guai4B7
+  rotate: false
+  xy: 179, 175
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+guaiB4b/guai4B8
+  rotate: true
+  xy: 236, 222
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1

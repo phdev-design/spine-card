@@ -1,0 +1,62 @@
+
+guaiS5a.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS5a/chui
+  rotate: false
+  xy: 82, 85
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+guaiS5a/datui1
+  rotate: true
+  xy: 82, 52
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+guaiS5a/datui2
+  rotate: false
+  xy: 47, 20
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+guaiS5a/gun
+  rotate: true
+  xy: 117, 42
+  size: 41, 9
+  orig: 41, 9
+  offset: 0, 0
+  index: -1
+guaiS5a/sehnti
+  rotate: false
+  xy: 2, 55
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+guaiS5a/tou
+  rotate: false
+  xy: 2, 7
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+guaiS5a/xiaotui1
+  rotate: false
+  xy: 81, 27
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+guaiS5a/xiaotui2
+  rotate: false
+  xy: 81, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1

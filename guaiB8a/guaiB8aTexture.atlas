@@ -1,0 +1,62 @@
+
+guaiB8aTexture.png
+size: 238,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB8a/jin
+  rotate: false
+  xy: 124, 6
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+guaiB8a/qugan
+  rotate: false
+  xy: 124, 22
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+guaiB8a/tou
+  rotate: false
+  xy: 2, 5
+  size: 75, 57
+  orig: 75, 57
+  offset: 0, 0
+  index: -1
+guaiB8a/wuqi
+  rotate: false
+  xy: 79, 15
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+guaiB8a/youjiao
+  rotate: false
+  xy: 189, 29
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+guaiB8a/youshou01
+  rotate: false
+  xy: 164, 27
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+guaiB8a/zuojiao
+  rotate: false
+  xy: 215, 35
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+guaiB8a/zuoshou02
+  rotate: false
+  xy: 189, 2
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1

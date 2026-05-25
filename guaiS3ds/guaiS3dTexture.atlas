@@ -1,0 +1,312 @@
+
+guaiS3dTexture.png
+size: 1004,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS3ds/01
+  rotate: false
+  xy: 2, 155
+  size: 223, 141
+  orig: 223, 141
+  offset: 0, 0
+  index: -1
+guaiS3ds/02
+  rotate: false
+  xy: 734, 871
+  size: 223, 141
+  orig: 223, 141
+  offset: 0, 0
+  index: -1
+guaiS3ds/03
+  rotate: false
+  xy: 2, 12
+  size: 223, 141
+  orig: 223, 141
+  offset: 0, 0
+  index: -1
+guaiS3ds/04
+  rotate: false
+  xy: 227, 155
+  size: 223, 141
+  orig: 223, 141
+  offset: 0, 0
+  index: -1
+guaiS3ds/05
+  rotate: false
+  xy: 734, 728
+  size: 223, 141
+  orig: 223, 141
+  offset: 0, 0
+  index: -1
+guaiS3ds/06
+  rotate: false
+  xy: 227, 12
+  size: 223, 141
+  orig: 223, 141
+  offset: 0, 0
+  index: -1
+guaiS3ds/07
+  rotate: false
+  xy: 452, 155
+  size: 223, 141
+  orig: 223, 141
+  offset: 0, 0
+  index: -1
+guaiS3ds/08
+  rotate: false
+  xy: 734, 585
+  size: 223, 141
+  orig: 223, 141
+  offset: 0, 0
+  index: -1
+guaiS3ds/13
+  rotate: false
+  xy: 2, 656
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/14
+  rotate: false
+  xy: 2, 298
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/15
+  rotate: false
+  xy: 368, 656
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/16
+  rotate: false
+  xy: 368, 298
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/chibang
+  rotate: false
+  xy: 734, 270
+  size: 174, 151
+  orig: 174, 151
+  offset: 0, 0
+  index: -1
+guaiS3ds/chibang2
+  rotate: false
+  xy: 734, 423
+  size: 173, 160
+  orig: 173, 160
+  offset: 0, 0
+  index: -1
+guaiS3ds/guaiS3d_body
+  rotate: false
+  xy: 677, 181
+  size: 217, 87
+  orig: 217, 87
+  offset: 0, 0
+  index: -1
+guaiS3ds/guaiS3d_eye
+  rotate: false
+  xy: 2, 2
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+guaiS3ds/guaiS3d_head
+  rotate: false
+  xy: 910, 321
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+guaiS3ds/guaiS3d_legL
+  rotate: false
+  xy: 959, 935
+  size: 44, 77
+  orig: 44, 77
+  offset: 0, 0
+  index: -1
+guaiS3ds/guaiS3d_legR
+  rotate: false
+  xy: 959, 867
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+guaiS3ds/guaiS3d_mouth
+  rotate: false
+  xy: 677, 272
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+guaiS3ds/guaiS3d_wing
+  rotate: false
+  xy: 677, 75
+  size: 173, 104
+  orig: 173, 104
+  offset: 0, 0
+  index: -1
+guaiS3ds/she
+  rotate: false
+  xy: 452, 12
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+guaiS3ds/shenti
+  rotate: false
+  xy: 452, 37
+  size: 218, 116
+  orig: 218, 116
+  offset: 0, 0
+  index: -1
+guaiS3ds/tou
+  rotate: false
+  xy: 909, 473
+  size: 81, 110
+  orig: 81, 110
+  offset: 0, 0
+  index: -1
+guaiS3ds/tui1
+  rotate: false
+  xy: 959, 812
+  size: 32, 53
+  orig: 32, 53
+  offset: 0, 0
+  index: -1
+guaiS3ds/tui2
+  rotate: false
+  xy: 959, 685
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+guaiS3ds/tui3
+  rotate: false
+  xy: 910, 270
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+guaiS3ds/tui4
+  rotate: false
+  xy: 852, 78
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+guaiS3ds/tui5
+  rotate: false
+  xy: 852, 126
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+guaiS3ds/tui6
+  rotate: false
+  xy: 959, 725
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+guaiS3ds/tui7
+  rotate: false
+  xy: 896, 219
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+guaiS3ds/tui8
+  rotate: false
+  xy: 959, 765
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+guaiS3ds/xiaba1
+  rotate: false
+  xy: 910, 368
+  size: 66, 54
+  orig: 66, 54
+  offset: 0, 0
+  index: -1
+guaiS3ds/xiaba2
+  rotate: false
+  xy: 909, 424
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+
+guaiS3dTexture2.png
+size: 732,716
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS3ds/17
+  rotate: false
+  xy: 2, 360
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/18
+  rotate: false
+  xy: 2, 2
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/19
+  rotate: false
+  xy: 368, 360
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/20
+  rotate: false
+  xy: 368, 2
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+
+guaiS3dTexture3.png
+size: 732,716
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS3ds/21
+  rotate: false
+  xy: 2, 360
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/22
+  rotate: false
+  xy: 2, 2
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/23
+  rotate: false
+  xy: 368, 360
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/24
+  rotate: false
+  xy: 368, 2
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1

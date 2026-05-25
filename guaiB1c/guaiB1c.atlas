@@ -1,0 +1,34 @@
+
+guaiB1c.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB1c/guai1B10
+  rotate: false
+  xy: 80, 39
+  size: 70, 84
+  orig: 70, 84
+  offset: 0, 0
+  index: -1
+guaiB1c/guai1B11
+  rotate: true
+  xy: 152, 18
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+guaiB1c/guai1B8
+  rotate: true
+  xy: 2, 2
+  size: 121, 76
+  orig: 121, 76
+  offset: 0, 0
+  index: -1
+guaiB1c/guai1B9
+  rotate: true
+  xy: 152, 74
+  size: 49, 75
+  orig: 49, 75
+  offset: 0, 0
+  index: -1

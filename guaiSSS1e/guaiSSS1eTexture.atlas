@@ -1,0 +1,55 @@
+
+guaiSSS1eTexture.png
+size: 385,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS1e/di
+  rotate: false
+  xy: 2, 2
+  size: 122, 92
+  orig: 122, 92
+  offset: 0, 0
+  index: -1
+guaiSSS1e/pao1
+  rotate: false
+  xy: 273, 157
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+guaiSSS1e/pao2
+  rotate: false
+  xy: 131, 90
+  size: 70, 57
+  orig: 70, 57
+  offset: 0, 0
+  index: -1
+guaiSSS1e/shenti
+  rotate: false
+  xy: 2, 96
+  size: 127, 155
+  orig: 127, 155
+  offset: 0, 0
+  index: -1
+guaiSSS1e/yi1
+  rotate: false
+  xy: 131, 149
+  size: 88, 102
+  orig: 88, 102
+  offset: 0, 0
+  index: -1
+guaiSSS1e/yi2
+  rotate: false
+  xy: 221, 154
+  size: 50, 97
+  orig: 50, 97
+  offset: 0, 0
+  index: -1
+guaiSSS1e/zuo
+  rotate: false
+  xy: 273, 216
+  size: 112, 35
+  orig: 112, 35
+  offset: 0, 0
+  index: -1

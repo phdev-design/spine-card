@@ -1,0 +1,139 @@
+
+guaiA14esTexture.png
+size: 991,1021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA14es/01
+  rotate: false
+  xy: 2, 838
+  size: 585, 183
+  orig: 585, 183
+  offset: 0, 0
+  index: -1
+guaiA14es/02
+  rotate: false
+  xy: 2, 653
+  size: 585, 183
+  orig: 585, 183
+  offset: 0, 0
+  index: -1
+guaiA14es/03
+  rotate: false
+  xy: 2, 468
+  size: 585, 183
+  orig: 585, 183
+  offset: 0, 0
+  index: -1
+guaiA14es/04
+  rotate: false
+  xy: 2, 283
+  size: 585, 183
+  orig: 585, 183
+  offset: 0, 0
+  index: -1
+guaiA14es/05
+  rotate: false
+  xy: 2, 98
+  size: 585, 183
+  orig: 585, 183
+  offset: 0, 0
+  index: -1
+guaiA14es/06
+  rotate: false
+  xy: 589, 821
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiA14es/07
+  rotate: false
+  xy: 589, 619
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiA14es/08
+  rotate: false
+  xy: 791, 821
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiA14es/09
+  rotate: false
+  xy: 589, 417
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiA14es/10
+  rotate: false
+  xy: 791, 619
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiA14es/11
+  rotate: false
+  xy: 589, 215
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiA14es/shenti
+  rotate: false
+  xy: 791, 301
+  size: 148, 162
+  orig: 148, 162
+  offset: 0, 0
+  index: -1
+guaiA14es/shou1
+  rotate: false
+  xy: 687, 25
+  size: 95, 188
+  orig: 95, 188
+  offset: 0, 0
+  index: -1
+guaiA14es/shou2
+  rotate: false
+  xy: 589, 61
+  size: 96, 152
+  orig: 96, 152
+  offset: 0, 0
+  index: -1
+guaiA14es/tou
+  rotate: false
+  xy: 791, 465
+  size: 170, 152
+  orig: 170, 152
+  offset: 0, 0
+  index: -1
+guaiA14es/tui1
+  rotate: false
+  xy: 2, 2
+  size: 67, 94
+  orig: 67, 94
+  offset: 0, 0
+  index: -1
+guaiA14es/tui2
+  rotate: false
+  xy: 71, 17
+  size: 56, 79
+  orig: 56, 79
+  offset: 0, 0
+  index: -1
+guaiA14es/xiaba
+  rotate: false
+  xy: 791, 249
+  size: 110, 50
+  orig: 110, 50
+  offset: 0, 0
+  index: -1
+guaiA14es/zui
+  rotate: false
+  xy: 129, 59
+  size: 82, 37
+  orig: 82, 37
+  offset: 0, 0
+  index: -1

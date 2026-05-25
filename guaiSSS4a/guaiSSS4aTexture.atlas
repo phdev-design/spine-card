@@ -1,0 +1,146 @@
+
+guaiSSS4aTexture.png
+size: 510,503
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS4a/01
+  rotate: false
+  xy: 2, 113
+  size: 372, 390
+  orig: 372, 390
+  offset: 0, 0
+  index: -1
+guaiSSS4a/chong
+  rotate: false
+  xy: 78, 54
+  size: 51, 57
+  orig: 51, 57
+  offset: 0, 0
+  index: -1
+guaiSSS4a/fa1
+  rotate: false
+  xy: 376, 407
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+guaiSSS4a/gua
+  rotate: false
+  xy: 462, 462
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+guaiSSS4a/ling
+  rotate: false
+  xy: 78, 41
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+guaiSSS4a/nanguazui
+  rotate: false
+  xy: 217, 92
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+guaiSSS4a/nanyan1
+  rotate: false
+  xy: 404, 359
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+guaiSSS4a/nanyan2
+  rotate: false
+  xy: 421, 413
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+guaiSSS4a/pifeng1
+  rotate: false
+  xy: 131, 80
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+guaiSSS4a/pifeng2
+  rotate: false
+  xy: 2, 2
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+guaiSSS4a/sehnti
+  rotate: false
+  xy: 421, 426
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+guaiSSS4a/shou1
+  rotate: false
+  xy: 187, 81
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+guaiSSS4a/shou2
+  rotate: false
+  xy: 376, 334
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+guaiSSS4a/tang
+  rotate: false
+  xy: 376, 369
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+guaiSSS4a/teng
+  rotate: false
+  xy: 376, 465
+  size: 84, 38
+  orig: 84, 38
+  offset: 0, 0
+  index: -1
+guaiSSS4a/tou
+  rotate: false
+  xy: 2, 45
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+guaiSSS4a/tui1
+  rotate: false
+  xy: 376, 301
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+guaiSSS4a/tui2
+  rotate: false
+  xy: 58, 14
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+guaiSSS4a/yan1
+  rotate: false
+  xy: 453, 454
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+guaiSSS4a/yan2
+  rotate: false
+  xy: 131, 63
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1

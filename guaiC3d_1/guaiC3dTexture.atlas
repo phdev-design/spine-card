@@ -1,0 +1,69 @@
+
+guaiC3dTexture_1.png
+size: 126,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC3d_1/guaiC3d_armL
+  rotate: false
+  xy: 89, 39
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+guaiC3d_1/guaiC3d_armR
+  rotate: false
+  xy: 49, 2
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+guaiC3d_1/guaiC3d_body
+  rotate: false
+  xy: 25, 17
+  size: 22, 49
+  orig: 22, 49
+  offset: 0, 0
+  index: -1
+guaiC3d_1/guaiC3d_head
+  rotate: false
+  xy: 2, 68
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+guaiC3d_1/guaiC3d_legL
+  rotate: false
+  xy: 89, 71
+  size: 20, 52
+  orig: 20, 52
+  offset: 0, 0
+  index: -1
+guaiC3d_1/guaiC3d_legR
+  rotate: false
+  xy: 2, 11
+  size: 21, 55
+  orig: 21, 55
+  offset: 0, 0
+  index: -1
+guaiC3d_1/guaiC3d_qunbian1
+  rotate: false
+  xy: 82, 9
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+guaiC3d_1/guaiC3d_qunbian2
+  rotate: false
+  xy: 111, 97
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+guaiC3d_1/guaiC3d_weapon
+  rotate: false
+  xy: 65, 39
+  size: 22, 84
+  orig: 22, 84
+  offset: 0, 0
+  index: -1

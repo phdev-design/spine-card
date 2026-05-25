@@ -1,0 +1,48 @@
+
+guaiS3a.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS3a/guaiS3a_body
+  rotate: false
+  xy: 2, 36
+  size: 103, 85
+  orig: 103, 85
+  offset: 0, 0
+  index: -1
+guaiS3a/guaiS3a_head
+  rotate: false
+  xy: 107, 4
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+guaiS3a/guaiS3a_legL
+  rotate: true
+  xy: 2, 2
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+guaiS3a/guaiS3a_legR
+  rotate: false
+  xy: 188, 64
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+guaiS3a/guaiS3a_mouth
+  rotate: false
+  xy: 188, 53
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+guaiS3a/guaiS3a_wing
+  rotate: false
+  xy: 107, 45
+  size: 79, 76
+  orig: 79, 76
+  offset: 0, 0
+  index: -1

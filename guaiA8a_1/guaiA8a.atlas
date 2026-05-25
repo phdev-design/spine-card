@@ -1,0 +1,76 @@
+
+guaiA8a.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA8a/guaiA8a_armL
+  rotate: false
+  xy: 216, 78
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+guaiA8a/guaiA8a_armR
+  rotate: false
+  xy: 335, 84
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+guaiA8a/guaiA8a_body
+  rotate: false
+  xy: 2, 2
+  size: 146, 121
+  orig: 146, 121
+  offset: 0, 0
+  index: -1
+guaiA8a/guaiA8a_footL
+  rotate: true
+  xy: 476, 92
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+guaiA8a/guaiA8a_footR
+  rotate: false
+  xy: 216, 48
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+guaiA8a/guaiA8a_handL
+  rotate: false
+  xy: 150, 69
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+guaiA8a/guaiA8a_handR
+  rotate: false
+  xy: 279, 79
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+guaiA8a/guaiA8a_head
+  rotate: false
+  xy: 150, 13
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+guaiA8a/guaiA8a_legL
+  rotate: false
+  xy: 391, 93
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+guaiA8a/guaiA8a_legR
+  rotate: false
+  xy: 438, 95
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1

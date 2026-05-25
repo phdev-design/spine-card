@@ -1,0 +1,160 @@
+
+guaiC4es.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC4es/01
+  rotate: false
+  xy: 2, 838
+  size: 585, 183
+  orig: 585, 183
+  offset: 0, 0
+  index: -1
+guaiC4es/02
+  rotate: false
+  xy: 2, 653
+  size: 585, 183
+  orig: 585, 183
+  offset: 0, 0
+  index: -1
+guaiC4es/03
+  rotate: false
+  xy: 2, 468
+  size: 585, 183
+  orig: 585, 183
+  offset: 0, 0
+  index: -1
+guaiC4es/04
+  rotate: false
+  xy: 2, 283
+  size: 585, 183
+  orig: 585, 183
+  offset: 0, 0
+  index: -1
+guaiC4es/05
+  rotate: true
+  xy: 589, 436
+  size: 585, 183
+  orig: 585, 183
+  offset: 0, 0
+  index: -1
+guaiC4es/06
+  rotate: false
+  xy: 2, 81
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiC4es/07
+  rotate: false
+  xy: 774, 821
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiC4es/08
+  rotate: false
+  xy: 204, 81
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiC4es/09
+  rotate: false
+  xy: 774, 619
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiC4es/10
+  rotate: false
+  xy: 406, 81
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiC4es/11
+  rotate: false
+  xy: 774, 417
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiC4es/12
+  rotate: false
+  xy: 608, 215
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiC4es/13
+  rotate: false
+  xy: 810, 215
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiC4es/14
+  rotate: false
+  xy: 608, 13
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiC4es/guaiC4_arm1
+  rotate: false
+  xy: 810, 174
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: -1
+guaiC4es/guaiC4_arm2
+  rotate: false
+  xy: 976, 971
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+guaiC4es/guaiC4_body
+  rotate: true
+  xy: 2, 2
+  size: 77, 106
+  orig: 77, 106
+  offset: 0, 0
+  index: -1
+guaiC4es/guaiC4_ear
+  rotate: false
+  xy: 976, 949
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+guaiC4es/guaiC4_foot
+  rotate: false
+  xy: 110, 28
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+guaiC4es/guaiC4_light
+  rotate: false
+  xy: 589, 420
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+guaiC4es/guaiC4_spring1
+  rotate: false
+  xy: 110, 55
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+guaiC4es/guaiC4_spring2
+  rotate: true
+  xy: 1016, 1010
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1

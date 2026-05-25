@@ -1,0 +1,90 @@
+
+guaiA8bTexture.png
+size: 437,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA8b/YX19
+  rotate: false
+  xy: 2, 112
+  size: 175, 142
+  orig: 175, 142
+  offset: 0, 0
+  index: -1
+guaiA8b/shayu12
+  rotate: false
+  xy: 84, 72
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+guaiA8b/shayu13
+  rotate: false
+  xy: 2, 66
+  size: 80, 44
+  orig: 80, 44
+  offset: 0, 0
+  index: -1
+guaiA8b/shayu14
+  rotate: false
+  xy: 2, 12
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+guaiA8b/shayu15
+  rotate: false
+  xy: 179, 103
+  size: 156, 151
+  orig: 156, 151
+  offset: 0, 0
+  index: -1
+guaiA8b/shayu16
+  rotate: false
+  xy: 337, 121
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+guaiA8b/shayu17
+  rotate: false
+  xy: 44, 34
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+guaiA8b/shayu18
+  rotate: false
+  xy: 125, 85
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+guaiA8b/shayu19
+  rotate: false
+  xy: 44, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+guaiA8b/shayu20
+  rotate: false
+  xy: 337, 202
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+guaiA8b/shayu21
+  rotate: false
+  xy: 403, 212
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+guaiA8b/shayu22
+  rotate: false
+  xy: 337, 151
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1

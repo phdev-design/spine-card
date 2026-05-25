@@ -1,0 +1,132 @@
+
+guaiB4dsTexture_1.png
+size: 1022,993
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB4ds_1/01
+  rotate: false
+  xy: 706, 697
+  size: 170, 94
+  orig: 170, 94
+  offset: 0, 0
+  index: -1
+guaiB4ds_1/02
+  rotate: false
+  xy: 2, 2
+  size: 251, 146
+  orig: 251, 146
+  offset: 0, 0
+  index: -1
+guaiB4ds_1/03
+  rotate: false
+  xy: 410, 758
+  size: 294, 235
+  orig: 294, 235
+  offset: 0, 0
+  index: -1
+guaiB4ds_1/04
+  rotate: false
+  xy: 2, 352
+  size: 371, 305
+  orig: 371, 305
+  offset: 0, 0
+  index: -1
+guaiB4ds_1/05
+  rotate: false
+  xy: 2, 659
+  size: 406, 334
+  orig: 406, 334
+  offset: 0, 0
+  index: -1
+guaiB4ds_1/10
+  rotate: false
+  xy: 410, 644
+  size: 199, 112
+  orig: 199, 112
+  offset: 0, 0
+  index: -1
+guaiB4ds_1/11
+  rotate: false
+  xy: 375, 530
+  size: 199, 112
+  orig: 199, 112
+  offset: 0, 0
+  index: -1
+guaiB4ds_1/12
+  rotate: false
+  xy: 375, 416
+  size: 199, 112
+  orig: 199, 112
+  offset: 0, 0
+  index: -1
+guaiB4ds_1/13
+  rotate: false
+  xy: 255, 36
+  size: 199, 112
+  orig: 199, 112
+  offset: 0, 0
+  index: -1
+guaiB4ds_1/14
+  rotate: false
+  xy: 2, 150
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiB4ds_1/15
+  rotate: false
+  xy: 706, 793
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiB4ds_1/16
+  rotate: false
+  xy: 204, 150
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+guaiB4ds_1/guaiB4d_armL
+  rotate: false
+  xy: 576, 597
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+guaiB4ds_1/guaiB4d_armR
+  rotate: false
+  xy: 878, 753
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+guaiB4ds_1/guaiB4d_face
+  rotate: false
+  xy: 908, 874
+  size: 102, 119
+  orig: 102, 119
+  offset: 0, 0
+  index: -1
+guaiB4ds_1/guaiB4d_hat
+  rotate: false
+  xy: 908, 796
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+guaiB4ds_1/guaiB4d_jianL
+  rotate: false
+  xy: 375, 368
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+guaiB4ds_1/guaiB4d_jianR
+  rotate: false
+  xy: 990, 841
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+guaiA11dsTexture_2.png
+size: 1022,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA11ds_2/1
+  rotate: false
+  xy: 2, 3
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/2
+  rotate: false
+  xy: 242, 2
+  size: 106, 111
+  orig: 106, 111
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/3
+  rotate: false
+  xy: 122, 2
+  size: 118, 114
+  orig: 118, 114
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/4
+  rotate: false
+  xy: 246, 122
+  size: 124, 132
+  orig: 124, 132
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/5
+  rotate: false
+  xy: 372, 118
+  size: 106, 136
+  orig: 106, 136
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/6
+  rotate: false
+  xy: 2, 114
+  size: 118, 140
+  orig: 118, 140
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/7
+  rotate: false
+  xy: 581, 150
+  size: 125, 104
+  orig: 125, 104
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/body
+  rotate: false
+  xy: 708, 172
+  size: 104, 82
+  orig: 104, 82
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/hongqiu
+  rotate: false
+  xy: 671, 130
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/huangqiu
+  rotate: false
+  xy: 639, 128
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/hudiej
+  rotate: false
+  xy: 708, 153
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/jiangbingr
+  rotate: false
+  xy: 975, 196
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/lanqiu
+  rotate: false
+  xy: 728, 155
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/left arm
+  rotate: false
+  xy: 581, 120
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/left arm 2
+  rotate: false
+  xy: 122, 118
+  size: 122, 136
+  orig: 122, 136
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/left leg
+  rotate: false
+  xy: 897, 110
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/lingdang
+  rotate: false
+  xy: 620, 127
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/lvqiu
+  rotate: false
+  xy: 655, 129
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/right arm
+  rotate: false
+  xy: 933, 160
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/right arm2
+  rotate: false
+  xy: 814, 107
+  size: 81, 147
+  orig: 81, 147
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/right leg
+  rotate: false
+  xy: 897, 146
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/tou
+  rotate: false
+  xy: 480, 115
+  size: 99, 139
+  orig: 99, 139
+  offset: 0, 0
+  index: -1
+guaiA11ds_2/xiaba
+  rotate: false
+  xy: 897, 190
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1

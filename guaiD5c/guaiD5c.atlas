@@ -1,0 +1,76 @@
+
+guaiD5c.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD5c/shenti
+  rotate: false
+  xy: 139, 49
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+guaiD5c/tou
+  rotate: true
+  xy: 224, 49
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+guaiD5c/youer
+  rotate: true
+  xy: 139, 2
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+guaiD5c/youshou1
+  rotate: false
+  xy: 309, 82
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+guaiD5c/zuoer
+  rotate: false
+  xy: 139, 20
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+guaiD5c/zuoshou02
+  rotate: true
+  xy: 2, 15
+  size: 111, 135
+  orig: 111, 135
+  offset: 0, 0
+  index: -1
+guaiD5c/zuotui2
+  rotate: false
+  xy: 163, 30
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+guaiD5c/zuotui3
+  rotate: false
+  xy: 348, 82
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+guaiD5c/zutui1
+  rotate: false
+  xy: 309, 55
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+guaiD5c/zutui2
+  rotate: false
+  xy: 348, 101
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1

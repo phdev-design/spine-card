@@ -1,0 +1,55 @@
+
+guaiB8aTexture_1.png
+size: 121,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB8a_1/guaib8a_body
+  rotate: false
+  xy: 2, 2
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+guaiB8a_1/guaib8a_head
+  rotate: false
+  xy: 2, 43
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+guaiB8a_1/guaib8a_leg1
+  rotate: false
+  xy: 75, 6
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+guaiB8a_1/guaib8a_leg2
+  rotate: false
+  xy: 84, 38
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+guaiB8a_1/guaib8a_shou1
+  rotate: false
+  xy: 84, 67
+  size: 27, 53
+  orig: 27, 53
+  offset: 0, 0
+  index: -1
+guaiB8a_1/guaib8a_shou2
+  rotate: false
+  xy: 98, 8
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+guaiB8a_1/guaib8a_wuqi
+  rotate: false
+  xy: 43, 4
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+guaiB1eTexture_1.png
+size: 200,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB1e_1/guaiB1e_body
+  rotate: false
+  xy: 2, 74
+  size: 114, 180
+  orig: 114, 180
+  offset: 0, 0
+  index: -1
+guaiB1e_1/guaiB1e_cloak
+  rotate: false
+  xy: 2, 2
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+guaiB1e_1/guaiB1e_wing
+  rotate: false
+  xy: 118, 190
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1

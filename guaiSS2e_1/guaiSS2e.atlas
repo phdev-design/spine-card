@@ -1,0 +1,132 @@
+
+guaiSS2e.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSS2e/dao
+  rotate: false
+  xy: 2, 118
+  size: 150, 193
+  orig: 150, 193
+  offset: 0, 0
+  index: -1
+guaiSS2e/dao2
+  rotate: false
+  xy: 669, 410
+  size: 157, 100
+  orig: 157, 100
+  offset: 0, 0
+  index: -1
+guaiSS2e/datui1
+  rotate: true
+  xy: 669, 361
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+guaiSS2e/datui2
+  rotate: true
+  xy: 739, 367
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+guaiSS2e/jian1
+  rotate: false
+  xy: 154, 148
+  size: 151, 163
+  orig: 151, 163
+  offset: 0, 0
+  index: -1
+guaiSS2e/jiao1
+  rotate: false
+  xy: 94, 2
+  size: 77, 22
+  orig: 77, 22
+  offset: 0, 0
+  index: -1
+guaiSS2e/jiao2
+  rotate: true
+  xy: 307, 241
+  size: 70, 21
+  orig: 70, 21
+  offset: 0, 0
+  index: -1
+guaiSS2e/lian
+  rotate: false
+  xy: 307, 189
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+guaiSS2e/shangbi2
+  rotate: false
+  xy: 2, 2
+  size: 90, 114
+  orig: 90, 114
+  offset: 0, 0
+  index: -1
+guaiSS2e/shenti
+  rotate: false
+  xy: 343, 354
+  size: 169, 156
+  orig: 169, 156
+  offset: 0, 0
+  index: -1
+guaiSS2e/tou
+  rotate: false
+  xy: 514, 371
+  size: 153, 139
+  orig: 153, 139
+  offset: 0, 0
+  index: -1
+guaiSS2e/wuqi
+  rotate: false
+  xy: 2, 313
+  size: 339, 197
+  orig: 339, 197
+  offset: 0, 0
+  index: -1
+guaiSS2e/xiaba
+  rotate: true
+  xy: 950, 398
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+guaiSS2e/xiaobi1
+  rotate: false
+  xy: 828, 395
+  size: 120, 115
+  orig: 120, 115
+  offset: 0, 0
+  index: -1
+guaiSS2e/xiaobi2
+  rotate: false
+  xy: 94, 26
+  size: 89, 90
+  orig: 89, 90
+  offset: 0, 0
+  index: -1
+guaiSS2e/xiaotui1
+  rotate: true
+  xy: 431, 309
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+guaiSS2e/xiaotui2
+  rotate: false
+  xy: 307, 139
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+guaiSS2e/yaodai
+  rotate: false
+  xy: 343, 315
+  size: 86, 37
+  orig: 86, 37
+  offset: 0, 0
+  index: -1

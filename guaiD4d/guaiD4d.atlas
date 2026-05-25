@@ -1,0 +1,83 @@
+
+guaiD4d.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD4d/guan
+  rotate: false
+  xy: 226, 29
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+guaiD4d/hu1
+  rotate: false
+  xy: 361, 36
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+guaiD4d/hu2
+  rotate: false
+  xy: 2, 2
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+guaiD4d/jiao1
+  rotate: false
+  xy: 276, 35
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+guaiD4d/jiao2
+  rotate: true
+  xy: 320, 34
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+guaiD4d/pifeng01
+  rotate: true
+  xy: 226, 69
+  size: 57, 100
+  orig: 57, 100
+  offset: 0, 0
+  index: -1
+guaiD4d/pifeng02
+  rotate: true
+  xy: 328, 68
+  size: 58, 96
+  orig: 58, 96
+  offset: 0, 0
+  index: -1
+guaiD4d/yi
+  rotate: false
+  xy: 138, 48
+  size: 86, 78
+  orig: 86, 78
+  offset: 0, 0
+  index: -1
+guaiD4d/youjiao
+  rotate: true
+  xy: 2, 31
+  size: 95, 134
+  orig: 95, 134
+  offset: 0, 0
+  index: -1
+guaiD4d/youshou1
+  rotate: false
+  xy: 473, 72
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+guaiD4d/zuoshou
+  rotate: false
+  xy: 426, 76
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1

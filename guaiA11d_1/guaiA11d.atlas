@@ -1,0 +1,76 @@
+
+guaiA11d.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA11d/guaiA11d_armL
+  rotate: false
+  xy: 725, 64
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+guaiA11d/guaiA11d_armR
+  rotate: false
+  xy: 793, 65
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+guaiA11d/guaiA11d_body
+  rotate: false
+  xy: 2, 2
+  size: 85, 118
+  orig: 85, 118
+  offset: 0, 0
+  index: -1
+guaiA11d/guaiA11d_hand
+  rotate: false
+  xy: 599, 38
+  size: 63, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+guaiA11d/guaiA11d_head
+  rotate: false
+  xy: 664, 43
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1
+guaiA11d/guaiA11e01
+  rotate: false
+  xy: 89, 20
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guaiA11d/guaiA11e02
+  rotate: false
+  xy: 191, 20
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guaiA11d/guaiA11e03
+  rotate: false
+  xy: 293, 20
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guaiA11d/guaiA11e04
+  rotate: false
+  xy: 395, 20
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guaiA11d/guaiA11e05
+  rotate: false
+  xy: 497, 20
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

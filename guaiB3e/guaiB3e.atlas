@@ -1,0 +1,125 @@
+
+guaiB3e.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB3e/body
+  rotate: false
+  xy: 2, 17
+  size: 134, 108
+  orig: 134, 108
+  offset: 0, 0
+  index: -1
+guaiB3e/jian1
+  rotate: true
+  xy: 461, 42
+  size: 83, 126
+  orig: 83, 126
+  offset: 0, 0
+  index: -1
+guaiB3e/jian2
+  rotate: false
+  xy: 278, 4
+  size: 91, 121
+  orig: 91, 121
+  offset: 0, 0
+  index: -1
+guaiB3e/jian3
+  rotate: false
+  xy: 371, 2
+  size: 88, 123
+  orig: 88, 123
+  offset: 0, 0
+  index: -1
+guaiB3e/left arm
+  rotate: true
+  xy: 812, 5
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+guaiB3e/left foot
+  rotate: false
+  xy: 499, 7
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+guaiB3e/left hand
+  rotate: true
+  xy: 138, 26
+  size: 99, 138
+  orig: 99, 138
+  offset: 0, 0
+  index: -1
+guaiB3e/left leg
+  rotate: false
+  xy: 974, 82
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+guaiB3e/left shoulder
+  rotate: false
+  xy: 921, 69
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+guaiB3e/right arm
+  rotate: true
+  xy: 870, 2
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+guaiB3e/right foot
+  rotate: false
+  xy: 461, 3
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+guaiB3e/right hand
+  rotate: true
+  xy: 926, 14
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+guaiB3e/right leg
+  rotate: false
+  xy: 867, 60
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+guaiB3e/right shoulder
+  rotate: false
+  xy: 682, 36
+  size: 76, 89
+  orig: 76, 89
+  offset: 0, 0
+  index: -1
+guaiB3e/tou
+  rotate: false
+  xy: 589, 28
+  size: 91, 97
+  orig: 91, 97
+  offset: 0, 0
+  index: -1
+guaiB3e/underwear
+  rotate: true
+  xy: 812, 51
+  size: 74, 53
+  orig: 74, 53
+  offset: 0, 0
+  index: -1
+guaiB3e/xiaba
+  rotate: true
+  xy: 760, 43
+  size: 82, 50
+  orig: 82, 50
+  offset: 0, 0
+  index: -1

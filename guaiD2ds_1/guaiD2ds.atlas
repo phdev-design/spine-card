@@ -1,0 +1,83 @@
+
+guaiD2ds.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD2ds/01
+  rotate: false
+  xy: 2, 76
+  size: 250, 50
+  orig: 250, 50
+  offset: 0, 0
+  index: -1
+guaiD2ds/02
+  rotate: false
+  xy: 2, 24
+  size: 250, 50
+  orig: 250, 50
+  offset: 0, 0
+  index: -1
+guaiD2ds/03
+  rotate: false
+  xy: 254, 76
+  size: 250, 50
+  orig: 250, 50
+  offset: 0, 0
+  index: -1
+guaiD2ds/04
+  rotate: false
+  xy: 254, 24
+  size: 250, 50
+  orig: 250, 50
+  offset: 0, 0
+  index: -1
+guaiD2ds/05
+  rotate: false
+  xy: 506, 76
+  size: 250, 50
+  orig: 250, 50
+  offset: 0, 0
+  index: -1
+guaiD2ds/guaiD2d_body
+  rotate: false
+  xy: 848, 53
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+guaiD2ds/guaiD2d_hand1
+  rotate: false
+  xy: 573, 45
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+guaiD2ds/guaiD2d_hand2
+  rotate: false
+  xy: 914, 101
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+guaiD2ds/guaiD2d_head
+  rotate: false
+  xy: 758, 49
+  size: 88, 77
+  orig: 88, 77
+  offset: 0, 0
+  index: -1
+guaiD2ds/guaiD2d_leg
+  rotate: true
+  xy: 506, 2
+  size: 31, 55
+  orig: 31, 55
+  offset: 0, 0
+  index: -1
+guaiD2ds/guaiD2d_tail
+  rotate: false
+  xy: 506, 35
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1

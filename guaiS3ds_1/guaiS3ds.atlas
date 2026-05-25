@@ -1,0 +1,144 @@
+
+guaiS3ds.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS3ds/13
+  rotate: false
+  xy: 2, 528
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/14
+  rotate: false
+  xy: 2, 170
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/15
+  rotate: false
+  xy: 368, 528
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/16
+  rotate: false
+  xy: 368, 170
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/guaiS3d_body
+  rotate: false
+  xy: 2, 81
+  size: 217, 87
+  orig: 217, 87
+  offset: 0, 0
+  index: -1
+guaiS3ds/guaiS3d_head
+  rotate: false
+  xy: 734, 733
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+guaiS3ds/guaiS3d_legL
+  rotate: false
+  xy: 2, 2
+  size: 44, 77
+  orig: 44, 77
+  offset: 0, 0
+  index: -1
+guaiS3ds/guaiS3d_legR
+  rotate: false
+  xy: 221, 102
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+guaiS3ds/guaiS3d_mouth
+  rotate: false
+  xy: 909, 860
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+guaiS3ds/guaiS3d_wing
+  rotate: false
+  xy: 734, 780
+  size: 173, 104
+  orig: 173, 104
+  offset: 0, 0
+  index: -1
+
+guaiS3ds2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS3ds/17
+  rotate: false
+  xy: 2, 360
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/18
+  rotate: false
+  xy: 2, 2
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/19
+  rotate: false
+  xy: 368, 360
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/20
+  rotate: false
+  xy: 368, 2
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+
+guaiS3ds3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS3ds/21
+  rotate: false
+  xy: 2, 360
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/22
+  rotate: false
+  xy: 2, 2
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/23
+  rotate: false
+  xy: 368, 360
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1
+guaiS3ds/24
+  rotate: false
+  xy: 368, 2
+  size: 364, 356
+  orig: 364, 356
+  offset: 0, 0
+  index: -1

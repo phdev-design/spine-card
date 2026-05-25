@@ -1,0 +1,69 @@
+
+guaiB7ds.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB7ds/Glow
+  rotate: true
+  xy: 2, 49
+  size: 195, 285
+  orig: 195, 285
+  offset: 0, 0
+  index: -1
+guaiB7ds/TX1
+  rotate: false
+  xy: 2, 246
+  size: 616, 263
+  orig: 616, 263
+  offset: 0, 0
+  index: -1
+guaiB7ds/YX1
+  rotate: false
+  xy: 620, 287
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+guaiB7ds/guai7B16
+  rotate: false
+  xy: 844, 427
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+guaiB7ds/guai7B17
+  rotate: false
+  xy: 289, 174
+  size: 96, 70
+  orig: 96, 70
+  offset: 0, 0
+  index: -1
+guaiB7ds/guai7B18
+  rotate: false
+  xy: 620, 250
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+guaiB7ds/guai7B19
+  rotate: false
+  xy: 387, 216
+  size: 15, 28
+  orig: 15, 28
+  offset: 0, 0
+  index: -1
+guaiB7ds/guai7B20
+  rotate: true
+  xy: 2, 2
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+guaiB7ds/guai7B21
+  rotate: false
+  xy: 289, 107
+  size: 72, 65
+  orig: 72, 65
+  offset: 0, 0
+  index: -1

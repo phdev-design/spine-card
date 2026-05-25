@@ -1,0 +1,76 @@
+
+guaiS6bTexture.png
+size: 207,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS6b/gebulin
+  rotate: false
+  xy: 68, 42
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+guaiS6b/jiang1
+  rotate: false
+  xy: 120, 98
+  size: 51, 17
+  orig: 51, 17
+  offset: 0, 0
+  index: -1
+guaiS6b/jiang2
+  rotate: false
+  xy: 2, 18
+  size: 64, 18
+  orig: 64, 18
+  offset: 0, 0
+  index: -1
+guaiS6b/pao
+  rotate: false
+  xy: 173, 96
+  size: 34, 19
+  orig: 34, 19
+  offset: 0, 0
+  index: -1
+guaiS6b/shenqi
+  rotate: false
+  xy: 120, 45
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+guaiS6b/shenti
+  rotate: false
+  xy: 2, 38
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+guaiS6b/weiba
+  rotate: false
+  xy: 120, 63
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+guaiS6b/yancong
+  rotate: false
+  xy: 151, 69
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1
+guaiS6b/youjiao01
+  rotate: false
+  xy: 68, 25
+  size: 42, 15
+  orig: 42, 15
+  offset: 0, 0
+  index: -1
+guaiS6b/zuojiao
+  rotate: false
+  xy: 2, 2
+  size: 42, 14
+  orig: 42, 14
+  offset: 0, 0
+  index: -1

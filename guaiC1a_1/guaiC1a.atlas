@@ -1,0 +1,55 @@
+
+guaiC1a.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC1a/guaiC1a_body
+  rotate: true
+  xy: 305, 6
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+guaiC1a/guaiC1a_head
+  rotate: true
+  xy: 183, 2
+  size: 44, 53
+  orig: 44, 53
+  offset: 0, 0
+  index: -1
+guaiC1a/guaiC1a_leg1
+  rotate: true
+  xy: 238, 15
+  size: 31, 65
+  orig: 31, 65
+  offset: 0, 0
+  index: -1
+guaiC1a/guaiC1a_leg2
+  rotate: true
+  xy: 121, 3
+  size: 43, 60
+  orig: 43, 60
+  offset: 0, 0
+  index: -1
+guaiC1a/guaiC1a_shou1
+  rotate: true
+  xy: 358, 18
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+guaiC1a/guaiC1a_shou2
+  rotate: true
+  xy: 409, 14
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+guaiC1a/guaiC1a_wuqi
+  rotate: false
+  xy: 2, 4
+  size: 117, 42
+  orig: 117, 42
+  offset: 0, 0
+  index: -1

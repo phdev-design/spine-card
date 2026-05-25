@@ -1,0 +1,34 @@
+
+guaiSSS1cTexture.png
+size: 229,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS1c/di
+  rotate: false
+  xy: 155, 198
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+guaiSSS1c/pao
+  rotate: false
+  xy: 155, 164
+  size: 72, 32
+  orig: 72, 32
+  offset: 0, 0
+  index: -1
+guaiSSS1c/shenti
+  rotate: false
+  xy: 2, 92
+  size: 151, 143
+  orig: 151, 143
+  offset: 0, 0
+  index: -1
+guaiSSS1c/tou
+  rotate: false
+  xy: 2, 2
+  size: 111, 88
+  orig: 111, 88
+  offset: 0, 0
+  index: -1

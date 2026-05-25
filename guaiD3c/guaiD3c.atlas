@@ -1,0 +1,48 @@
+
+guaiD3c.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD3c/mo1
+  rotate: false
+  xy: 156, 180
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+guaiD3c/mo2
+  rotate: false
+  xy: 2, 2
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+guaiD3c/shenti
+  rotate: false
+  xy: 2, 72
+  size: 152, 135
+  orig: 152, 135
+  offset: 0, 0
+  index: -1
+guaiD3c/yan1
+  rotate: false
+  xy: 72, 48
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+guaiD3c/yan2
+  rotate: false
+  xy: 156, 160
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+guaiD3c/zui
+  rotate: false
+  xy: 2, 36
+  size: 68, 34
+  orig: 68, 34
+  offset: 0, 0
+  index: -1

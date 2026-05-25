@@ -1,0 +1,55 @@
+
+guaiB7cTexture_1.png
+size: 436,96
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB7c_1/guaiB7c_beibu
+  rotate: false
+  xy: 131, 16
+  size: 116, 80
+  orig: 116, 80
+  offset: 0, 0
+  index: -1
+guaiB7c_1/guaiB7c_body
+  rotate: false
+  xy: 311, 46
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+guaiB7c_1/guaiB7c_head
+  rotate: false
+  xy: 249, 2
+  size: 60, 94
+  orig: 60, 94
+  offset: 0, 0
+  index: -1
+guaiB7c_1/guaiB7c_liandao
+  rotate: false
+  xy: 2, 2
+  size: 127, 94
+  orig: 127, 94
+  offset: 0, 0
+  index: -1
+guaiB7c_1/guaiB7c_pifeng
+  rotate: false
+  xy: 311, 7
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+guaiB7c_1/guaiB7c_shou1
+  rotate: false
+  xy: 381, 63
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+guaiB7c_1/guaiB7c_shou2
+  rotate: false
+  xy: 408, 66
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

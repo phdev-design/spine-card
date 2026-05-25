@@ -1,0 +1,132 @@
+
+guaiSSS10d.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiSSS10d/YX18
+  rotate: false
+  xy: 2, 122
+  size: 262, 132
+  orig: 262, 132
+  offset: 0, 0
+  index: -1
+guaiSSS10d/YX19
+  rotate: false
+  xy: 461, 112
+  size: 175, 142
+  orig: 175, 142
+  offset: 0, 0
+  index: -1
+guaiSSS10d/guaisss14
+  rotate: true
+  xy: 167, 2
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+guaiSSS10d/guaisss15
+  rotate: false
+  xy: 963, 198
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+guaiSSS10d/guaisss16
+  rotate: true
+  xy: 266, 97
+  size: 157, 193
+  orig: 157, 193
+  offset: 0, 0
+  index: -1
+guaiSSS10d/guaisss17
+  rotate: false
+  xy: 926, 155
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+guaiSSS10d/guaisss18
+  rotate: true
+  xy: 89, 2
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+guaiSSS10d/guaisss19
+  rotate: true
+  xy: 638, 127
+  size: 30, 76
+  orig: 30, 76
+  offset: 0, 0
+  index: -1
+guaiSSS10d/guaisss20
+  rotate: true
+  xy: 2, 7
+  size: 63, 85
+  orig: 63, 85
+  offset: 0, 0
+  index: -1
+guaiSSS10d/guaisss21
+  rotate: false
+  xy: 638, 159
+  size: 135, 95
+  orig: 135, 95
+  offset: 0, 0
+  index: -1
+guaiSSS10d/guaisss22
+  rotate: true
+  xy: 89, 22
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+guaiSSS10d/guaisss23
+  rotate: false
+  xy: 883, 195
+  size: 78, 59
+  orig: 78, 59
+  offset: 0, 0
+  index: -1
+guaiSSS10d/guaisss24
+  rotate: true
+  xy: 883, 154
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+guaiSSS10d/guaisss25
+  rotate: true
+  xy: 716, 125
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+guaiSSS10d/guaisss26
+  rotate: true
+  xy: 236, 87
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+guaiSSS10d/guaisss27
+  rotate: false
+  xy: 167, 35
+  size: 69, 35
+  orig: 69, 35
+  offset: 0, 0
+  index: -1
+guaiSSS10d/guaisss28
+  rotate: false
+  xy: 2, 72
+  size: 232, 48
+  orig: 232, 48
+  offset: 0, 0
+  index: -1
+guaiSSS10d/guaisss29
+  rotate: false
+  xy: 775, 167
+  size: 106, 87
+  orig: 106, 87
+  offset: 0, 0
+  index: -1

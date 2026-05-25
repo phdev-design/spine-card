@@ -1,0 +1,139 @@
+
+guaiC7e.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC7e/bi1
+  rotate: false
+  xy: 196, 17
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+guaiC7e/bi2
+  rotate: true
+  xy: 316, 85
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+guaiC7e/dai
+  rotate: true
+  xy: 249, 23
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+guaiC7e/hu1
+  rotate: true
+  xy: 106, 2
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+guaiC7e/hu2
+  rotate: true
+  xy: 276, 29
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+guaiC7e/hu3
+  rotate: true
+  xy: 74, 3
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+guaiC7e/hu4
+  rotate: true
+  xy: 2, 2
+  size: 12, 36
+  orig: 12, 36
+  offset: 0, 0
+  index: -1
+guaiC7e/hu5
+  rotate: true
+  xy: 40, 4
+  size: 10, 32
+  orig: 10, 32
+  offset: 0, 0
+  index: -1
+guaiC7e/jianjia1
+  rotate: false
+  xy: 421, 88
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+guaiC7e/jianjia2
+  rotate: false
+  xy: 353, 55
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+guaiC7e/jiao1
+  rotate: false
+  xy: 466, 93
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+guaiC7e/jiao2
+  rotate: false
+  xy: 276, 44
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+guaiC7e/mao
+  rotate: false
+  xy: 196, 70
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+guaiC7e/shenti
+  rotate: false
+  xy: 106, 17
+  size: 88, 105
+  orig: 88, 105
+  offset: 0, 0
+  index: -1
+guaiC7e/shou1
+  rotate: false
+  xy: 265, 72
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+guaiC7e/shou2
+  rotate: false
+  xy: 375, 82
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+guaiC7e/tou
+  rotate: false
+  xy: 2, 16
+  size: 102, 106
+  orig: 102, 106
+  offset: 0, 0
+  index: -1
+guaiC7e/tui1
+  rotate: false
+  xy: 316, 55
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+guaiC7e/tui2
+  rotate: false
+  xy: 375, 55
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1

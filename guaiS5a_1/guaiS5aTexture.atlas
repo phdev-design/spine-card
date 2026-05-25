@@ -1,0 +1,62 @@
+
+guaiS5aTexture_1.png
+size: 123,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS5a_1/chui
+  rotate: false
+  xy: 82, 87
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+guaiS5a_1/datui1
+  rotate: false
+  xy: 82, 52
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+guaiS5a_1/datui2
+  rotate: false
+  xy: 47, 22
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+guaiS5a_1/gun
+  rotate: false
+  xy: 47, 11
+  size: 41, 9
+  orig: 41, 9
+  offset: 0, 0
+  index: -1
+guaiS5a_1/sehnti
+  rotate: false
+  xy: 2, 57
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+guaiS5a_1/tou
+  rotate: false
+  xy: 2, 9
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+guaiS5a_1/xiaotui1
+  rotate: false
+  xy: 81, 27
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+guaiS5a_1/xiaotui2
+  rotate: false
+  xy: 90, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1

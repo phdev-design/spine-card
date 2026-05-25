@@ -1,0 +1,153 @@
+
+guaiB6aTexture.png
+size: 510,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB6a/guaiB6a_arm
+  rotate: false
+  xy: 99, 37
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_body
+  rotate: false
+  xy: 310, 87
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_eye
+  rotate: false
+  xy: 17, 8
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_finger1
+  rotate: false
+  xy: 225, 70
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_finger2
+  rotate: false
+  xy: 71, 18
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_finger3
+  rotate: false
+  xy: 500, 112
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_hand
+  rotate: false
+  xy: 35, 12
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_head
+  rotate: false
+  xy: 101, 56
+  size: 65, 67
+  orig: 65, 67
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_mouth1
+  rotate: false
+  xy: 168, 85
+  size: 67, 38
+  orig: 67, 38
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_mouth2
+  rotate: false
+  xy: 237, 91
+  size: 71, 32
+  orig: 71, 32
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_tail1
+  rotate: false
+  xy: 199, 52
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_tail2
+  rotate: false
+  xy: 2, 2
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_tail3
+  rotate: false
+  xy: 55, 12
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_tail4
+  rotate: false
+  xy: 466, 74
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_tail5
+  rotate: false
+  xy: 225, 55
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_wing
+  rotate: false
+  xy: 2, 29
+  size: 95, 44
+  orig: 95, 44
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_wing1
+  rotate: false
+  xy: 168, 50
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_wing2
+  rotate: false
+  xy: 428, 70
+  size: 36, 53
+  orig: 36, 53
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_wing3
+  rotate: false
+  xy: 2, 75
+  size: 97, 48
+  orig: 97, 48
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_wing4
+  rotate: false
+  xy: 370, 90
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+guaiB6a/guaiB6a_wing5
+  rotate: false
+  xy: 466, 86
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1

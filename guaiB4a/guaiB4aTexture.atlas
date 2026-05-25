@@ -1,0 +1,62 @@
+
+guaiB4aTexture.png
+size: 229,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB4a/YX19
+  rotate: false
+  xy: 2, 95
+  size: 175, 142
+  orig: 175, 142
+  offset: 0, 0
+  index: -1
+guaiB4a/guai4B46
+  rotate: false
+  xy: 2, 2
+  size: 101, 91
+  orig: 101, 91
+  offset: 0, 0
+  index: -1
+guaiB4a/guai4B47
+  rotate: false
+  xy: 179, 207
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+guaiB4a/guai4B48
+  rotate: false
+  xy: 105, 63
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+guaiB4a/guai4B49
+  rotate: false
+  xy: 211, 211
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+guaiB4a/guai4B50
+  rotate: false
+  xy: 136, 72
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+guaiB4a/guai4B51
+  rotate: false
+  xy: 179, 181
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+guaiB4a/guai4B52
+  rotate: false
+  xy: 105, 39
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1

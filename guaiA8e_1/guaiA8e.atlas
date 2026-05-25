@@ -1,0 +1,125 @@
+
+guaiA8e.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA8e/guaiA8e01
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guaiA8e/guaiA8e02
+  rotate: false
+  xy: 284, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guaiA8e/guaiA8e03
+  rotate: false
+  xy: 386, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guaiA8e/guaiA8e04
+  rotate: false
+  xy: 138, 61
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guaiA8e/guaiA8e05
+  rotate: false
+  xy: 240, 50
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+guaiA8e/guaiA8e_armL
+  rotate: false
+  xy: 432, 81
+  size: 78, 69
+  orig: 78, 69
+  offset: 0, 0
+  index: -1
+guaiA8e/guaiA8e_armR
+  rotate: true
+  xy: 176, 15
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+guaiA8e/guaiA8e_body
+  rotate: false
+  xy: 2, 104
+  size: 134, 148
+  orig: 134, 148
+  offset: 0, 0
+  index: -1
+guaiA8e/guaiA8e_footL
+  rotate: false
+  xy: 291, 8
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+guaiA8e/guaiA8e_footR
+  rotate: true
+  xy: 104, 61
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+guaiA8e/guaiA8e_handL
+  rotate: false
+  xy: 342, 69
+  size: 88, 81
+  orig: 88, 81
+  offset: 0, 0
+  index: -1
+guaiA8e/guaiA8e_handR
+  rotate: true
+  xy: 104, 3
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+guaiA8e/guaiA8e_head
+  rotate: false
+  xy: 138, 163
+  size: 144, 89
+  orig: 144, 89
+  offset: 0, 0
+  index: -1
+guaiA8e/guaiA8e_legL
+  rotate: false
+  xy: 236, 5
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+guaiA8e/guaiA8e_legR
+  rotate: false
+  xy: 342, 34
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+guaiA8e/guaiA8e_mouth1
+  rotate: false
+  xy: 397, 32
+  size: 51, 35
+  orig: 51, 35
+  offset: 0, 0
+  index: -1
+guaiA8e/guaiA8e_mouth2
+  rotate: true
+  xy: 488, 216
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1

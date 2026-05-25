@@ -1,0 +1,55 @@
+
+guaiD7bTexture_1.png
+size: 121,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiD7b_1/guaiD7b_body
+  rotate: false
+  xy: 58, 68
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+guaiD7b_1/guaiD7b_bu
+  rotate: false
+  xy: 103, 60
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+guaiD7b_1/guaiD7b_head
+  rotate: false
+  xy: 2, 72
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+guaiD7b_1/guaiD7b_leg1
+  rotate: false
+  xy: 76, 24
+  size: 24, 42
+  orig: 24, 42
+  offset: 0, 0
+  index: -1
+guaiD7b_1/guaiD7b_leg2
+  rotate: false
+  xy: 103, 86
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+guaiD7b_1/guaiD7b_shou1
+  rotate: false
+  xy: 2, 2
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+guaiD7b_1/guaiD7b_shou2
+  rotate: false
+  xy: 40, 20
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1

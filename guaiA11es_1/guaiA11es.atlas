@@ -1,0 +1,55 @@
+
+guaiA11es.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiA11es/03
+  rotate: false
+  xy: 2, 84
+  size: 128, 137
+  orig: 128, 137
+  offset: 0, 0
+  index: -1
+guaiA11es/guaiA11e_armL
+  rotate: false
+  xy: 321, 163
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+guaiA11es/guaiA11e_armR
+  rotate: false
+  xy: 237, 88
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+guaiA11es/guaiA11e_body
+  rotate: false
+  xy: 132, 96
+  size: 103, 125
+  orig: 103, 125
+  offset: 0, 0
+  index: -1
+guaiA11es/guaiA11e_hand
+  rotate: true
+  xy: 2, 2
+  size: 80, 112
+  orig: 80, 112
+  offset: 0, 0
+  index: -1
+guaiA11es/guaiA11e_head
+  rotate: false
+  xy: 237, 148
+  size: 82, 73
+  orig: 82, 73
+  offset: 0, 0
+  index: -1
+guaiA11es/te02
+  rotate: false
+  xy: 2, 223
+  size: 405, 24
+  orig: 405, 24
+  offset: 0, 0
+  index: -1

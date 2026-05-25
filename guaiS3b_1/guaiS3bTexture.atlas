@@ -1,0 +1,55 @@
+
+guaiS3bTexture_1.png
+size: 421,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiS3b_1/guaiS3b_body
+  rotate: false
+  xy: 2, 22
+  size: 157, 91
+  orig: 157, 91
+  offset: 0, 0
+  index: -1
+guaiS3b_1/guaiS3b_eye
+  rotate: false
+  xy: 276, 42
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+guaiS3b_1/guaiS3b_head
+  rotate: false
+  xy: 369, 74
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+guaiS3b_1/guaiS3b_legL
+  rotate: false
+  xy: 325, 52
+  size: 42, 61
+  orig: 42, 61
+  offset: 0, 0
+  index: -1
+guaiS3b_1/guaiS3b_legR
+  rotate: false
+  xy: 276, 54
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+guaiS3b_1/guaiS3b_mouth
+  rotate: false
+  xy: 2, 5
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+guaiS3b_1/guaiS3b_wing
+  rotate: false
+  xy: 161, 2
+  size: 113, 111
+  orig: 113, 111
+  offset: 0, 0
+  index: -1

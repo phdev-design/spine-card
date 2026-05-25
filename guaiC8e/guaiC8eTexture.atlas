@@ -1,0 +1,62 @@
+
+guaiC8eTexture.png
+size: 425,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiC8e/chibang1
+  rotate: false
+  xy: 333, 41
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1
+guaiC8e/chibang2
+  rotate: false
+  xy: 261, 27
+  size: 70, 99
+  orig: 70, 99
+  offset: 0, 0
+  index: -1
+guaiC8e/shenti
+  rotate: false
+  xy: 2, 35
+  size: 163, 91
+  orig: 163, 91
+  offset: 0, 0
+  index: -1
+guaiC8e/tou
+  rotate: false
+  xy: 167, 6
+  size: 92, 120
+  orig: 92, 120
+  offset: 0, 0
+  index: -1
+guaiC8e/tui1
+  rotate: false
+  xy: 333, 2
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+guaiC8e/tui2
+  rotate: false
+  xy: 380, 2
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+guaiC8e/zui1
+  rotate: false
+  xy: 2, 8
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+guaiC8e/zui2
+  rotate: false
+  xy: 261, 8
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1

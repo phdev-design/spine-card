@@ -1,0 +1,97 @@
+
+guaiB2eTexture_1.png
+size: 497,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB2e_1/guaiB2e_armL
+  rotate: false
+  xy: 386, 44
+  size: 54, 75
+  orig: 54, 75
+  offset: 0, 0
+  index: -1
+guaiB2e_1/guaiB2e_armR
+  rotate: false
+  xy: 317, 65
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+guaiB2e_1/guaiB2e_body
+  rotate: false
+  xy: 2, 10
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+guaiB2e_1/guaiB2e_footL
+  rotate: false
+  xy: 128, 8
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+guaiB2e_1/guaiB2e_footR
+  rotate: false
+  xy: 442, 41
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+guaiB2e_1/guaiB2e_hair
+  rotate: false
+  xy: 290, 16
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+guaiB2e_1/guaiB2e_hat
+  rotate: false
+  xy: 182, 27
+  size: 55, 92
+  orig: 55, 92
+  offset: 0, 0
+  index: -1
+guaiB2e_1/guaiB2e_legL
+  rotate: false
+  xy: 239, 19
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+guaiB2e_1/guaiB2e_legR
+  rotate: false
+  xy: 90, 2
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+guaiB2e_1/guaiB2e_mouth
+  rotate: false
+  xy: 442, 69
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+guaiB2e_1/guaiB2e_shoulder
+  rotate: false
+  xy: 326, 28
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+guaiB2e_1/guaiB2e_suit
+  rotate: false
+  xy: 239, 65
+  size: 76, 54
+  orig: 76, 54
+  offset: 0, 0
+  index: -1
+guaiB2e_1/guaiB2e_weapon
+  rotate: false
+  xy: 90, 36
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+guaiB4dTexture_1.png
+size: 244,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guaiB4d_1/guaiB4d_armL
+  rotate: false
+  xy: 188, 81
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+guaiB4d_1/guaiB4d_armR
+  rotate: false
+  xy: 166, 10
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+guaiB4d_1/guaiB4d_face
+  rotate: false
+  xy: 2, 7
+  size: 102, 119
+  orig: 102, 119
+  offset: 0, 0
+  index: -1
+guaiB4d_1/guaiB4d_hat
+  rotate: false
+  xy: 106, 50
+  size: 80, 76
+  orig: 80, 76
+  offset: 0, 0
+  index: -1
+guaiB4d_1/guaiB4d_jianL
+  rotate: false
+  xy: 106, 2
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+guaiB4d_1/guaiB4d_jianR
+  rotate: false
+  xy: 212, 95
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
