@@ -1,0 +1,40 @@
+{
+  "hash": "1d258dbd",
+  "configHash": "b560eee0",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "a1deae08",
+  "optimized": {
+    "@pixi-spine/all-3.8": {
+      "src": "../../viewer/node_modules/@pixi-spine/all-3.8/lib/index.mjs",
+      "file": "@pixi-spine_all-3__8.js",
+      "fileHash": "55d5af43",
+      "needsInterop": false
+    },
+    "@pixi-spine/base": {
+      "src": "../../viewer/node_modules/@pixi-spine/base/lib/index.mjs",
+      "file": "@pixi-spine_base.js",
+      "fileHash": "35c08252",
+      "needsInterop": false
+    },
+    "pixi.js": {
+      "src": "../../viewer/node_modules/pixi.js/lib/index.mjs",
+      "file": "pixi__js.js",
+      "fileHash": "38a665d5",
+      "needsInterop": false
+    },
+    "@pixi-spine/runtime-3.7": {
+      "src": "../../viewer/node_modules/@pixi-spine/runtime-3.7/lib/index.mjs",
+      "file": "@pixi-spine_runtime-3__7.js",
+      "fileHash": "314a84b9",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-KPG2LP5M": {
+      "file": "chunk-KPG2LP5M.js"
+    },
+    "chunk-DSMON2TE": {
+      "file": "chunk-DSMON2TE.js"
+    }
+  }
+}
