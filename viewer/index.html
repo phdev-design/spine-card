@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Spine Card 動態怪獸檢視器</title>
+    <link rel="stylesheet" href="/viewer/style.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="hero">
+        <h1>Spine Card 動態怪獸</h1>
+        <p>
+          這個專案原本只有靜態卡面 WebP，但每隻怪獸資料夾裡都有完整的 Spine 動畫。
+          這個檢視器會直接播放待機、行走、攻擊等動作。
+        </p>
+      </header>
+
+      <main class="layout">
+        <aside class="panel sidebar">
+          <div class="toolbar">
+            <input id="search" type="search" placeholder="搜尋怪獸名稱或 ID，例如 guaiA2b" />
+            <div class="filters">
+              <button type="button" data-filter="all" class="active">全部</button>
+              <button type="button" data-filter="playable">可出戰</button>
+            </div>
+          </div>
+          <div id="card-grid" class="card-grid"></div>
+        </aside>
+
+        <section class="panel preview-panel">
+          <div id="preview" class="preview-wrap">
+            <img id="preview-fallback" alt="" />
+            <div id="stage"></div>
+          </div>
+
+          <div class="card-info">
+            <h2 id="card-name">請選擇怪獸</h2>
+            <p id="card-meta"></p>
+            <div id="card-stats" class="card-stats"></div>
+          </div>
+
+          <div id="animation-bar" class="animation-bar"></div>
+          <div id="status" class="status"></div>
+        </section>
+      </main>
+    </div>
+
+    <script type="module" src="/viewer/main.js"></script>
+  </body>
+</html>
